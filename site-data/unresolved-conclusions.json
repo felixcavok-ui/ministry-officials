@@ -1,0 +1,206 @@
+[
+  {
+    "unit_id": "U000055",
+    "unit_name": "中国气象局",
+    "post": "书记",
+    "start": "2000-01-01",
+    "end": "2000-11-01",
+    "gap_id": "G00001544~2000-01",
+    "conclusion": "有明确书目线索，尚未取得关键页面；不能断言查不到。",
+    "checked": "中国气象局相关新闻、人民日报历史版、福建气象志公开文本、安徽省气象志目录。",
+    "missing": "1999年11月30日赴皖的“中国气象局党组书记”照片说明完整姓名。",
+    "next": "查阅《安徽省气象志（1986—2005）》卷首照片或同期安徽日报；现有免费目录只显示被截断的题注。",
+    "sources": [
+      "https://shizhiku.com/p/detail/wpebd5c6d024/",
+      "https://meta.librarydata.cn/bookview?gid=130032020220007074&sid=130010020220000020&vol=001"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000067",
+    "unit_name": "国家中医药管理局",
+    "post": "书记",
+    "start": "2000-01-01",
+    "end": "2000-04-01",
+    "gap_id": "G00001932~2000-01",
+    "conclusion": "在已检索公开资料中未证实朱庆生任本局党组书记，保留身份未知。",
+    "checked": "国家中医药管理局1999年文件、公开履历、学会资料及同期报道。",
+    "missing": "本人本局党职称谓；现有材料只直接列局长。",
+    "next": "查卫生年鉴、国家中医药管理局机关党史或当年党组任免文件。",
+    "sources": [
+      "https://www.natcm.gov.cn/bangongshi/zhengcewenjian/2018-03-24/1226.html"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000070",
+    "unit_name": "国家消防救援局",
+    "post": "书记",
+    "start": "2023-01-01",
+    "end": "2024-01-01",
+    "gap_id": "G00002025~2023-01",
+    "conclusion": "查明徐平任政委及应急管理部党委委员，但未证实其任本局党委书记；这两个头衔不能替代。",
+    "checked": "2023年人民网专访、消防救援机构改革及2024年接任报道。",
+    "missing": "2023年国家消防救援局本级党委书记的明确姓名或该岗位当年设置说明。",
+    "next": "查2023年国家消防救援局党委成立、领导班子分工原件。",
+    "sources": [
+      "https://js.119.gov.cn/202303/jsxfww-menu-zxft-zxftlb_c_0dfc77d78d6e494ebd39.html",
+      "https://www.thepaper.cn/newsDetail_forward_26031298"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000100",
+    "unit_name": "国务院侨务办公室",
+    "post": "书记",
+    "start": "2000-01-01",
+    "end": "2003-01-01",
+    "gap_id": "G00002984~2000-01",
+    "conclusion": "公开材料明确郭东坡任主任，未取得其任侨办党组书记的直接称谓。",
+    "checked": "侨办官网旧页、华侨华人年度大事记、人民日报历史版和地方侨务志。",
+    "missing": "本机构本人党职。",
+    "next": "查国务院侨办机关党组名录或中国侨务年鉴组织机构篇。",
+    "sources": [
+      "https://www.gqb.gov.cn/node2/node3/node42/node47/node71/userobject7ai636.html",
+      "https://cn.govopendata.com/renminribao/2001/1/6/2/"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000112",
+    "unit_name": "国家食品药品监督管理局",
+    "post": "行政正职",
+    "start": "2003-03-01",
+    "end": "2003-05-01",
+    "gap_id": "G00003369",
+    "conclusion": "新机构2003年3—4月负责人仍未确认；资料多数记5月起任，不能把机构组建自动当个人任命。",
+    "checked": "郑筱萸履历、2004记者会实录、2003改组及2007案件回顾报道。",
+    "missing": "新机构3—4月在任/代行职责的明确记录。",
+    "next": "查2003年国务院任免、药监局首批公文签发和挂牌会议原文。",
+    "sources": [
+      "https://news.sina.com.cn/c/2004-05-27/11283348764.shtml",
+      "https://finance.sina.cn/sa/2007-07-23/detail-ikknscsi4712225.d.html?from=wap"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000113",
+    "unit_name": "国家安全生产监督管理总局",
+    "post": "书记",
+    "start": "2001-01-01",
+    "end": "2001-02-01",
+    "gap_id": "G00003400~2001-01",
+    "conclusion": "1月负责人仍未直接确认；已发现2000年12月设立、2001年2月挂牌的区别，不能把1月简单删为机构不存在。",
+    "checked": "2000年末三定沿革线索、2001年全国安监会议及张宝明署名文章。",
+    "missing": "2001年1月在新安监名义下履职的记录，或同一机构两块牌子下原负责人自动延续的具体依据。",
+    "next": "查国办发2000年末三定原文和2001年1月机关公文。",
+    "sources": [
+      "https://rmrb.zhouenlai.info/人民日报（1946-2003）/2001/04/2001-04-23.htm",
+      "https://www.npc.gov.cn/npc/c2/c189/c222/201905/t20190522_82387.html"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000113",
+    "unit_name": "国家安全生产监督管理总局",
+    "post": "行政正职",
+    "start": "2001-01-01",
+    "end": "2001-02-01",
+    "gap_id": "G00003401~2001-01",
+    "conclusion": "1月负责人仍未直接确认；已发现2000年12月设立、2001年2月挂牌的区别，不能把1月简单删为机构不存在。",
+    "checked": "2000年末三定沿革线索、2001年全国安监会议及张宝明署名文章。",
+    "missing": "2001年1月在新安监名义下履职的记录，或同一机构两块牌子下原负责人自动延续的具体依据。",
+    "next": "查国办发2000年末三定原文和2001年1月机关公文。",
+    "sources": [
+      "https://rmrb.zhouenlai.info/人民日报（1946-2003）/2001/04/2001-04-23.htm",
+      "https://www.npc.gov.cn/npc/c2/c189/c222/201905/t20190522_82387.html"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000118",
+    "unit_name": "国家粮食局",
+    "post": "书记",
+    "start": "2000-01-01",
+    "end": "2000-03-01",
+    "gap_id": "G00003560~2000-01",
+    "conclusion": "2000年1—2月新粮食局的两职尚未确认；高铁生的前身粮储局和中储粮职务不能直接移入。",
+    "checked": "粮食机构沿革、聂振邦起任资料、国务院2000任免检索及中储粮组建文件线索。",
+    "missing": "新局首任领导在1—2月的到任、主持或待配备说明。",
+    "next": "查2000中国粮食年鉴组织机构篇及首届干部会记录。",
+    "sources": [
+      "https://zh.wikisource.org/zh-hans/Portal:中华人民共和国国务院任免人员/第九届/2000年"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000118",
+    "unit_name": "国家粮食局",
+    "post": "行政正职",
+    "start": "2000-01-01",
+    "end": "2000-03-01",
+    "gap_id": "G00003561~2000-01",
+    "conclusion": "2000年1—2月新粮食局的两职尚未确认；高铁生的前身粮储局和中储粮职务不能直接移入。",
+    "checked": "粮食机构沿革、聂振邦起任资料、国务院2000任免检索及中储粮组建文件线索。",
+    "missing": "新局首任领导在1—2月的到任、主持或待配备说明。",
+    "next": "查2000中国粮食年鉴组织机构篇及首届干部会记录。",
+    "sources": [
+      "https://zh.wikisource.org/zh-hans/Portal:中华人民共和国国务院任免人员/第九届/2000年"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000119",
+    "unit_name": "国家国内贸易局",
+    "post": "书记",
+    "start": "2000-01-01",
+    "end": "2001-02-19",
+    "gap_id": "G00003592",
+    "conclusion": "已检索资料仅证实杨树德局长，未证实其本局党组书记身份。",
+    "checked": "机构三定、全国三绿工程部委联合文件、本人公开简历。",
+    "missing": "国家国内贸易局党组负责人姓名；机关党委设置不能代替局党组。",
+    "next": "查1998—2001国内贸易年鉴领导名录。",
+    "sources": [
+      "https://www.zgspws.com/html/2000/6/200006261.pdf"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  },
+  {
+    "unit_id": "U000130",
+    "unit_name": "国家出入境检验检疫局",
+    "post": "书记",
+    "start": "2000-01-01",
+    "end": "2001-04",
+    "gap_id": "G00003944",
+    "conclusion": "现有资料明确行政局长；党职命中多为2001年后的质检总局，未用后继机构党职回填旧局。",
+    "checked": "1999—2000国务院任免、原检验检疫机构组建方案、后继质检总局资料。",
+    "missing": "旧国家出入境检验检疫局党组负责人明确原文。",
+    "next": "查1999—2001中国出入境检验检疫年鉴领导机构。",
+    "sources": [
+      "https://www.rmrb.zhouenlai.info/人民日报（1946-2003）/1999/12/1999-12-03.htm"
+    ],
+    "search_date": "2026-09-19",
+    "status": "insufficient_public_evidence",
+    "scope_limit": "本结论仅限本轮及此前实际检索到的可访问公开材料，不表示证明了所有公开和纸本资料均不存在。"
+  }
+]
