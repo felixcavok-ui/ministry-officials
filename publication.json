@@ -1,0 +1,15 @@
+{
+  "schema": "ccld-github-pages-publication-v1",
+  "project": "ministry-officials",
+  "evidenceRouting": "shared-view-with-redirects-v1",
+  "releaseId": "SL-20261018-80e7aa59f3c07094",
+  "repository": "felixcavok-ui/ministry-officials",
+  "basePath": "/ministry-officials",
+  "releaseTag": "review-20261023-80e7aa59f3c07094",
+  "inputFingerprint": "1e380d5b69d049b8096c269f777cdac1554f92cde0dc0c5d73410349a9db2f05",
+  "masterSha256": "5a0b6241f61dc275da3de32762b9f1ae2194f994ee5464e87748fdbbd6d8eb46",
+  "candidate_sha256": "ae67d456d547c443ec5fd0b049883d51c998375ad9068b329d4d85355fded2aa",
+  "candidateStatus": "candidate",
+  "smoke": false,
+  "generatedAt": "2026-10-23T08:57:21.414Z"
+}

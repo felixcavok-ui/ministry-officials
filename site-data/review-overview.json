@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "candidate_sha256": "ec0067810108fe46883cb95db9a0738fa7d75850e0a40607b941582f1b2eed9a",
+  "as_of_date": "2026-09-09",
+  "source_audit_sha256": "72911057bd9944a56eddb90a688c5f63a8147acfb23c6da71f6a992a6be86df3",
+  "coverage_report_sha256": "5f24fe6af077be3754c984b805befa01924c6e9ff426b3e478bc6a0c43977626",
+  "machine_findings": {
+    "total": 4,
+    "by_code": {
+      "OFFICE_ANNOUNCEMENT_SOURCE_UNVERIFIED": 3,
+      "OFFICE_CAREER_BOUNDARY_UNRESOLVED": 1
+    },
+    "errors": 0
+  },
+  "alignment_targets": {
+    "OFFICE_CAREER_MATCH_MISSING": 0,
+    "OFFICE_CAREER_BOUNDARY_UNRESOLVED": 1
+  },
+  "coverage_review": {
+    "precision_hints": 102,
+    "research_boundary_hints": 7,
+    "other_warnings": 0,
+    "errors": 0
+  },
+  "source_review": {
+    "office": {
+      "audited_endpoints": 1816,
+      "dated_endpoints": 1641,
+      "supported_endpoints": 1069,
+      "review_endpoints": 572,
+      "no_dated_endpoints": 175,
+      "whole_source_completeness_certified": false
+    },
+    "career": {
+      "audited_endpoints": 14442,
+      "dated_endpoints": 10023,
+      "supported_endpoints": 4593,
+      "review_endpoints": 5430,
+      "no_dated_endpoints": 4419,
+      "whole_source_completeness_certified": false
+    }
+  },
+  "unsigned_adjudications": 372,
+  "coverage_days": {
+    "named_days": 1283768,
+    "structural_days": 1439570,
+    "eligible_days": 1439570
+  },
+  "formal_release": false,
+  "whole_source_completeness_certified": false,
+  "counting_note": "检查发现、覆盖提示、端点语境和审阅事项分别计数，不是人数，不能相加为错误总数。遍历过端点不代表其原文语义已自动核定；未填日期也不自动视为错误。"
+}

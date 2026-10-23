@@ -1,0 +1,333 @@
+{
+  "dataset": "CCLD",
+  "version": "0.2.0",
+  "release_status": "candidate",
+  "package_type": "source_quality_review_not_signed_release",
+  "candidate_sha256": "ae67d456d547c443ec5fd0b049883d51c998375ad9068b329d4d85355fded2aa",
+  "candidate_content_sha256": "e06e1eb974829549bab03c439710f01eaf838ce550750fda7f1bf35af00e7f71",
+  "as_of_date": "2026-09-09",
+  "schema_version": "0.1.0",
+  "unsigned_review_export": true,
+  "formal_release_approval": false,
+  "files": [
+    {
+      "path": "csv/adjudications.csv",
+      "sha256": "96b006c56a7acfab3d88e06a0bace28098920b83505032d17dc627144fe5b7f0",
+      "bytes": 735925,
+      "rows": 970
+    },
+    {
+      "path": "csv/audit_events.csv",
+      "sha256": "7c47c225fd646d3818c7f662c3f47a50bf85b37dded62e917df437cb81a01227",
+      "bytes": 174,
+      "rows": 0
+    },
+    {
+      "path": "csv/career_spells.csv",
+      "sha256": "da925646f8ce7cbfb0a15d036f7f58bdac70f59791b806d8bbaefb82883d09c5",
+      "bytes": 2197996,
+      "rows": 7477
+    },
+    {
+      "path": "csv/claims.csv",
+      "sha256": "f5e2d591696adb9e921ea4b84ded2b4a2b8670f5f81c36471c97c2637f5e7e97",
+      "bytes": 168,
+      "rows": 0
+    },
+    {
+      "path": "csv/counties.csv",
+      "sha256": "a2dc91dbdecfaf357c7ec0a998cab82faf8eabc298919634151b1dba3be3dec1",
+      "bytes": 27345,
+      "rows": 131
+    },
+    {
+      "path": "csv/county_changes.csv",
+      "sha256": "efffec9df7a63b12951abf516fe9971f32b011747830bb16767a7c1741cf2cce",
+      "bytes": 174,
+      "rows": 0
+    },
+    {
+      "path": "csv/county_leader_year.csv",
+      "sha256": "e52ed1ebbaef46218dd122a21623fdc7f4e9cef83f7412db42a499c80740a2dc",
+      "bytes": 719398,
+      "rows": 5030
+    },
+    {
+      "path": "csv/evidence.csv",
+      "sha256": "9332c9e795b617b11e6737abbbdcac84cae7b5c86e9da8c1d1e5734640581fb1",
+      "bytes": 25320964,
+      "rows": 25515
+    },
+    {
+      "path": "csv/office_gaps.csv",
+      "sha256": "af26aca918b6475cba26fe7f6453fd5015779ff0204da98a8dc0847f3de7588b",
+      "bytes": 148513,
+      "rows": 282
+    },
+    {
+      "path": "csv/office_spells.csv",
+      "sha256": "6f3bbefead575db5714606dc6f9b0cfe55ce8a9c2fe74f1ba60383bc065ce765",
+      "bytes": 506049,
+      "rows": 952
+    },
+    {
+      "path": "csv/persons.csv",
+      "sha256": "f12a85ff410d67af459be2379ea75a368ee7c1f514ca14272316d830c44f79cd",
+      "bytes": 275380,
+      "rows": 440
+    },
+    {
+      "path": "csv/publishers.csv",
+      "sha256": "57a28a0ebac3a14d577504a4eecb90b0bec34b78b538f6a98a0580be89390936",
+      "bytes": 64003,
+      "rows": 485
+    },
+    {
+      "path": "csv/record_evidence_links.csv",
+      "sha256": "182cdf576676fd3e217f04b6025be87433b3363790fb3bbf345366cb36f900cd",
+      "bytes": 118,
+      "rows": 0
+    },
+    {
+      "path": "csv/record_revisions.csv",
+      "sha256": "f6db4ec142f663b43df226a0bad101ee91944dfd601eac783d6d3256948b9eb7",
+      "bytes": 177,
+      "rows": 0
+    },
+    {
+      "path": "csv/snapshots.csv",
+      "sha256": "8c6efbca86c7ea3e557ef2f1d2ec082074306734b532b5f83d99cd1a2b5bbad5",
+      "bytes": 1289333,
+      "rows": 2302
+    },
+    {
+      "path": "documentation/career-endpoint-audit.json",
+      "sha256": "f61535857944f916a6b77925badf7db0aab4fc70138bd9748a82603449faddda",
+      "bytes": 57820514,
+      "rows": null
+    },
+    {
+      "path": "documentation/codebook.md",
+      "sha256": "9e21579ce05500b628cd6ced8e5103e21acfe0a2c898b50bb6489f7df148d32f",
+      "bytes": 50365,
+      "rows": null
+    },
+    {
+      "path": "documentation/date-basis.md",
+      "sha256": "6321b1a542aec7cd7450fcc1c5267d5da2c1199cc87ca5655cd1e7bcafb7bb95",
+      "bytes": 3282,
+      "rows": null
+    },
+    {
+      "path": "documentation/evidence-date-contexts.json",
+      "sha256": "5a4c0a2d566f3f986fab6dfee4667487ba712c58d46104baff8ecd5c088a62ed",
+      "bytes": 486924,
+      "rows": null
+    },
+    {
+      "path": "documentation/evidence-usage.json",
+      "sha256": "162d5a3133d61119cafacf7979967b8d1e93e5872e3207fc50138495527dfe4d",
+      "bytes": 13509956,
+      "rows": null
+    },
+    {
+      "path": "documentation/record-classifications.json",
+      "sha256": "898cfe6f83b6ce159fd6afa8ca176cade265e572018f5a5fe7119c641b6d6279",
+      "bytes": 3616,
+      "rows": null
+    },
+    {
+      "path": "documentation/research-scope.json",
+      "sha256": "f37969bf6a6b838dcdc3ff9a7c5666ba28c3d7113a253abcd88d1526bece6894",
+      "bytes": 56642,
+      "rows": null
+    },
+    {
+      "path": "dta/adjudications.dta",
+      "sha256": "df57e9ba5b359c5e591520b0683ba8b090714fe1f26b6d262773e7bf620f4203",
+      "bytes": 627162,
+      "rows": null
+    },
+    {
+      "path": "dta/audit_events.dta",
+      "sha256": "a0aaecb800324751a3e7ba6acc3a0f1670237c43f7018448df6e7210a10b337f",
+      "bytes": 9515,
+      "rows": null
+    },
+    {
+      "path": "dta/career_spells.dta",
+      "sha256": "cbb46968028498c5174e7cb05283c583f37148c866b52c35a047faeff0debc6f",
+      "bytes": 2946777,
+      "rows": null
+    },
+    {
+      "path": "dta/claims.dta",
+      "sha256": "7d2e0c2c070b4a9c59c35c159ed7c78adb3b6f0e9dd207aff030d6385a15cd1d",
+      "bytes": 8235,
+      "rows": null
+    },
+    {
+      "path": "dta/counties.dta",
+      "sha256": "4ea879686d294edc25a01665017d23279672cadb5090e71f08ad75ef044d0fa6",
+      "bytes": 47347,
+      "rows": null
+    },
+    {
+      "path": "dta/county_changes.dta",
+      "sha256": "8da2a37406e2c513e538ce02c6f68242b4f29ae954656d8c44831a25a07619b5",
+      "bytes": 8875,
+      "rows": null
+    },
+    {
+      "path": "dta/county_leader_year.dta",
+      "sha256": "43c22c77c54346ebfa1a837313923a721dd3ac414dfb1f181f9d79a0a8812d3b",
+      "bytes": 1119453,
+      "rows": null
+    },
+    {
+      "path": "dta/evidence.dta",
+      "sha256": "3d0cc544c3de4120b4aadf3be7cf196ee93a5bfbd219e00314748e73841e2b9d",
+      "bytes": 11127944,
+      "rows": null
+    },
+    {
+      "path": "dta/office_gaps.dta",
+      "sha256": "56be01bfe86de7a06aac0ba9835e19521bc84b757129858f728378595f65cb0a",
+      "bytes": 179120,
+      "rows": null
+    },
+    {
+      "path": "dta/office_spells.dta",
+      "sha256": "d6b3054842cd6b705af5830ce12cc1d4f66fab0e808a2e9844770fa14d6ee371",
+      "bytes": 784564,
+      "rows": null
+    },
+    {
+      "path": "dta/persons.dta",
+      "sha256": "ce9d34790e0c4aa656141a5d8a59f4912cece4fa522f81c0fc766f07c77bf7bc",
+      "bytes": 379692,
+      "rows": null
+    },
+    {
+      "path": "dta/publishers.dta",
+      "sha256": "5a4e8b7de37e157d3ca4531d82510569237cc3c02a3b20c46256150285d3c90b",
+      "bytes": 91834,
+      "rows": null
+    },
+    {
+      "path": "dta/record_evidence_links.dta",
+      "sha256": "6bfb9e66a61ca960dfffc0451d1979a62aefaec94d4baa6a5d38c98c281c9bd0",
+      "bytes": 6955,
+      "rows": null
+    },
+    {
+      "path": "dta/record_revisions.dta",
+      "sha256": "6bcc8c8aee46019ac6a9ab1f412911feb5a51c8b82298619cc6e59906580abbe",
+      "bytes": 8235,
+      "rows": null
+    },
+    {
+      "path": "dta/snapshots.dta",
+      "sha256": "c9f75bd845a1c8b12739efe2830da5eddc99139af6d6a59f173fdbf4596efb82",
+      "bytes": 1642138,
+      "rows": null
+    },
+    {
+      "path": "parquet/adjudications.parquet",
+      "sha256": "f2b2759755aa2e10b0eda0ca06e84449f1061450345bcce39575307c9f8f18d0",
+      "bytes": 155821,
+      "rows": null
+    },
+    {
+      "path": "parquet/audit_events.parquet",
+      "sha256": "92d3594e7913039e06fdb39b51983ab4550f1ec6e9e2833e2933b9a13e0db930",
+      "bytes": 6763,
+      "rows": null
+    },
+    {
+      "path": "parquet/career_spells.parquet",
+      "sha256": "fa9401dfa1553b2565d3f754a0f32a5fd4779f5547095d70ef0c351b23b68384",
+      "bytes": 731637,
+      "rows": null
+    },
+    {
+      "path": "parquet/claims.parquet",
+      "sha256": "6ebd2e7db2566b4cd2435b7d698fed6f6b402750de8780b073cac6f0412dc7a0",
+      "bytes": 6036,
+      "rows": null
+    },
+    {
+      "path": "parquet/counties.parquet",
+      "sha256": "d4ad80e9f6fa043f52cddaca049b5a49f205f035d961e64ee7d3a6cb8ce01256",
+      "bytes": 16039,
+      "rows": null
+    },
+    {
+      "path": "parquet/county_changes.parquet",
+      "sha256": "189ffb978f1042cccc12016630dc322bae50511e43cfa83139a44a195abac109",
+      "bytes": 6411,
+      "rows": null
+    },
+    {
+      "path": "parquet/county_leader_year.parquet",
+      "sha256": "3ba21339533c4525dad498fa8d27811598eed8da1687ea3609ae8e3b56bcfd14",
+      "bytes": 111963,
+      "rows": null
+    },
+    {
+      "path": "parquet/evidence.parquet",
+      "sha256": "cb9eeff24025bd18ec3c75041141dfdb55a2ad83e97c3f716dc78b39dfbc85f8",
+      "bytes": 5669063,
+      "rows": null
+    },
+    {
+      "path": "parquet/office_gaps.parquet",
+      "sha256": "6e901d7e78b8325405fce918d68030ea1b3be1f62a7b5c1007ec03e39d2f875e",
+      "bytes": 59898,
+      "rows": null
+    },
+    {
+      "path": "parquet/office_spells.parquet",
+      "sha256": "df7d230a49aa502b838768c070c866ebb3f69355d08e5295d0fa89ecbb385b5d",
+      "bytes": 197072,
+      "rows": null
+    },
+    {
+      "path": "parquet/persons.parquet",
+      "sha256": "3aec76aa89d0e2a8dbbdb266c0b0256d22115b281ee497afd85e732ac4065bd4",
+      "bytes": 107470,
+      "rows": null
+    },
+    {
+      "path": "parquet/publishers.parquet",
+      "sha256": "077e8ebd5c95967c74c894d3ea128f3040f6b13932b50e2162f5f1de470af690",
+      "bytes": 28517,
+      "rows": null
+    },
+    {
+      "path": "parquet/record_evidence_links.parquet",
+      "sha256": "65484550c490165963c78540b6a139a143e40566fda639edea9f9025b9852ce2",
+      "bytes": 4950,
+      "rows": null
+    },
+    {
+      "path": "parquet/record_revisions.parquet",
+      "sha256": "c8c63b74fbcc03cdc1e54112132974fadb8257a2161b985a4245fda383b3254e",
+      "bytes": 6104,
+      "rows": null
+    },
+    {
+      "path": "parquet/snapshots.parquet",
+      "sha256": "17f2ee88eaafddcbbf1a41757eb1dd1f488962b7090195c4b4ea9bd8084e24f6",
+      "bytes": 622979,
+      "rows": null
+    },
+    {
+      "path": "qa-report.json",
+      "sha256": "29291d39c4845ee65512e7523795e979bdf16388219ba01b92e952d712e6e58c",
+      "bytes": 1216,
+      "rows": null
+    }
+  ],
+  "notice": "本轮原始任免证据修正审阅包；未签发，保留现有缺口及待核语境。"
+}
