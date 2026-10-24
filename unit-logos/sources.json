@@ -1,0 +1,3637 @@
+[
+  {
+    "unitId": "U000006",
+    "name": "中华人民共和国教育部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.moe.gov.cn/",
+    "assetUrl": "https://www.moe.gov.cn/images/scy_jyb_lgo_03.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 480,
+    "height": 75,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "name": "教育部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000007",
+    "name": "中华人民共和国科学技术部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.most.gov.cn/index.html",
+    "assetUrl": "https://www.most.gov.cn/assets/images/emblem170.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 170,
+    "height": 180,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.most.gov.cn/index.html",
+        "name": "科学技术部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000008",
+    "name": "中国人民银行",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.pbc.gov.cn/",
+    "assetUrl": "https://www.pbc.gov.cn/rmyh/template/common/header/index_r1_c2.jpg",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 950,
+    "height": 113,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.pbc.gov.cn/",
+        "name": "中国人民银行",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000009",
+    "name": "中华人民共和国国务院办公厅",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.gov.cn/",
+    "assetUrl": "https://www.gov.cn/images/gtrs_logo_lt.png",
+    "notes": "中国政府网由国务院办公厅主办，页眉使用国徽；此项不是国务院办公厅独立 LOGO。",
+    "width": 50,
+    "height": 54,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（国务院办公厅主办）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2016-05/11/content_5046257.htm",
+    "homepageNotes": "国务院办公厅主办的中央人民政府门户网站。"
+  },
+  {
+    "unitId": "U000010",
+    "name": "中华人民共和国外交部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mfa.gov.cn/",
+    "assetUrl": "https://www.mfa.gov.cn/web/images/cnlogo20251103.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 449,
+    "height": 124,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.fmprc.gov.cn/web/",
+        "name": "外交部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000011",
+    "name": "中华人民共和国国防部",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.mod.gov.cn/",
+    "assetUrl": "http://www.mod.gov.cn/template/tenant207/t179/img/logo.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 376,
+    "height": 60,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.mod.gov.cn/",
+        "name": "国防部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000012",
+    "name": "中华人民共和国国家发展和改革委员会",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.ndrc.gov.cn/",
+    "assetUrl": "https://www.ndrc.gov.cn/images/logonew.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 5280,
+    "height": 640,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.ndrc.gov.cn/",
+        "name": "国家发展和改革委员会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000013",
+    "name": "中华人民共和国工业和信息化部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.miit.gov.cn/",
+    "assetUrl": "https://www.miit.gov.cn/cms_files/webmiit/tplobject/gxbsy/7c75257d15f44bcb9bf47d524cd9cb65/images/logo_gh.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 60,
+    "height": 65,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.miit.gov.cn/",
+        "name": "工业和信息化部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000014",
+    "name": "中华人民共和国国家民族事务委员会",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.neac.gov.cn/",
+    "assetUrl": "https://www.neac.gov.cn/seac/xhtml/images/public/logo.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 722,
+    "height": 79,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.neac.gov.cn/",
+        "name": "国家民族事务委员会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000015",
+    "name": "中华人民共和国公安部",
+    "kind": "logo",
+    "sourcePage": "https://ywtb.mps.gov.cn/newhome/home/?Pattern=normalPattern",
+    "assetUrl": "https://ywtb.mps.gov.cn/newhome/templates/Zwfw_Fwmh/img/logo-index-new.png",
+    "notes": "公安部官方“互联网+政务服务”平台页眉使用的公安盾形标识；这是官方平台品牌图案，不称为公安部独立部门徽章或人民警察警徽。",
+    "width": 652,
+    "height": 150,
+    "iconCrop": {
+      "x": 6,
+      "y": 14,
+      "width": 128,
+      "height": 128
+    },
+    "historical": false,
+    "src": "/unit-logos/a1192f27fe4ea8f6.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mps.gov.cn/",
+        "name": "公安部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次自动抓取触发网站访问验证/防护，保留官方目录确认的官网首页。"
+  },
+  {
+    "unitId": "U000016",
+    "name": "中华人民共和国国家安全部",
+    "kind": "logo",
+    "sourcePage": "https://www.xiongan.gov.cn/2023-12/21/c_1212318716.htm",
+    "assetUrl": "https://www.xiongan.gov.cn/2023-12/21/1212318716_17031571058761n.png",
+    "notes": "雄安官网2023年官方报道展示认证“国家安全部”账号及其蓝底标识。取原图中的完整图形，未重绘，不将其描述为法定印章。",
+    "historical": false,
+    "decision": "已配图并设置官方首页导航",
+    "iconCrop": {
+      "x": 37,
+      "y": 50,
+      "width": 168,
+      "height": 168
+    },
+    "displayNote": "国家安全部官方账号标识",
+    "src": "/unit-logos/91acb0362a18bdb1.png",
+    "homepages": [
+      {
+        "url": "https://www.12339.gov.cn/",
+        "name": "国家安全机关举报受理平台",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.12339.gov.cn/",
+    "homepageNotes": "未在国务院部门网站目录发现国家安全部独立门户链接；此为官方举报受理平台首页，不是部委综合门户。"
+  },
+  {
+    "unitId": "U000017",
+    "name": "民政部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mca.gov.cn/",
+    "assetUrl": "https://www.mca.gov.cn/template/50/2564.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 547,
+    "height": 78,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mca.gov.cn/",
+        "name": "民政部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000018",
+    "name": "中华人民共和国司法部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.moj.gov.cn/?_encoding=UTF8",
+    "assetUrl": "https://www.moj.gov.cn/images/topLogo_new_3.png",
+    "notes": "已用官网正常会话读取页眉并查看原图，确认使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 514,
+    "height": 97,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.moj.gov.cn/",
+        "name": "司法部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次有界访问遇到重定向循环；链接仍为中国政府网明确列出的司法部官网，不据此推断失效。"
+  },
+  {
+    "unitId": "U000019",
+    "name": "中华人民共和国财政部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mof.gov.cn/index.htm",
+    "assetUrl": "https://www.mof.gov.cn/images/czb_logo_zwnew.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 478,
+    "height": 75,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "name": "财政部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000020",
+    "name": "人力资源和社会保障部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611&Query=",
+    "assetUrl": null,
+    "notes": "依据法定机构类别与印章标识规定采用国徽，不声称这是独立机构专用LOGO，也不声称已验证官网页眉使用。",
+    "historical": false,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "displayNote": "国徽（国家机关通用标识）",
+    "basis": "国发〔1999〕25号第3条：国务院各部委印章中央刊国徽。人社部属于国务院组成部门。",
+    "institutionSource": "https://app.www.gov.cn/govdata/gov/202303/20/498124/article.html",
+    "homepages": [
+      {
+        "url": "http://www.mohrss.gov.cn/",
+        "name": "人力资源和社会保障部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次自动抓取触发网站访问验证/防护，保留官方目录确认的官网首页。"
+  },
+  {
+    "unitId": "U000021",
+    "name": "中华人民共和国自然资源部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mnr.gov.cn/",
+    "assetUrl": "https://www.mnr.gov.cn/images/emblem_i20250822.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 582,
+    "height": 87,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mnr.gov.cn/",
+        "name": "自然资源部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000022",
+    "kind": "logo",
+    "sourcePage": "https://www.mee.gov.cn/hjzl/sthjzk/ydyhjgl/202512/W020251203577003736659.pdf#page=64",
+    "assetUrl": "https://www.mee.gov.cn/hjzl/sthjzk/ydyhjgl/202512/W020251203577003736659.pdf",
+    "iconCrop": {
+      "x": 562,
+      "y": 551,
+      "width": 154,
+      "height": 154
+    },
+    "notes": "生态环境部2025年中国移动源环境管理年报封面原图中的MEE标识。仅用于生态环境部，不用于原环境保护部。",
+    "displayNote": "2025年官方公报所用 MEE 标识",
+    "name": "中华人民共和国生态环境部",
+    "historical": false,
+    "src": "/unit-logos/4223d35bc0a07ab3.jpg",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mee.gov.cn/",
+        "name": "生态环境部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000023",
+    "name": "中华人民共和国住房和城乡建设部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mohurd.gov.cn/",
+    "assetUrl": "https://www.mohurd.gov.cn/cms_files/filemanager/1150240553/picture/202210/c43a32e5e3174982a3a7069ec34fd0aa.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 2634,
+    "height": 372,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mohurd.gov.cn/",
+        "name": "住房和城乡建设部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000024",
+    "name": "交通运输部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mot.gov.cn/",
+    "assetUrl": "https://www.mot.gov.cn/images/logo.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 835,
+    "height": 122,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mot.gov.cn/",
+        "name": "交通运输部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000025",
+    "name": "中华人民共和国水利部",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.mwr.gov.cn/",
+    "assetUrl": "http://www.mwr.gov.cn/images_index/guohui20190411.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 596,
+    "height": 107,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.mwr.gov.cn/",
+        "name": "水利部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000026",
+    "name": "农业农村部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.moa.gov.cn/",
+    "assetUrl": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 570,
+    "height": 79,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.moa.gov.cn/",
+        "name": "农业农村部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000027",
+    "name": "中华人民共和国商务部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mofcom.gov.cn/",
+    "assetUrl": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20234/62b96f9c5f5a4105b602059e2eeb986a.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 388,
+    "height": 64,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.mofcom.gov.cn/",
+        "name": "商务部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000028",
+    "name": "中华人民共和国文化和旅游部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mct.gov.cn/",
+    "assetUrl": "https://www.mct.gov.cn/images/logo-20210128.jpg",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 735,
+    "height": 117,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.mct.gov.cn/",
+        "name": "文化和旅游部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000029",
+    "name": "中华人民共和国国家卫生健康委员会",
+    "kind": "website_emblem",
+    "sourcePage": "https://zwfw.nhc.gov.cn/",
+    "assetUrl": "https://zwfw.nhc.gov.cn/images/WJW_logo_v2020.png",
+    "notes": "国家卫生健康委员会官方政务服务平台页眉使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 536,
+    "height": 76,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.nhc.gov.cn/",
+        "name": "国家卫生健康委员会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次自动抓取触发网站访问验证/防护，保留官方目录确认的官网首页。"
+  },
+  {
+    "unitId": "U000030",
+    "name": "中华人民共和国退役军人事务部",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mva.gov.cn/",
+    "assetUrl": "https://www.mva.gov.cn/images/tyswb-logo.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 768,
+    "height": 96,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.mva.gov.cn/",
+        "name": "退役军人事务部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000031",
+    "name": "中华人民共和国应急管理部",
+    "kind": "logo",
+    "sourcePage": "https://www.mem.gov.cn/xw/yjglbgzdt/202503/t20250313_516052.shtml",
+    "assetUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/202503/W020250416353574771673.jpg",
+    "notes": "已读取应急管理部正式发布文章并查看官网下载原图；此标识用于应急管理系统，应急管理部相关新媒体平台和应用软件更新使用。不是单独法定部徽，不用于2025年前历史机构。",
+    "width": 450,
+    "height": 450,
+    "historical": false,
+    "src": "/unit-logos/b51fcb428e089dae.jpg",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "displayNote": "应急管理系统官方标识（2025年发布）",
+    "homepages": [
+      {
+        "url": "https://www.mem.gov.cn/",
+        "name": "应急管理部",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000032",
+    "name": "中华人民共和国审计署",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.audit.gov.cn/",
+    "assetUrl": "https://www.audit.gov.cn/template/10015079/10015105.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 514,
+    "height": 94,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.audit.gov.cn/",
+        "name": "审计署",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000033",
+    "name": "国务院国有资产监督管理委员会",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.sasac.gov.cn/",
+    "assetUrl": "http://www.sasac.gov.cn/dbsource/16589559/16589562.jpg",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 528,
+    "height": 118,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.sasac.gov.cn/",
+        "name": "国务院国有资产监督管理委员会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000034",
+    "name": "中华人民共和国海关总署",
+    "kind": "logo",
+    "sourcePage": "https://online.customs.gov.cn/",
+    "assetUrl": "https://online.customs.gov.cn/_nuxt/img/title_logo.7f849f2.png",
+    "notes": "海关总署官方政务服务平台页眉同时展示国徽与海关关徽。选用商神手杖与金色钥匙交叉的关徽；与国徽分开。",
+    "width": 729,
+    "height": 78,
+    "iconCrop": {
+      "x": 84,
+      "y": 0,
+      "width": 70,
+      "height": 78
+    },
+    "historical": false,
+    "src": "/unit-logos/61de23d14bd990e6.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.customs.gov.cn/",
+        "name": "海关总署",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次自动抓取触发网站访问验证/防护，保留官方目录确认的官网首页。"
+  },
+  {
+    "unitId": "U000035",
+    "name": "国家税务总局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.chinatax.gov.cn/",
+    "assetUrl": "https://www.chinatax.gov.cn/chinatax/xhtml/New_chinatax/static/2023/images/public/header_logo.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 967,
+    "height": 217,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.chinatax.gov.cn/",
+        "name": "国家税务总局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000036",
+    "name": "国家市场监督管理总局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.samr.gov.cn/",
+    "assetUrl": "https://www.samr.gov.cn/cms_files/webguojiashichangjianduguanlizongju/tplobject/defaultSet/54139fb85e484b83a2366df78fb43b7f/images/logo.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 481,
+    "height": 80,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "国家市场监督管理总局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000037",
+    "name": "国家金融监督管理总局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nfra.gov.cn/cn/view/pages/index/index.html",
+    "assetUrl": "https://www.nfra.gov.cn/cn/static/images/common/header1.png",
+    "notes": "已读取官网页眉资源并查看原图，确认网站使用中华人民共和国国徽；此项不是机构专用 LOGO。",
+    "width": 750,
+    "height": 84,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nfra.gov.cn/cn/view/pages/index/index.html",
+        "name": "国家金融监督管理总局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 根页面通过 meta refresh 跳转此首页，实际首页复核HTTP200。"
+  },
+  {
+    "unitId": "U000038",
+    "name": "中国证券监督管理委员会",
+    "kind": "logo",
+    "sourcePage": "https://www.csrc.gov.cn/",
+    "assetUrl": "https://www.csrc.gov.cn/csrc/xhtml/images/index/logo_x1.png?v=1.0",
+    "notes": "证监会官网页眉配套图 logo_x1.png 中有圆形 CSRC 机构标志和“中国证监会 CSRC”字样；选用完整圆形标志区域。",
+    "width": 198,
+    "height": 183,
+    "iconCrop": {
+      "x": 61,
+      "y": 27,
+      "width": 75,
+      "height": 75
+    },
+    "historical": false,
+    "src": "/unit-logos/2f3e241dc4a305ae.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.csrc.gov.cn/",
+        "name": "中国证券监督管理委员会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000039",
+    "name": "国家广播电视总局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nrta.gov.cn/",
+    "assetUrl": "https://www.nrta.gov.cn/picture/0/2306191444469399436.png?0.668846923985",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 410,
+    "height": 70,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.nrta.gov.cn/",
+        "name": "国家广播电视总局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000040",
+    "name": "国家体育总局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.sport.gov.cn/",
+    "assetUrl": "https://www.sport.gov.cn/dbsource/24245180/24245421.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 330,
+    "height": 69,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.sport.gov.cn/",
+        "name": "国家体育总局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000041",
+    "name": "国家信访局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.gjxfj.gov.cn/gjxfj/index.htm",
+    "assetUrl": "https://www.gjxfj.gov.cn/gjxfj/img/logo.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 426,
+    "height": 65,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.gjxfj.gov.cn/gjxfj/index.htm",
+        "name": "国家信访局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000042",
+    "name": "国家统计局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.stats.gov.cn/",
+    "assetUrl": "https://www.stats.gov.cn/images/gtj2023_logo.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 362,
+    "height": 83,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.stats.gov.cn/",
+        "name": "国家统计局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000043",
+    "name": "国家知识产权局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.cnipa.gov.cn/",
+    "assetUrl": "https://www.cnipa.gov.cn/picture/0/2206161824025767678.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 598,
+    "height": 96,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cnipa.gov.cn/",
+        "name": "国家知识产权局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000044",
+    "name": "国家国际发展合作署",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.cidca.gov.cn/",
+    "assetUrl": "http://www.cidca.gov.cn/index/new/images/fzs.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 435,
+    "height": 89,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.cidca.gov.cn/",
+        "name": "国家国际发展合作署",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000045",
+    "name": "国家医疗保障局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nhsa.gov.cn/",
+    "assetUrl": "https://www.nhsa.gov.cn/picture/1/2101050941107666352.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 462,
+    "height": 85,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.nhsa.gov.cn/",
+        "name": "国家医疗保障局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000046",
+    "name": "国务院参事室",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.counsellor.gov.cn/",
+    "assetUrl": "http://www.counsellor.gov.cn/images/20190605_gwy_logo01_v1.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 74,
+    "height": 77,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.counsellor.gov.cn/",
+        "name": "国务院参事室",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000047",
+    "name": "国家机关事务管理局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.ggj.gov.cn/",
+    "assetUrl": "https://www.ggj.gov.cn/2017images/logo.jpg",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 638,
+    "height": 113,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.ggj.gov.cn/",
+        "name": "国家机关事务管理局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000048",
+    "name": "国务院研究室",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611&Query=",
+    "assetUrl": null,
+    "notes": "依据法定机构类别与印章标识规定采用国徽，不声称这是独立机构专用LOGO，也不声称已验证官网页眉使用。",
+    "historical": false,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "displayNote": "国徽（国家机关通用标识）",
+    "basis": "国发〔1999〕25号第4条：国务院直属机构、办事机构印章中央刊国徽。国务院研究室属于国务院办事机构。",
+    "institutionSource": "https://app.www.gov.cn/govdata/gov/202303/20/498124/article.html",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（政府总门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "国务院部门网站目录仅链接研究室介绍页，未核实独立门户；前端链接政府总门户，须明确不是研究室独立官网。"
+  },
+  {
+    "unitId": "U000049",
+    "name": "新华通讯社",
+    "kind": "logo",
+    "sourcePage": "https://www.xinhuanet.com/xinhuashe/jbqk.htm",
+    "assetUrl": "https://www.xinhuanet.com/xinhuashe/images/navLogo_v1.png",
+    "notes": "新华社机构简介页头的新华社社徽；不是新华网商标。页头脚本 js/ej_nav_v1.js 引用原图。",
+    "width": 182,
+    "height": 58,
+    "iconCrop": {
+      "x": 0,
+      "y": 0,
+      "width": 58,
+      "height": 58
+    },
+    "historical": false,
+    "src": "/unit-logos/0e676614e0d63a49.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.news.cn/xinhuashe/",
+        "name": "新华通讯社",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000050",
+    "name": "中国科学院",
+    "kind": "logo",
+    "sourcePage": "https://www.cas.cn/zz/yk/201410/t20141016_4225141.shtml",
+    "assetUrl": "https://www.cas.cn/zz/yk/201410/W020141016582676725624.jpg",
+    "notes": "中国科学院官方院徽说明页原图。",
+    "width": 257,
+    "height": 261,
+    "historical": false,
+    "src": "/unit-logos/e758e418a93bfb83.jpg",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cas.cn/",
+        "name": "中国科学院",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000051",
+    "name": "中国社会科学院",
+    "kind": "logo",
+    "sourcePage": "https://www.cass.cn/",
+    "assetUrl": "https://www.cass.cn/images/logo_v2019.png",
+    "notes": "中国社会科学院官网首页院标；CSS显示合图左上方图形，完整源图保留。",
+    "width": 193,
+    "height": 107,
+    "iconCrop": {
+      "x": 89,
+      "y": 0,
+      "width": 72,
+      "height": 56
+    },
+    "historical": false,
+    "src": "/unit-logos/ca24f27f48214d24.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cass.cn/",
+        "name": "中国社会科学院",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000052",
+    "name": "中国工程院",
+    "kind": "logo",
+    "sourcePage": "https://www.cae.cn/cae/html/main/col4/2024-06/26/20240626103430574571889_1.html",
+    "assetUrl": "https://www.cae.cn/cae/html/files/2024-06/26/20240626103642886602330.png",
+    "notes": "2024年6月启用的新院徽；来自官方公告原图。",
+    "width": 648,
+    "height": 562,
+    "historical": false,
+    "src": "/unit-logos/78a43e7ae1189054.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cae.cn/",
+        "name": "中国工程院",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000053",
+    "name": "国务院发展研究中心",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.drc.gov.cn/default.aspx",
+    "assetUrl": "https://www.drc.gov.cn/images/logo1.png?xxx=20231016",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 537,
+    "height": 73,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.drc.gov.cn/default.aspx",
+        "name": "国务院发展研究中心",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000054",
+    "name": "中央广播电视总台",
+    "kind": "logo",
+    "sourcePage": "https://news.cctv.com/2021/06/18/ARTIjrMJhxfR297wxjHKPugL210618.shtml",
+    "assetUrl": "https://p5.img.cctvpic.com/photoworkspace/contentimg/2021/06/18/2021061812481124273.jpg",
+    "notes": "中央广播电视总台2020年度社会责任报告明确标注的总台标识；原图含说明字样，iconCrop只显示完整CMG标志。",
+    "width": 801,
+    "height": 461,
+    "iconCrop": {
+      "x": 100,
+      "y": 99,
+      "width": 586,
+      "height": 197
+    },
+    "historical": false,
+    "src": "/unit-logos/1f42e53aff01c94d.jpg",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cctv.com/",
+        "name": "央视网（中央广播电视总台主办）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.cctv.com/special/guanyunew/gongsijianjie/index.shtml",
+    "homepageNotes": "央视网为中央广播电视总台主办的中央重点新闻网站和新媒体业务平台。"
+  },
+  {
+    "unitId": "U000055",
+    "name": "中国气象局",
+    "kind": "logo",
+    "sourcePage": "https://www.cma.gov.cn/en/",
+    "assetUrl": "https://www.cma.gov.cn/material/2023enimages/logo.png",
+    "notes": "中国气象局英文官网页头使用的圆形专用局徽，中文官网另用国徽。",
+    "width": 210,
+    "height": 54,
+    "iconCrop": {
+      "x": 0,
+      "y": 0,
+      "width": 54,
+      "height": 54
+    },
+    "historical": false,
+    "src": "/unit-logos/8e0f2831f2a72f56.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cma.gov.cn/",
+        "name": "中国气象局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000056",
+    "name": "国家粮食和物资储备局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.lswz.gov.cn/",
+    "assetUrl": "http://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 540,
+    "height": 83,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.lswz.gov.cn/",
+        "name": "国家粮食和物资储备局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000057",
+    "name": "国家能源局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nea.gov.cn/",
+    "assetUrl": "http://www.nea.gov.cn/2015nyj/xinban/bg001.jpg",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 1920,
+    "height": 518,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.nea.gov.cn/",
+        "name": "国家能源局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000058",
+    "name": "国家数据局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nda.gov.cn/sjj/index_pc.html",
+    "assetUrl": "https://www.nda.gov.cn/sjj/res/images/logo.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 1184,
+    "height": 258,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nda.gov.cn/sjj/index_pc.html",
+        "name": "国家数据局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 根页面由脚本导向桌面首页，此入口复核HTTP200。"
+  },
+  {
+    "unitId": "U000059",
+    "name": "国家国防科技工业局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.sastind.gov.cn/",
+    "assetUrl": "https://www.sastind.gov.cn/template/10089919/10089949.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 531,
+    "height": 72,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.sastind.gov.cn/",
+        "name": "国家国防科技工业局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 已确认官网重定向至 HTTPS 首页。"
+  },
+  {
+    "unitId": "U000060",
+    "name": "国家烟草专卖局",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.tobacco.gov.cn/",
+    "assetUrl": "http://www.tobacco.gov.cn/gjyc/xhtml/images/guohui2.png",
+    "notes": "官网页头另有中国烟草行业/公司合标；选取政府官网使用的国徽，避免把公司标识直接等同国家烟草专卖局。",
+    "width": 500,
+    "height": 500,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.tobacco.gov.cn/gjyc/index.shtml",
+        "name": "国家烟草专卖局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000061",
+    "name": "国家移民管理局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nia.gov.cn/",
+    "assetUrl": "https://www.nia.gov.cn/dbsource/1376645/1376646.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 481,
+    "height": 96,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nia.gov.cn/",
+        "name": "国家移民管理局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000062",
+    "name": "国家林业和草原局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.forestry.gov.cn/",
+    "assetUrl": "https://www.forestry.gov.cn/r/cms/www/default/index/images/banner.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 1921,
+    "height": 390,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.forestry.gov.cn/",
+        "name": "国家林业和草原局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 初次返回502，再次访问已获得正常官网首页（HTTP200）。"
+  },
+  {
+    "unitId": "U000063",
+    "name": "国家铁路局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.nra.gov.cn/",
+    "assetUrl": "https://www.nra.gov.cn/images/nra_logo.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 542,
+    "height": 82,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nra.gov.cn/",
+        "name": "国家铁路局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000064",
+    "name": "中国民用航空局",
+    "kind": "logo",
+    "sourcePage": "https://www.caac.gov.cn/index.html",
+    "assetUrl": "https://www.caac.gov.cn/images/Logo2.png",
+    "notes": "中国民航局官网页头右侧民航飞翼标志；完整源图左侧另含国徽。",
+    "width": 519,
+    "height": 63,
+    "iconCrop": {
+      "x": 423,
+      "y": 18,
+      "width": 96,
+      "height": 33
+    },
+    "historical": false,
+    "src": "/unit-logos/25dd3deacde82909.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.caac.gov.cn/index.html",
+        "name": "中国民用航空局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000065",
+    "name": "国家邮政局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.spb.gov.cn/",
+    "assetUrl": "https://www.spb.gov.cn/gjyzj/xhtml/images/public/logo.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 614,
+    "height": 81,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.spb.gov.cn/",
+        "name": "国家邮政局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000066",
+    "name": "国家文物局",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.ncha.gov.cn/",
+    "assetUrl": "http://www.ncha.gov.cn/picture/5/2101271549207572733.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 430,
+    "height": 110,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.ncha.gov.cn/",
+        "name": "国家文物局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000067",
+    "name": "国家中医药管理局",
+    "kind": "website_emblem",
+    "sourcePage": "http://www.natcm.gov.cn/",
+    "assetUrl": "http://www.natcm.gov.cn/d/file/p/2025/04-14/967d5f7c2877e3fc5f43597780d1af94.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 554,
+    "height": 70,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.natcm.gov.cn/",
+        "name": "国家中医药管理局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000068",
+    "name": "国家疾病预防控制局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.ndcpa.gov.cn/",
+    "assetUrl": "https://www.ndcpa.gov.cn/jbkzzx/images/gh.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 418,
+    "height": 447,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.ndcpa.gov.cn/",
+        "name": "国家疾病预防控制局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000069",
+    "name": "国家矿山安全监察局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.chinamine-safety.gov.cn/",
+    "assetUrl": "https://www.chinamine-safety.gov.cn/images/logo_jcj.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 469,
+    "height": 72,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.chinamine-safety.gov.cn/",
+        "name": "国家矿山安全监察局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000070",
+    "name": "国家消防救援局",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611&Query=",
+    "assetUrl": null,
+    "notes": "依据法定机构类别与印章标识规定采用国徽，不声称这是独立机构专用LOGO，也不声称已验证官网页眉使用。",
+    "historical": false,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "displayNote": "国徽（国家机关通用标识）",
+    "basis": "国发〔1999〕25号第7条：国务院部委管理的国家局印章中央刊国徽。国家消防救援局属于应急管理部管理的国家局。",
+    "institutionSource": "https://app.www.gov.cn/govdata/gov/202303/20/498123/article.html",
+    "homepages": [
+      {
+        "url": "https://www.119.gov.cn/",
+        "name": "国家消防救援局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次自动抓取触发网站访问验证/防护，保留官方目录确认的官网首页。"
+  },
+  {
+    "unitId": "U000071",
+    "name": "国家外汇管理局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.safe.gov.cn/",
+    "assetUrl": "https://www.safe.gov.cn/safe/templateresource/372b1dfdab204181b9b4f943a8e926a6/images/guohui.png",
+    "notes": "官网正文模板含14px国徽图，分辨率低；建议使用另行核验的标准国徽原图统一呈现。",
+    "width": 14,
+    "height": 14,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "http://www.safe.gov.cn/",
+        "name": "国家外汇管理局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。"
+  },
+  {
+    "unitId": "U000072",
+    "name": "国家药品监督管理局",
+    "kind": "website_emblem",
+    "sourcePage": "https://zwfw.nmpa.gov.cn/web/index",
+    "assetUrl": "https://zwfw.nmpa.gov.cn/websiteTwo/images/logozwfw.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 546,
+    "height": 70,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "name": "国家药品监督管理局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "据中国政府网“国务院部门网站”所列机构首页，保留其门户入口路径。 本次自动抓取触发网站访问验证/防护，保留官方目录确认的官网首页。"
+  },
+  {
+    "unitId": "U000073",
+    "name": "中华人民共和国国家发展计划委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国国家发展计划委员会为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.ndrc.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家发展改革委官网",
+    "homepageSource": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=1",
+    "homepageNotes": "按既有U000073→U000012关系链接，官网机构简介另确认1998更名及2003改组。",
+    "homepages": [
+      {
+        "url": "https://www.ndrc.gov.cn/",
+        "name": "国家发展改革委",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=1"
+  },
+  {
+    "unitId": "U000074",
+    "name": "中华人民共和国国家经济贸易委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国国家经济贸易委员会为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（多个职能承接部门）",
+    "homepageSource": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+    "homepageNotes": "原setc.gov.cn本轮未能建立连接，不用于前端。既有多个后继，主入口保持中国政府网；可用下列多个官网并列入口，不指定唯一后继。",
+    "homepageAlternatives": [
+      {
+        "name": "国家发展改革委",
+        "url": "https://www.ndrc.gov.cn/"
+      },
+      {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/"
+      },
+      {
+        "name": "国务院国资委",
+        "url": "https://www.sasac.gov.cn/"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.ndrc.gov.cn/",
+        "name": "国家发展改革委",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.mofcom.gov.cn/",
+        "name": "商务部",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.sasac.gov.cn/",
+        "name": "国务院国资委",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+  },
+  {
+    "unitId": "U000075",
+    "name": "中华人民共和国国防科学技术工业委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国国防科学技术工业委员会为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国防科学技术工业委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（多个职能承接部门）",
+    "homepageSource": "https://www.hbjmrh.gov.cn/zwgk/tzgg/7.htm",
+    "homepageNotes": "历史costind.gov.cn有当时官方材料证实，本轮未能建立连接，不用于前端。按既有两个后继提供并列官网，不指定唯一后继。",
+    "homepageAlternatives": [
+      {
+        "name": "工业和信息化部",
+        "url": "https://www.miit.gov.cn/"
+      },
+      {
+        "name": "国家国防科技工业局",
+        "url": "https://www.sastind.gov.cn/"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.miit.gov.cn/",
+        "name": "工业和信息化部",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.sastind.gov.cn/",
+        "name": "国家国防科技工业局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.hbjmrh.gov.cn/zwgk/tzgg/7.htm"
+  },
+  {
+    "unitId": "U000076",
+    "name": "中华人民共和国监察部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国监察部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国监察部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.ccdi.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中央纪委国家监委网站（原中央纪委监察部网站）",
+    "homepageSource": "https://www.ccdi.gov.cn/gywm/201412/t20141201_156653.html",
+    "homepageNotes": "官网自述2013年9月上线时名为中央纪委监察部网站，2018年3月更名，域名保持ccdi.gov.cn；仅依据网站沿革选择入口，不新增机构前后继数据。",
+    "homepages": [
+      {
+        "url": "https://www.ccdi.gov.cn/",
+        "name": "中央纪委国家监委网站（原中央纪委监察部网站）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.ccdi.gov.cn/gywm/201412/t20141201_156653.html"
+  },
+  {
+    "unitId": "U000077",
+    "name": "中华人民共和国人事部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国人事部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国人事部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mohrss.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "人力资源社会保障部官网",
+    "homepageSource": "https://www.mohrss.gov.cn/",
+    "homepageNotes": "历史mop.gov.cn未能建立连接；按既有U000077→U000020链接现行官网。",
+    "homepages": [
+      {
+        "url": "https://www.mohrss.gov.cn/",
+        "name": "人力资源社会保障部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mohrss.gov.cn/"
+  },
+  {
+    "unitId": "U000078",
+    "name": "中华人民共和国劳动和社会保障部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国劳动和社会保障部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国劳动和社会保障部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mohrss.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "人力资源社会保障部官网",
+    "homepageSource": "https://www.mohrss.gov.cn/",
+    "homepageNotes": "历史molss.gov.cn未能建立连接；按既有U000078→U000020链接现行官网。",
+    "homepages": [
+      {
+        "url": "https://www.mohrss.gov.cn/",
+        "name": "人力资源社会保障部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mohrss.gov.cn/"
+  },
+  {
+    "unitId": "U000079",
+    "name": "中华人民共和国国土资源部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国国土资源部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国土资源部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mnr.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "自然资源部官网",
+    "homepageSource": "https://www.mnr.gov.cn/",
+    "homepageNotes": "历史mlr.gov.cn未能建立连接；现行自然资源部首页HTTP200且标题核实，按既有U000079→U000021链接。",
+    "homepages": [
+      {
+        "url": "https://www.mnr.gov.cn/",
+        "name": "自然资源部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mnr.gov.cn/"
+  },
+  {
+    "unitId": "U000080",
+    "name": "中华人民共和国建设部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国建设部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国建设部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mohurd.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "住房城乡建设部官网",
+    "homepageSource": "https://www.mohurd.gov.cn/",
+    "homepageNotes": "历史cin.gov.cn未能建立连接；现行住建部首页HTTP200且标题核实，按既有U000080→U000023链接。",
+    "homepages": [
+      {
+        "url": "https://www.mohurd.gov.cn/",
+        "name": "住房城乡建设部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mohurd.gov.cn/"
+  },
+  {
+    "unitId": "U000081",
+    "name": "中华人民共和国铁道部",
+    "kind": "logo",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:China_Railways.svg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/China_Railways.svg",
+    "notes": "中国铁路路徽。文件说明明确根据原铁道部铁路标准 TB/T 1838-87 重绘，1950年首次公布；是铁道部时期已使用的行业路徽，不是2013年后新设计的企业标志。",
+    "historical": true,
+    "src": "/unit-logos/5f08d8a6ad7e0676.svg",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.nra.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家铁路局官网（行政监管职能）",
+    "homepageSource": "https://www.nra.gov.cn/",
+    "homepageNotes": "国家铁路局首页HTTP200且标题核实；按既有U000081→U000063链接，名称明确行政监管职能，不称铁道部当前官网。",
+    "homepages": [
+      {
+        "url": "https://www.nra.gov.cn/",
+        "name": "国家铁路局（行政监管职能）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nra.gov.cn/"
+  },
+  {
+    "unitId": "U000082",
+    "name": "中华人民共和国交通部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国交通部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mot.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "交通运输部官网",
+    "homepageSource": "https://www.mot.gov.cn/",
+    "homepageNotes": "按既有U000082→U000024链接。",
+    "homepages": [
+      {
+        "url": "https://www.mot.gov.cn/",
+        "name": "交通运输部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mot.gov.cn/"
+  },
+  {
+    "unitId": "U000083",
+    "name": "中华人民共和国信息产业部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国信息产业部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国信息产业部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.miit.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "工业和信息化部官网",
+    "homepageSource": "https://www.miit.gov.cn/",
+    "homepageNotes": "历史mii.gov.cn未能建立连接；按既有U000083→U000013链接。",
+    "homepages": [
+      {
+        "url": "https://www.miit.gov.cn/",
+        "name": "工业和信息化部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.miit.gov.cn/"
+  },
+  {
+    "unitId": "U000084",
+    "name": "中华人民共和国农业部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国农业部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国农业部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.moa.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "农业农村部官网",
+    "homepageSource": "https://www.moa.gov.cn/",
+    "homepageNotes": "历史农业部moa.gov.cn域名继续由农业农村部使用，已核实现行首页标题；按既有U000084→U000026链接。",
+    "homepages": [
+      {
+        "url": "https://www.moa.gov.cn/",
+        "name": "农业农村部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.moa.gov.cn/"
+  },
+  {
+    "unitId": "U000085",
+    "name": "中华人民共和国对外贸易经济合作部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国对外贸易经济合作部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国对外贸易经济合作部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mofcom.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "商务部官网",
+    "homepageSource": "https://www.mofcom.gov.cn/",
+    "homepageNotes": "历史moftec.gov.cn未能建立连接；按既有U000085→U000027链接。",
+    "homepages": [
+      {
+        "url": "https://www.mofcom.gov.cn/",
+        "name": "商务部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mofcom.gov.cn/"
+  },
+  {
+    "unitId": "U000086",
+    "name": "中华人民共和国文化部",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：中华人民共和国文化部为国务院组成部委，国发〔1999〕25号第三条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国文化部"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mct.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "文化和旅游部官网",
+    "homepageSource": "https://www.mct.gov.cn/",
+    "homepageNotes": "历史mcprc.gov.cn未能建立连接；按既有U000086→U000028链接。",
+    "homepages": [
+      {
+        "url": "https://www.mct.gov.cn/",
+        "name": "文化和旅游部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mct.gov.cn/"
+  },
+  {
+    "unitId": "U000087",
+    "name": "中华人民共和国卫生部",
+    "kind": "logo",
+    "sourcePage": "https://www.nhc.gov.cn/wjw/zcjd/200503/e480dcffdb7143d786886701a2c6f8e9.shtml",
+    "assetUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/The_ministry_of_health_of_the_People%27s_Republic_of_China.svg/500px-The_ministry_of_health_of_the_People%27s_Republic_of_China.svg.png",
+    "supportingSources": [
+      "https://www.nhc.gov.cn/zwgkzt/pzhgl1/201110/53213.shtml",
+      "https://commons.wikimedia.org/wiki/File:The_ministry_of_health_of_the_People%27s_Republic_of_China.svg"
+    ],
+    "notes": "原卫生部部徽，官方2005年标准图案及2011年卫办发〔2011〕74号通知确认。原SVG暂遇服务器限流，保存的是同一原图档服务提供的500px PNG缩略版本，未自行改变图案。不要用于2013年后卫计委/卫健委。",
+    "historical": true,
+    "src": "/unit-logos/81bafaa8c04b6945.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.nhc.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家卫生健康委官网",
+    "homepageSource": "https://www.nhc.gov.cn/",
+    "homepageNotes": "按既有U000087→U000115→U000029链接现行官网；搜索结果核实首页机构身份，直接抓取遇412防护。",
+    "homepages": [
+      {
+        "url": "https://www.nhc.gov.cn/",
+        "name": "国家卫生健康委",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nhc.gov.cn/"
+  },
+  {
+    "unitId": "U000088",
+    "name": "中华人民共和国国家人口和计划生育委员会",
+    "kind": "logo",
+    "sourcePage": "https://zh.wikipedia.org/wiki/File:Chinapop.jpg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/zh/c/c6/Chinapop.jpg",
+    "iconCrop": {
+      "x": 19,
+      "y": 18,
+      "width": 264,
+      "height": 229
+    },
+    "notes": "中国人口与计划生育标识；图档2010年上传记录指向原国家人口计生委官网 chinapop.gov.cn。原图同时含中英文字，iconCrop仅供CSS窗口展示图形；不修改原图。",
+    "historical": true,
+    "src": "/unit-logos/aafecbe006c6c1e4.jpg",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.nhc.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家卫生健康委官网",
+    "homepageSource": "https://www.nhc.gov.cn/",
+    "homepageNotes": "按既有U000088→U000115→U000029链接现行官网；搜索结果核实首页机构身份，直接抓取遇412防护。",
+    "homepages": [
+      {
+        "url": "https://www.nhc.gov.cn/",
+        "name": "国家卫生健康委",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nhc.gov.cn/"
+  },
+  {
+    "unitId": "U000089",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.mee.gov.cn/gkml/hbb/bgg/201703/W020170526412551421731.pdf#page=8",
+    "assetUrl": "https://www.mee.gov.cn/gkml/hbb/bgg/201703/W020170526412551421731.pdf",
+    "notes": "原环境保护部2016年度政府信息公开报告中的历史官网截图明确使用国徽。采用政府网标准国徽图，不将后继MEE图案配给原环保部。",
+    "displayNote": "原环境保护部官网使用国徽（2016年度公开报告）",
+    "name": "中华人民共和国环境保护部",
+    "historical": true,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.mee.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "生态环境部官网",
+    "homepageSource": "https://www.mee.gov.cn/",
+    "homepageNotes": "现行首页核实；按既有U000089→U000022链接。",
+    "homepages": [
+      {
+        "url": "https://www.mee.gov.cn/",
+        "name": "生态环境部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mee.gov.cn/"
+  },
+  {
+    "unitId": "U000090",
+    "name": "中国民用航空总局",
+    "kind": "logo",
+    "sourcePage": "https://www.caac.gov.cn/ZTZL/RDZT/NEWZH70YEAR/SYLJ/201909/t20190912_198658.html",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/CAAC_logo.svg",
+    "supportingSources": [
+      "https://commons.wikimedia.org/wiki/File:CAAC_logo.svg",
+      "https://www.caac.gov.cn/ZTZL/RDZT/DCMH70N/DSJ/201910/t20191030_199192.html"
+    ],
+    "iconCrop": {
+      "x": 3,
+      "y": 0,
+      "width": 560,
+      "height": 161
+    },
+    "notes": "中国民航标志。民航官网历史文章明确：时任民航总局副局长包培德安排李石文将局徽、中国民航字样和CAAC组成标识，且一直沿用；不是把后继新标识套用于前身。原SVG自然像素567×354；iconCrop仅供CSS展示航徽部分。",
+    "historical": true,
+    "src": "/unit-logos/c212b663fa5fd0de.svg",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（多个职能承接部门）",
+    "homepageSource": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+    "homepageNotes": "原caac.gov.cn域名仍为中国民用航空局官网，既有后继同时含交通运输部与民航局；并列保留两个入口，不指定唯一后继。",
+    "homepageAlternatives": [
+      {
+        "name": "交通运输部",
+        "url": "https://www.mot.gov.cn/"
+      },
+      {
+        "name": "中国民用航空局",
+        "url": "https://www.caac.gov.cn/"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.mot.gov.cn/",
+        "name": "交通运输部",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.caac.gov.cn/",
+        "name": "中国民用航空局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+  },
+  {
+    "unitId": "U000091",
+    "name": "国家广播电影电视总局",
+    "kind": "logo",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家广播电影电视总局",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/National_Radio_and_Television_Administration_logo.svg",
+    "notes": "原国家广播电影电视总局条目信息框明确列示该红、绿、蓝图形标识；共享资源图档将图案日期记为1999年，图档仅含图形，无现行英文简称。用于机构识别；不将后继机构名称写入历史单位。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "evidenceUrls": [
+      "https://commons.wikimedia.org/wiki/File:National_Radio_and_Television_Administration_logo.svg",
+      "https://lmtw.com/mzw/content/detail/id/173343"
+    ],
+    "homepageUrl": "https://www.nrta.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家广播电视总局官网（广播电视职能）",
+    "homepageSource": "https://www.nrta.gov.cn/",
+    "homepageNotes": "原sarft.gov.cn未能建立连接；按既有U000091→U000114→U000039提供广播电视业务官网，仅指明该业务入口。电影业务另有国家电影局，未修改机构关系。",
+    "src": "/unit-logos/cc5508fc954e930c.svg",
+    "homepages": [
+      {
+        "url": "https://www.nrta.gov.cn/",
+        "name": "国家广播电视总局（广播电视职能）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nrta.gov.cn/"
+  },
+  {
+    "unitId": "U000092",
+    "name": "国家工商行政管理总局",
+    "kind": "logo",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:State_Administration_for_Industry_and_Commerce_logo.jpg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/State_Administration_for_Industry_and_Commerce_logo.jpg",
+    "supportingSources": [
+      "https://sbj.cnipa.gov.cn/sbj/ssbj_gzdt/201412/t20141202_19903.html"
+    ],
+    "notes": "工商红盾徽记。2015年原始上传来源为原工商总局 saic.gov.cn；原商标局2014年关于新版商标注册证公告也明确使用工商红盾徽记。",
+    "historical": true,
+    "src": "/unit-logos/11b81084bd818a84.jpg",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.samr.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "市场监管总局官网",
+    "homepageSource": "https://www.samr.gov.cn/",
+    "homepageNotes": "按既有U000092→U000036链接现行官网。",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "市场监管总局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.samr.gov.cn/"
+  },
+  {
+    "unitId": "U000093",
+    "name": "国家新闻出版总署（国家版权局）",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对新闻出版总署历史条目信息框：国家新闻出版总署（国家版权局）为国务院直属机构，明确列出1999年规定的国徽印章。1998年设置文件中的名称为国家新闻出版署，本项不把1998名称当作2001年总署成立依据。展示国家机关通用国徽，非独立LOGO或旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://zh.wikipedia.org/wiki/中华人民共和国新闻出版总署",
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（新闻出版与版权业务入口）",
+    "homepageSource": "https://www.nppa.gov.cn/",
+    "homepageNotes": "原gapp.gov.cn未能建立连接；直接链到广电总局会误导新闻出版/版权用户。本历史单位的新闻出版和版权业务分别有国家新闻出版署、国家版权局官网，建议前端并列入口，不改现有机构前后继数据。",
+    "homepageAlternatives": [
+      {
+        "name": "国家新闻出版署",
+        "url": "https://www.nppa.gov.cn/"
+      },
+      {
+        "name": "国家版权局",
+        "url": "https://www.ncac.gov.cn/"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.nppa.gov.cn/",
+        "name": "国家新闻出版署",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.ncac.gov.cn/",
+        "name": "国家版权局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nppa.gov.cn/"
+  },
+  {
+    "unitId": "U000094",
+    "name": "国家林业局",
+    "kind": "logo",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:State_Forestry_Administration_of_P.R.China_badge.svg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/State_Forestry_Administration_of_P.R.China_badge.svg",
+    "notes": "中华人民共和国林业徽标。2014年原始上传文件明确作者为国家林业局，来源为当时国家林业局英文官网 english.forestry.gov.cn。",
+    "historical": true,
+    "src": "/unit-logos/ab01dc82dba31b36.svg",
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（多个职能承接部门）",
+    "homepageSource": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+    "homepageNotes": "既有U000021/U000062两个后继，给出自然资源部与国家林草局官网；forestry.gov.cn原国家林业局域名延续为林草局官网，不把其称为唯一后继。",
+    "homepageAlternatives": [
+      {
+        "name": "自然资源部",
+        "url": "https://www.mnr.gov.cn/"
+      },
+      {
+        "name": "国家林业和草原局",
+        "url": "https://www.forestry.gov.cn/"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.mnr.gov.cn/",
+        "name": "自然资源部",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.forestry.gov.cn/",
+        "name": "国家林业和草原局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+  },
+  {
+    "unitId": "U000095",
+    "name": "国家质量技术监督局",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国家质量技术监督局为国务院直属机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.samr.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "市场监管总局官网（质量技术监督职能）",
+    "homepageSource": "https://www.samr.gov.cn/",
+    "homepageNotes": "按既有U000095→U000106→U000036提供现行质量技术监督业务官网。",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "市场监管总局（质量技术监督职能）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.samr.gov.cn/"
+  },
+  {
+    "unitId": "U000096",
+    "name": "国家药品监督管理局",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国家药品监督管理局为国务院直属机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（多个职能承接部门）",
+    "homepageSource": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+    "homepageNotes": "既有U000096→U000112→U000116之后分至市场监管总局与国家药监局，建议并列两个官网，不指定唯一后继。",
+    "homepageAlternatives": [
+      {
+        "name": "市场监管总局",
+        "url": "https://www.samr.gov.cn/"
+      },
+      {
+        "name": "国家药品监督管理局",
+        "url": "https://www.nmpa.gov.cn/"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "市场监管总局",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "name": "国家药品监督管理局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+  },
+  {
+    "unitId": "U000097",
+    "name": "国家旅游局",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国家旅游局为国务院直属机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/国家旅游局"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.mct.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "文化和旅游部官网",
+    "homepageSource": "https://www.mct.gov.cn/",
+    "homepageNotes": "历史cnta.gov.cn未能建立连接；按既有U000097→U000028链接现行官网。",
+    "homepages": [
+      {
+        "url": "https://www.mct.gov.cn/",
+        "name": "文化和旅游部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mct.gov.cn/"
+  },
+  {
+    "unitId": "U000098",
+    "name": "国家宗教事务局",
+    "kind": "logo",
+    "sourcePage": "https://zh.wikipedia.org/wiki/File:State_Administration_for_Religious_Affairs_logo.png",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/zh/1/12/State_Administration_for_Religious_Affairs_logo.png",
+    "notes": "2015年上传的官网标识图档，明确来源为当时国家宗教事务局官网sara.gov.cn，早于2018年改制；已查看原图，左侧为机构图形徽标，右侧为中文与英文全称。原图为614×94横幅，可保留完整图或前端只显示左侧图形区域；未改写或重绘。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "width": 614,
+    "height": 94,
+    "homepageUrl": "https://www.sara.gov.cn/",
+    "homepageKind": "historical",
+    "homepageName": "国家宗教事务局官网（现为保留牌子）",
+    "homepageSource": "https://www.sara.gov.cn/",
+    "homepageNotes": "原域名仍为现行国家宗教事务局官网，HTTP200与标题核实；前端明确现为保留牌子，不表述历史独立机构仍存在。",
+    "src": "/unit-logos/b5901af956c6b400.png",
+    "homepages": [
+      {
+        "url": "https://www.sara.gov.cn/",
+        "name": "国家宗教事务局（现为保留牌子）",
+        "kind": "historical"
+      }
+    ],
+    "homepageEvidence": "https://www.sara.gov.cn/"
+  },
+  {
+    "unitId": "U000099",
+    "name": "国务院外事办公室",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国务院外事办公室为国务院办事机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（未核实独立官网）",
+    "homepageSource": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+    "homepageNotes": "已检索国务院外事办公室及网站记录，未核实独立公开官网；不把外交部网站当作其官网，不新增与中央外办的前后继关系。",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（未核实独立）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+  },
+  {
+    "unitId": "U000100",
+    "name": "国务院侨务办公室",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国务院侨务办公室为国务院办事机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/国务院侨务办公室"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.gqb.gov.cn/",
+    "homepageKind": "historical",
+    "homepageName": "国务院侨办官网（现为保留牌子）",
+    "homepageSource": "https://www.gqb.gov.cn/",
+    "homepageNotes": "旧名称对应网站仍以国务院侨务办公室名义运行，现行首页已核实；不表述历史独立办事机构仍存在。",
+    "homepages": [
+      {
+        "url": "https://www.gqb.gov.cn/",
+        "name": "国务院侨办（现为保留牌子）",
+        "kind": "historical"
+      }
+    ],
+    "homepageEvidence": "https://www.gqb.gov.cn/"
+  },
+  {
+    "unitId": "U000101",
+    "name": "国务院港澳事务办公室",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国务院港澳事务办公室为国务院办事机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/国务院港澳事务办公室"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.hmo.gov.cn/",
+    "homepageKind": "historical",
+    "homepageName": "港澳办官网（中央港澳办、国务院港澳办）",
+    "homepageSource": "https://www.hmo.gov.cn/",
+    "homepageNotes": "域名与现行港澳办官网首页已核实；国务院港澳办现为保留牌子，链接仅作网站入口，不改机构沿革数据。",
+    "homepages": [
+      {
+        "url": "https://www.hmo.gov.cn/",
+        "name": "港澳办（中央港澳办、国务院港澳办）",
+        "kind": "historical"
+      }
+    ],
+    "homepageEvidence": "https://www.hmo.gov.cn/"
+  },
+  {
+    "unitId": "U000102",
+    "name": "国务院法制办公室",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国务院法制办公室为国务院办事机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html",
+      "https://zh.wikipedia.org/wiki/国务院法制办公室"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.moj.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "司法部官网",
+    "homepageSource": "https://www.moj.gov.cn/",
+    "homepageNotes": "司法部首页HTTP200与标题核实；按既有U000102→U000018链接。",
+    "homepages": [
+      {
+        "url": "https://www.moj.gov.cn/",
+        "name": "司法部",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.moj.gov.cn/"
+  },
+  {
+    "unitId": "U000103",
+    "name": "国务院经济体制改革办公室",
+    "kind": "national_emblem",
+    "sourcePage": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已逐项核对历史机构类别：国务院经济体制改革办公室为国务院办事机构，国发〔1999〕25号第四条规定该类机关印章中央刊国徽。展示国家机关通用国徽，非该机构独立LOGO，亦非旧官网截图。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "src": "/unit-logos/national-emblem.png",
+    "evidenceUrls": [
+      "https://www.gd.gov.cn/zwgk/gongbao/1998/12/content/post_3359063.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "中国政府网公布国徽标准版本，用于标示国家机关通用国徽。",
+    "homepageUrl": "https://www.ndrc.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家发展改革委官网",
+    "homepageSource": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=1",
+    "homepageNotes": "按既有U000103→U000012链接；发改委官网简介确认国务院体改办职能并入。",
+    "homepages": [
+      {
+        "url": "https://www.ndrc.gov.cn/",
+        "name": "国家发展改革委",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=1"
+  },
+  {
+    "unitId": "U000104",
+    "name": "国家行政学院",
+    "kind": "logo",
+    "sourcePage": "https://zt.dahe.cn/2022/06-16/1042768.html",
+    "assetUrl": "https://file.dahe.cn/image/jpeg/20220616/1655362965890544.jpg",
+    "supportingSources": [
+      "https://jzys.ncut.edu.cn/info/1016/1571.htm",
+      "https://bbs.comefromchina.com/threads/724040/"
+    ],
+    "iconCrop": {
+      "x": 202,
+      "y": 32,
+      "width": 197,
+      "height": 197
+    },
+    "notes": "国家行政学院原院徽。大河网2022年设计者肖红专访直接展示并标注该院徽；北方工业大学官方2017年教师介绍确认肖红设计国家行政学院院徽。2009年新华社启用报道的同期转载明确红底、主楼和五角星。不是中央党校合并后的标志。原图含院名，CSS可用iconCrop只展示圆徽。",
+    "historical": true,
+    "src": "/unit-logos/193b8e7145c30993.jpg",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.ccps.gov.cn/",
+        "name": "中央党校（国家行政学院）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.ccps.gov.cn/xygk/xsyg/",
+    "homepageNotes": "官方校史明确2018年校院整合；仅设置官网导航，不修改数据库沿革关系。"
+  },
+  {
+    "unitId": "U000105",
+    "name": "中国地震局",
+    "kind": "website_emblem",
+    "sourcePage": "https://www.cea.gov.cn/",
+    "assetUrl": "https://www.cea.gov.cn/cea/resource/cms/2017/04/guohui.png",
+    "notes": "已检查官网页头原图，使用国徽加机构名称；标记为网站国徽，不称为机构独立LOGO。",
+    "width": 83,
+    "height": 88,
+    "historical": false,
+    "src": "/unit-logos/national-emblem.png",
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "displayAssetNote": "官方网站使用国徽的证据见sourcePage；展示图片使用中国政府网公布标准版本。",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.cea.gov.cn/",
+        "name": "中国地震局",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.cea.gov.cn/",
+    "homepageNotes": "官网首页及其网站标识确认。"
+  },
+  {
+    "unitId": "U000106",
+    "name": "国家质量监督检验检疫总局",
+    "kind": "logo",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:General_Administration_of_Quality_Supervision,_Inspection_and_Quarantine_of_the_P.R.China_badge.svg",
+    "assetUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/General_Administration_of_Quality_Supervision%2C_Inspection_and_Quarantine_of_the_P.R.China_badge.svg/500px-General_Administration_of_Quality_Supervision%2C_Inspection_and_Quarantine_of_the_P.R.China_badge.svg.png",
+    "notes": "原国家质量监督检验检疫总局局徽。2014年图档作者及来源明确为原质检总局 aqsiq.gov.cn；不能用于2001年之前质量技术监督局或出入境检验检疫局。原SVG下载限流，保存同源500px PNG缩略版本，未自行更改。",
+    "historical": true,
+    "src": "/unit-logos/de6a688b1d4d70cc.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "国家市场监督管理总局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "按本库已登记前后继链设置现职责承接机构官网导航，不将图案或任职数据合并。"
+  },
+  {
+    "unitId": "U000107",
+    "name": "中国银行业监督管理委员会",
+    "kind": "logo",
+    "sourcePage": "https://zh.wikipedia.org/wiki/File:China_Banking_Regulatory_Commission_logo.svg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/zh/5/5d/China_Banking_Regulatory_Commission_logo.svg",
+    "supportingSources": [
+      "https://www.nfra.gov.cn/chinese/subject/subject/nianbao2017/2.pdf"
+    ],
+    "notes": "原中国银监会CBRC盾形标志。2017年图档来源为原银监会 cbrc.gov.cn；国家金融监督管理总局留存的2017银监会年报也显示CBRC盾形标志。不得用于中国保监会或直接套用到银保监会。",
+    "historical": true,
+    "src": "/unit-logos/49d4f3778393a29f.svg",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nfra.gov.cn/cn/view/pages/index/index.html",
+        "name": "国家金融监督管理总局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/home/2023-03/29/content_5748953.htm",
+    "homepageNotes": "按本库已登记前后继链设置现职责承接机构官网导航，不将图案或任职数据合并。"
+  },
+  {
+    "unitId": "U000108",
+    "name": "中国保险监督管理委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/中国保险监督管理委员会",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "机构信息框明确记录中央刊国徽的机构印章。展示国家机关通用国徽，不将2014年征集稿、银监会或银保监会图案视为保监会专属LOGO。旧circ.gov.cn本次未取得可访问首页，链接经银保监会后承接的国家金融监督管理总局。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+      "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.nfra.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家金融监督管理总局（现职责承接机构）",
+    "homepageSource": "https://www.nfra.gov.cn/cn/view/pages/zhengwuxinxi/gongkaizhinan.html",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.nfra.gov.cn/",
+        "name": "国家金融监督管理总局（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nfra.gov.cn/cn/view/pages/zhengwuxinxi/gongkaizhinan.html",
+    "homepageNotes": "机构信息框明确记录中央刊国徽的机构印章。展示国家机关通用国徽，不将2014年征集稿、银监会或银保监会图案视为保监会专属LOGO。旧circ.gov.cn本次未取得可访问首页，链接经银保监会后承接的国家金融监督管理总局。"
+  },
+  {
+    "unitId": "U000109",
+    "name": "国家电力监管委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家电力监管委员会",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "该机构条目信息框明确记载国徽及中央刊国徽的机构印章；采用通用国徽，非12398专项服务图案。旧serc.gov.cn本次未取得可访问首页，链接2013年重组后的国家能源局。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://henb.nea.gov.cn/dtyw/jggg/202310/t20231022_177356.html",
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.nea.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家能源局（2013年重组后）",
+    "homepageSource": "https://www.nea.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.nea.gov.cn/",
+        "name": "国家能源局（2013年重组后）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nea.gov.cn/",
+    "homepageNotes": "该机构条目信息框明确记载国徽及中央刊国徽的机构印章；采用通用国徽，非12398专项服务图案。旧serc.gov.cn本次未取得可访问首页，链接2013年重组后的国家能源局。"
+  },
+  {
+    "unitId": "U000110",
+    "name": "全国社会保障基金理事会",
+    "kind": "logo",
+    "sourcePage": "https://www.ssf.gov.cn/portal/yljjgl/A0006index_1.htm",
+    "assetUrl": "https://www.ssf.gov.cn/portal/lib/template/scheme/images/logo.png",
+    "notes": "全国社会保障基金理事会官网专用SSF标志。",
+    "width": 600,
+    "height": 112,
+    "iconCrop": {
+      "x": 0,
+      "y": 10,
+      "width": 92,
+      "height": 90
+    },
+    "historical": true,
+    "src": "/unit-logos/732f47daa9168e56.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.ssf.gov.cn/portal/index.htm",
+        "name": "全国社会保障基金理事会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.ssf.gov.cn/portal/index.htm",
+    "homepageNotes": "网站首页；不使用深层栏目，不使用无 www 的电子邮件系统。 检索可读到官网首页内容，但本机HTTP客户端遇证书链校验错误，未据此推断网站失效。"
+  },
+  {
+    "unitId": "U000111",
+    "name": "国家自然科学基金委员会",
+    "kind": "logo",
+    "sourcePage": "https://www.nsfc.gov.cn/p1/2791/4141/wh.html",
+    "assetUrl": "https://www.nsfc.gov.cn/r/cms/www/default/images/logo-hb.png",
+    "notes": "官网委徽介绍和当前页头一致；采用当前头部原图中圆形委徽。",
+    "width": 2000,
+    "height": 391,
+    "iconCrop": {
+      "x": 62,
+      "y": 32,
+      "width": 317,
+      "height": 317
+    },
+    "historical": false,
+    "src": "/unit-logos/ddccb500ab66cd9e.png",
+    "decision": "已配图并设置官方首页导航",
+    "homepages": [
+      {
+        "url": "https://www.nsfc.gov.cn/",
+        "name": "国家自然科学基金委员会",
+        "kind": "official"
+      }
+    ],
+    "homepageEvidence": "https://www.nsfc.gov.cn/",
+    "homepageNotes": "官网首页；区别于标识证据所在文化介绍文章。"
+  },
+  {
+    "unitId": "U000112",
+    "name": "国家食品药品监督管理局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家食品药品监督管理局",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "2003—2013年食药监局信息框明确记载国徽。采用通用国徽，不回填2013—2018年总局CFDA图案。原sda.gov.cn本次未取得可访问首页；经食药监总局后的多个明确后继分别列出。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": null,
+    "homepageKind": "successor",
+    "homepageName": "相关职责承接机构",
+    "homepageSource": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "国家市场监督管理总局",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "name": "国家药品监督管理局",
+        "kind": "successor"
+      }
+    ],
+    "src": "/unit-logos/national-emblem.png",
+    "homepageEvidence": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepageNotes": "2003—2013年食药监局信息框明确记载国徽。采用通用国徽，不回填2013—2018年总局CFDA图案。原sda.gov.cn本次未取得可访问首页；经食药监总局后的多个明确后继分别列出。"
+  },
+  {
+    "unitId": "U000113",
+    "name": "国家安全生产监督管理局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikisource.org/wiki/国务院办公厅关于印发国家安全生产监督管理局（国家煤矿安全监察局）职能配置内设机构和人员编制规定的通知",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国办发〔2001〕1号明确此名称机构由国家经贸委管理；结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。本库局/总局名称阶段尚待讨论，不使用写有“总局”的专属徽标，不修改沿革事实。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.gov.cn/zhengce/pdfFile/2000_PDF.pdf"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.mem.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "应急管理部（现职责承接机构）",
+    "homepageSource": "https://www.mem.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.mem.gov.cn/",
+        "name": "应急管理部（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mem.gov.cn/",
+    "homepageNotes": "国办发〔2001〕1号明确此名称机构由国家经贸委管理；结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。本库局/总局名称阶段尚待讨论，不使用写有“总局”的专属徽标，不修改沿革事实。"
+  },
+  {
+    "unitId": "U000114",
+    "name": "国家新闻出版广电总局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/中华人民共和国国家新闻出版广电总局",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "原总局机构信息框明确记载国徽，使用国家机关通用国徽。旧sapprft.gov.cn本次未取得可访问首页；2018年职责拆分，链接分别注明广播电视、新闻出版和电影职责，不能把任一家称作整体唯一后继。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": null,
+    "homepageKind": "successor",
+    "homepageName": "相关职责承接机构",
+    "homepageSource": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepages": [
+      {
+        "url": "https://www.nrta.gov.cn/",
+        "name": "国家广播电视总局（广播电视职责）",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.nppa.gov.cn/",
+        "name": "国家新闻出版署（新闻出版职责）",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.chinafilm.gov.cn/",
+        "name": "国家电影局（电影职责）",
+        "kind": "successor"
+      }
+    ],
+    "src": "/unit-logos/national-emblem.png",
+    "homepageEvidence": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepageNotes": "原总局机构信息框明确记载国徽，使用国家机关通用国徽。旧sapprft.gov.cn本次未取得可访问首页；2018年职责拆分，链接分别注明广播电视、新闻出版和电影职责，不能把任一家称作整体唯一后继。"
+  },
+  {
+    "unitId": "U000115",
+    "name": "中华人民共和国国家卫生和计划生育委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/中华人民共和国国家卫生和计划生育委员会",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "2013—2018年国家卫生计生委机构资料明确记载国徽。使用通用国徽，非专属LOGO。旧nhfpc.gov.cn本次未取得可访问首页，链接国家卫生健康委员会。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.nhc.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家卫生健康委员会（现职责承接机构）",
+    "homepageSource": "https://www.nhc.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.nhc.gov.cn/",
+        "name": "国家卫生健康委员会（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nhc.gov.cn/",
+    "homepageNotes": "2013—2018年国家卫生计生委机构资料明确记载国徽。使用通用国徽，非专属LOGO。旧nhfpc.gov.cn本次未取得可访问首页，链接国家卫生健康委员会。"
+  },
+  {
+    "unitId": "U000116",
+    "name": "国家食品药品监督管理总局",
+    "kind": "wordmark",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:China_Food_and_Drug_Administration_Badge.PNG",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/China_Food_and_Drug_Administration_Badge.PNG",
+    "notes": "保留已核验的2013—2018年CFDA文字标识。原总局官网已不作为该已撤销机构的在营门户使用；按本库两项明确后继分别提供市场监管总局、药监局首页。",
+    "historical": true,
+    "src": "/unit-logos/24f2dd4ef60d77f4.png",
+    "decision": "已配图并设置官方首页导航",
+    "preserveExistingMark": true,
+    "homepageUrl": null,
+    "homepageKind": "successor",
+    "homepageName": "相关职责承接机构",
+    "homepageSource": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "国家市场监督管理总局",
+        "kind": "successor"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "name": "国家药品监督管理局",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepageNotes": "保留已核验的2013—2018年CFDA文字标识。原总局官网已不作为该已撤销机构的在营门户使用；按本库两项明确后继分别提供市场监管总局、药监局首页。"
+  },
+  {
+    "unitId": "U000117",
+    "name": "中国银行保险监督管理委员会",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/中国银行保险监督管理委员会",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "原银保监会机构信息框明确记载国徽，采用国家机关通用国徽，不误用大楼残留CBRC图案。2023年原官网更名为国家金融监督管理总局，现链接nfra.gov.cn官方首页。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://news.cnstock.com/news%2Cbwkx-202305-5062846.htm",
+      "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.nfra.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家金融监督管理总局（现职责承接机构）",
+    "homepageSource": "https://www.nfra.gov.cn/cn/view/pages/zhengwuxinxi/gongkaizhinan.html",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.nfra.gov.cn/",
+        "name": "国家金融监督管理总局（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nfra.gov.cn/cn/view/pages/zhengwuxinxi/gongkaizhinan.html",
+    "homepageNotes": "原银保监会机构信息框明确记载国徽，采用国家机关通用国徽，不误用大楼残留CBRC图案。2023年原官网更名为国家金融监督管理总局，现链接nfra.gov.cn官方首页。"
+  },
+  {
+    "unitId": "U000118",
+    "name": "国家粮食局",
+    "kind": "logo",
+    "sourcePage": "https://zh.wikipedia.org/wiki/File:State_Administration_of_Grain.svg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/zh/5/50/State_Administration_of_Grain.svg",
+    "notes": "原国家粮食局绿色圆形麦穗标识。2013年上传的图档明确持有者、使用机构为国家粮食局，来源为原官网http://www.chinagrain.gov.cn/n16/index.html；已下载SVG并查看同源预览，外圈为国家粮食局中英文名称。非国家粮油信息中心标志。旧域名本次未取得可访问首页，链接国家粮食和物资储备局。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "homepageUrl": "https://www.lswz.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家粮食和物资储备局（现职责承接机构）",
+    "homepageSource": "https://www.lswz.gov.cn/",
+    "supportingSources": [
+      "https://zh.wikipedia.org/wiki/国家粮食局",
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html"
+    ],
+    "src": "/unit-logos/7d6d8c962ec74e96.svg",
+    "homepages": [
+      {
+        "url": "https://www.lswz.gov.cn/",
+        "name": "国家粮食和物资储备局（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.lswz.gov.cn/",
+    "homepageNotes": "原国家粮食局绿色圆形麦穗标识。2013年上传的图档明确持有者、使用机构为国家粮食局，来源为原官网http://www.chinagrain.gov.cn/n16/index.html；已下载SVG并查看同源预览，外圈为国家粮食局中英文名称。非国家粮油信息中心标志。旧域名本次未取得可访问首页，链接国家粮食和物资储备局。"
+  },
+  {
+    "unitId": "U000119",
+    "name": "国家国内贸易局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家国内贸易局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家国内贸易局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000120",
+    "name": "国家煤炭工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家煤炭工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家煤炭工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000121",
+    "name": "国家机械工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家机械工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家机械工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000122",
+    "name": "国家冶金工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家冶金工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家冶金工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000123",
+    "name": "国家石油和化学工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家石油和化学工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家石油和化学工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000124",
+    "name": "国家轻工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家轻工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家轻工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000125",
+    "name": "国家纺织工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家纺织工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家纺织工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000126",
+    "name": "国家建筑材料工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号国家局设置通知逐项列明国家建筑材料工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号国家局设置通知逐项列明国家建筑材料工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000127",
+    "name": "国家外国专家局",
+    "kind": "national_emblem",
+    "sourcePage": "https://ghc.sicau.edu.cn/__local/0/4E/D3/DDED1E9C84B7C043AAB8DB1C58A_FA35C512_27FE8.pdf?e=.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "2015年外专发〔2015〕186号原局文件含名称及国徽印章；同时1998年设置通知确认其为人事部管理国家局。采用通用国徽，非专属LOGO。原safea.gov.cn首页本次不可访问。2018年职责并科技部，2023年引进国外智力职责转人社部并加挂国家外国专家局牌子；主页链接标注现牌子所在机关，不将其当作原局仍存在。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+      "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.mohrss.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "人力资源社会保障部（现国家外国专家局牌子所在机关）",
+    "homepageSource": "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.mohrss.gov.cn/",
+        "name": "人力资源社会保障部（现国家外国专家局牌子所在机关）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html",
+    "homepageNotes": "2015年外专发〔2015〕186号原局文件含名称及国徽印章；同时1998年设置通知确认其为人事部管理国家局。采用通用国徽，非专属LOGO。原safea.gov.cn首页本次不可访问。2018年职责并科技部，2023年引进国外智力职责转人社部并加挂国家外国专家局牌子；主页链接标注现牌子所在机关，不将其当作原局仍存在。"
+  },
+  {
+    "unitId": "U000128",
+    "name": "国家海洋局",
+    "kind": "logo",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:State_Oceanic_Administration_of_P.R.China_badge.svg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/State_Oceanic_Administration_of_P.R.China_badge.svg",
+    "notes": "保留已核验原国家海洋局标志。原soa.gov.cn不作为已撤销独立机构的在营门户使用，链接自然资源部并标注现职责承接机构。",
+    "historical": true,
+    "src": "/unit-logos/2beb0b2df71bed61.svg",
+    "decision": "已配图并设置官方首页导航",
+    "preserveExistingMark": true,
+    "homepageUrl": "https://www.mnr.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "自然资源部（现职责承接机构）",
+    "homepageSource": "https://www.mnr.gov.cn/",
+    "supportingSources": [
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html"
+    ],
+    "homepages": [
+      {
+        "url": "https://www.mnr.gov.cn/",
+        "name": "自然资源部（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mnr.gov.cn/",
+    "homepageNotes": "保留已核验原国家海洋局标志。原soa.gov.cn不作为已撤销独立机构的在营门户使用，链接自然资源部并标注现职责承接机构。"
+  },
+  {
+    "unitId": "U000129",
+    "name": "国家测绘局",
+    "kind": "national_emblem",
+    "sourcePage": "https://www.gov.cn/foot/site1/20150718/72671437200423855.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "中国政府网留存2014年部门决算使用国徽；国务院2011年更名通知明确国家测绘局更名为国家测绘地理信息局且主要职责等不变。展示通用国徽，不使用天地图或测绘行业图案作为局LOGO。原sbsm.gov.cn本次未取得可访问首页，链接自然资源部。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://www.gov.cn/xxgk/pub/govpublic/mrlm/201105/t20110525_63873.html",
+      "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.mnr.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "自然资源部（现职责承接机构）",
+    "homepageSource": "https://www.mnr.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.mnr.gov.cn/",
+        "name": "自然资源部（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.mnr.gov.cn/",
+    "homepageNotes": "中国政府网留存2014年部门决算使用国徽；国务院2011年更名通知明确国家测绘局更名为国家测绘地理信息局且主要职责等不变。展示通用国徽，不使用天地图或测绘行业图案作为局LOGO。原sbsm.gov.cn本次未取得可访问首页，链接自然资源部。"
+  },
+  {
+    "unitId": "U000130",
+    "name": "国家出入境检验检疫局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号列为海关总署管理的国家局；结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。1999年国务院另明确允许出入境检验检疫标志使用国徽；不回填2001年后质检总局徽章。未取得旧机构可用独立官网，经质检总局后的相关职责承接机构分列。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.gov.cn/zhengce/pdfFile/1999_PDF.pdf",
+      "https://zh.wikisource.org/wiki/国务院办公厅关于在出入境检验检疫标志上使用国徽图案的复函"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": null,
+    "homepageKind": "successor",
+    "homepageName": "相关职责承接机构",
+    "homepageSource": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepages": [
+      {
+        "url": "https://www.samr.gov.cn/",
+        "name": "国家市场监督管理总局（原质检总局相关职责）",
+        "kind": "successor"
+      },
+      {
+        "url": "http://www.customs.gov.cn/",
+        "name": "海关总署（出入境检验检疫职责）",
+        "kind": "successor"
+      }
+    ],
+    "src": "/unit-logos/national-emblem.png",
+    "homepageEvidence": "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+    "homepageNotes": "国发〔1998〕6号列为海关总署管理的国家局；结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。1999年国务院另明确允许出入境检验检疫标志使用国徽；不回填2001年后质检总局徽章。未取得旧机构可用独立官网，经质检总局后的相关职责承接机构分列。"
+  },
+  {
+    "unitId": "U000131",
+    "name": "国家有色金属工业局",
+    "kind": "national_emblem",
+    "sourcePage": "https://www.hunan.gov.cn/szf/hnzb_18/zb9506/202106/19450896/files/24a6c9650cba44e79976e1fd5d576ace.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国办发〔1998〕58号三定文件逐项列明国家有色金属工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html",
+      "https://zh.wikipedia.org/wiki/中华人民共和国国家经济贸易委员会"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "国办发〔1998〕58号三定文件逐项列明国家有色金属工业局是国家经贸委管理的国家局。结合1999年印章规定第七条，展示法定用徽类别的通用国徽，非独立LOGO或旧官网截图。该局2001年撤销，未核实仍独立运营的官方首页；本库无明确现存后继，链接明确标注“中国政府网（中央政府门户）”，不使用行业协会、集团企业或商业网站代替机关官网。"
+  },
+  {
+    "unitId": "U000132",
+    "name": "国家邮政局",
+    "kind": "national_emblem",
+    "sourcePage": "https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19450362/files/9230063d3da8428094d129ba7ce33887.pdf",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "国发〔1998〕6号明确原国家邮政局由信息产业部管理。结合1999年印章规定第七条采用法定用徽类别的通用国徽，非独立LOGO或旧官网截图；不把中国邮政集团企业标志回填。链接本库明确后继的2006年重组后国家邮政局官网。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "statutory_category",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://zh.wikipedia.org/wiki/国家邮政局"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.spb.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家邮政局（2006年重组后）",
+    "homepageSource": "https://www.spb.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.spb.gov.cn/",
+        "name": "国家邮政局（2006年重组后）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.spb.gov.cn/",
+    "homepageNotes": "国发〔1998〕6号明确原国家邮政局由信息产业部管理。结合1999年印章规定第七条采用法定用徽类别的通用国徽，非独立LOGO或旧官网截图；不把中国邮政集团企业标志回填。链接本库明确后继的2006年重组后国家邮政局官网。"
+  },
+  {
+    "unitId": "U000133",
+    "name": "国家煤矿安全监察局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家煤矿安全监察局",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "已撤销国家煤矿安全监察局的机构信息框明确记载国徽。采用国家机关通用国徽，不使用国家矿山安全监察局的新标志回填。原chinacoal-safety.gov.cn本次不可访问，现链接国家矿山安全监察局。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.chinamine-safety.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家矿山安全监察局（现职责承接机构）",
+    "homepageSource": "https://www.chinamine-safety.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.chinamine-safety.gov.cn/",
+        "name": "国家矿山安全监察局（现职责承接机构）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.chinamine-safety.gov.cn/",
+    "homepageNotes": "已撤销国家煤矿安全监察局的机构信息框明确记载国徽。采用国家机关通用国徽，不使用国家矿山安全监察局的新标志回填。原chinacoal-safety.gov.cn本次不可访问，现链接国家矿山安全监察局。"
+  },
+  {
+    "unitId": "U000134",
+    "name": "国家能源局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家能源局",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "机构资料明确国徽并记载2008年设立的国家局及2013年职责整合重组；采用国家机关通用国徽，不声称获得2008—2013年独立局徽。链接同名2013年重组后国家能源局首页。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.nea.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "国家能源局（2013年重组后）",
+    "homepageSource": "https://www.nea.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.nea.gov.cn/",
+        "name": "国家能源局（2013年重组后）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://www.nea.gov.cn/",
+    "homepageNotes": "机构资料明确国徽并记载2008年设立的国家局及2013年职责整合重组；采用国家机关通用国徽，不声称获得2008—2013年独立局徽。链接同名2013年重组后国家能源局首页。"
+  },
+  {
+    "unitId": "U000135",
+    "name": "国家公务员局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家公务员局",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "机构信息框记载原人社部管理国家局及国徽印章，采用国家机关通用国徽。原www.scs.gov.cn迁移通报称2025年8月底下线，后续信息经中央组织部相关网站发布；本次首页不可用。本库尚无独立后继条目，链接中央政府门户，不能把年度考试报名页冒充部委官网首页。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://app.www.gov.cn/govdata/gov/201803/21/421808/article.html",
+      "https://www.eoffcn.com/kszx/detail/1812502.html",
+      "http://www.scs.gov.cn/gzdt/202507/t20250730_16417.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.gov.cn/",
+    "homepageKind": "official_portal",
+    "homepageName": "中国政府网（中央政府门户）",
+    "homepageSource": "https://www.gov.cn/",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.gov.cn/",
+        "name": "中国政府网（中央政府门户）",
+        "kind": "official_portal"
+      }
+    ],
+    "homepageEvidence": "https://www.gov.cn/",
+    "homepageNotes": "机构信息框记载原人社部管理国家局及国徽印章，采用国家机关通用国徽。原www.scs.gov.cn迁移通报称2025年8月底下线，后续信息经中央组织部相关网站发布；本次首页不可用。本库尚无独立后继条目，链接中央政府门户，不能把年度考试报名页冒充部委官网首页。"
+  },
+  {
+    "unitId": "U000136",
+    "name": "国家乡村振兴局",
+    "kind": "national_emblem",
+    "sourcePage": "https://zh.wikipedia.org/wiki/国家乡村振兴局",
+    "assetUrl": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "notes": "2021—2023年原独立国家乡村振兴局信息框明确国徽；2021年3月1日原局文件亦含国徽印章。采用通用国徽，非专属LOGO。原nrra.gov.cn本次未取得可访问首页，链接现加挂国家乡村振兴局牌子的农业农村部。",
+    "historical": true,
+    "decision": "已配图并设置官方首页导航",
+    "markBasis": "institution_record",
+    "supportingSources": [
+      "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3063/site/attach/0/ef5cf1ff2d8f4cc5ad62561e57bd2678.pdf",
+      "https://xzfg.moj.gov.cn/front/law/detail?LawID=1611",
+      "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html"
+    ],
+    "displayAssetSource": "https://www.gov.cn/guoqing/guohui/guohui.zip",
+    "homepageUrl": "https://www.moa.gov.cn/",
+    "homepageKind": "successor",
+    "homepageName": "农业农村部（现国家乡村振兴局牌子所在机关）",
+    "homepageSource": "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html",
+    "src": "/unit-logos/national-emblem.png",
+    "homepages": [
+      {
+        "url": "https://www.moa.gov.cn/",
+        "name": "农业农村部（现国家乡村振兴局牌子所在机关）",
+        "kind": "successor"
+      }
+    ],
+    "homepageEvidence": "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html",
+    "homepageNotes": "2021—2023年原独立国家乡村振兴局信息框明确国徽；2021年3月1日原局文件亦含国徽印章。采用通用国徽，非专属LOGO。原nrra.gov.cn本次未取得可访问首页，链接现加挂国家乡村振兴局牌子的农业农村部。"
+  }
+]

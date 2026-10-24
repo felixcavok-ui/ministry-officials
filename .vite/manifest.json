@@ -1,0 +1,197 @@
+{
+  "../../../../node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "ministry-officials/_next/static/chunks/layout-segment-context-9Ffsx5Ff.js",
+    "name": "layout-segment-context",
+    "src": "../../../../node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-WbBeTk9u.js",
+      "_framework-JGc2HF7T.js"
+    ]
+  },
+  "_EvidenceReferenceLink-CmzDK5RN.js": {
+    "file": "ministry-officials/_next/static/chunks/EvidenceReferenceLink-CmzDK5RN.js",
+    "name": "EvidenceReferenceLink",
+    "imports": [
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "_data-BhJChN8i.js": {
+    "file": "ministry-officials/_next/static/chunks/data-BhJChN8i.js",
+    "name": "data"
+  },
+  "_framework-JGc2HF7T.js": {
+    "file": "ministry-officials/_next/static/chunks/framework-JGc2HF7T.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js"
+    ]
+  },
+  "_publication-url-BtqB4LtQ.js": {
+    "file": "ministry-officials/_next/static/chunks/publication-url-BtqB4LtQ.js",
+    "name": "publication-url"
+  },
+  "_rolldown-runtime-QTnfLwEv.js": {
+    "file": "ministry-officials/_next/static/chunks/rolldown-runtime-QTnfLwEv.js",
+    "name": "rolldown-runtime"
+  },
+  "_standard-library-Q2Js34xj.js": {
+    "file": "ministry-officials/_next/static/chunks/standard-library-Q2Js34xj.js",
+    "name": "standard-library"
+  },
+  "_vinext-WbBeTk9u.js": {
+    "file": "ministry-officials/_next/static/chunks/vinext-WbBeTk9u.js",
+    "name": "vinext",
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js"
+    ],
+    "dynamicImports": [
+      "_vinext-WbBeTk9u.js"
+    ]
+  },
+  "app/components/BaikeResumeDirectory.tsx": {
+    "file": "ministry-officials/_next/static/chunks/BaikeResumeDirectory-DhUK-UuT.js",
+    "name": "BaikeResumeDirectory",
+    "src": "app/components/BaikeResumeDirectory.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/CoverageHeatmap.tsx": {
+    "file": "ministry-officials/_next/static/chunks/CoverageHeatmap-CKb5tdhY.js",
+    "name": "CoverageHeatmap",
+    "src": "app/components/CoverageHeatmap.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_data-BhJChN8i.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/DraftTriage.tsx": {
+    "file": "ministry-officials/_next/static/chunks/DraftTriage-CWir7BCt.js",
+    "name": "DraftTriage",
+    "src": "app/components/DraftTriage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/InferredOfficeManager.tsx": {
+    "file": "ministry-officials/_next/static/chunks/InferredOfficeManager-COWeEkDH.js",
+    "name": "InferredOfficeManager",
+    "src": "app/components/InferredOfficeManager.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_EvidenceReferenceLink-CmzDK5RN.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/PanelStandardResume.tsx": {
+    "file": "ministry-officials/_next/static/chunks/PanelStandardResume-DTdKvCG_.js",
+    "name": "PanelStandardResume",
+    "src": "app/components/PanelStandardResume.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/PublicationEvidenceViewer.tsx": {
+    "file": "ministry-officials/_next/static/chunks/PublicationEvidenceViewer-DtZtoO3X.js",
+    "name": "PublicationEvidenceViewer",
+    "src": "app/components/PublicationEvidenceViewer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_data-BhJChN8i.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/RankLibraryDownload.tsx": {
+    "file": "ministry-officials/_next/static/chunks/RankLibraryDownload-DVq6Kr_r.js",
+    "name": "RankLibraryDownload",
+    "src": "app/components/RankLibraryDownload.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js",
+      "_standard-library-Q2Js34xj.js"
+    ]
+  },
+  "app/components/ReviewLedger.tsx": {
+    "file": "ministry-officials/_next/static/chunks/ReviewLedger-DPvBwc-d.js",
+    "name": "ReviewLedger",
+    "src": "app/components/ReviewLedger.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_EvidenceReferenceLink-CmzDK5RN.js",
+      "_data-BhJChN8i.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "app/components/StandardLibrary.tsx": {
+    "file": "ministry-officials/_next/static/chunks/StandardLibrary-Coi9zMrn.js",
+    "name": "StandardLibrary",
+    "src": "app/components/StandardLibrary.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js",
+      "_standard-library-Q2Js34xj.js"
+    ]
+  },
+  "app/components/UnitExplorer.tsx": {
+    "file": "ministry-officials/_next/static/chunks/UnitExplorer-C7n4y75B.js",
+    "name": "UnitExplorer",
+    "src": "app/components/UnitExplorer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js",
+      "_publication-url-BtqB4LtQ.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "ministry-officials/_next/static/chunks/index-D32YO9P5.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_vinext-WbBeTk9u.js",
+      "_framework-JGc2HF7T.js"
+    ],
+    "dynamicImports": [
+      "_vinext-WbBeTk9u.js",
+      "app/components/DraftTriage.tsx",
+      "app/components/UnitExplorer.tsx",
+      "app/components/StandardLibrary.tsx",
+      "app/components/InferredOfficeManager.tsx",
+      "../../../../node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/components/RankLibraryDownload.tsx",
+      "app/components/PanelStandardResume.tsx",
+      "app/components/BaikeResumeDirectory.tsx",
+      "app/components/ReviewLedger.tsx",
+      "app/components/CoverageHeatmap.tsx",
+      "app/components/PublicationEvidenceViewer.tsx"
+    ]
+  }
+}
