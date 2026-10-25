@@ -1,0 +1,1791 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-10-16",
+  "scope": "当前全量 candidate、全部 rawUnits（包含归档机构）、unit-data 展示投影与实际机构页；不扫描历史审阅副本。",
+  "candidate_sha256": "ae67d456d547c443ec5fd0b049883d51c998375ad9068b329d4d85355fded2aa",
+  "registry_candidate_sha256": "ae67d456d547c443ec5fd0b049883d51c998375ad9068b329d4d85355fded2aa",
+  "input_sha256": {
+    "data/intake/full_central.candidate.json": "ae67d456d547c443ec5fd0b049883d51c998375ad9068b329d4d85355fded2aa",
+    "app/data/site/units.json": "7c5d4edcc10bab7503d792599a9efc69a5f0ed9e092559df815a4fc5bfdc2487",
+    "app/data/site/core.json": "e3a5bbc877e927db1a3336f219e200ca03123dcac4ff21b5ab3f4250a7fd29d9",
+    "app/data/resume-office-priority.json": "10ec65a338292c92b9982d2e485dae3138d65625f934ed99853bfc8866243317",
+    "app/lib/unit-data.ts": "f29b508cf3bea6d7e6c1516ecd8b88d5e7eaf28d7d969d538fa82f2eff6dd3f9",
+    "app/lib/resume-office-priority.ts": "00edae8144eacea96f0b6da905ad4be684a1cf014cbdd90e79894656c9771831",
+    "app/data/researched-boundaries.json": "c8ffec5823e8a8649948f184bc0602ec8b91b8eb62d3d2346a5e7c9b3a0e404a",
+    "app/data/researched-reform-boundaries.json": "ce61c91984e57f538e310534ed5f51aa08f328bdf47381b927932e7c214e6d84",
+    "app/data/researched-party-coverage.json": "628135cbfdcc46e04611d92f7a1d83bfba1087d88203cd4ef9de03d39efa0c07",
+    "app/data/revalidated-candidate-research.json": "4c88af176b71411ba4c2dc7fd295caa6730ba91a36c3d1155acd0bdacfd79176",
+    "app/lib/current-research-registries.ts": "cbde475ba1a42aff6479cbd486355abbab152f5fb895598305f3668ab9dd77fe",
+    "app/lib/research-revalidation-contract.ts": "bb491537eaa6e5bb22ab1d25a085cea1dcdfb2e8809ba78fac116a4505d7c33d",
+    "scripts/audit-continuous-office-spells.mjs": "efd51091886d5a5d695ad89d6a1f2254a9ccf5f86702d1636d09b3912125721c",
+    "scripts/lib/registered-panel-research-audit.mjs": "736b8b33914ff2bb0b4d4fa7c4c43d634513648353c166d1769f188a150b8797",
+    "app/data/site/short-gap-policy.json": "87bc6dae9b599cd4b5702ead9ef919adf614c28e2c7ba5e565c92e954d686a97",
+    "app/data/uncertain-source-research.json": "d3f51e216b8f79fa60a432a94d55aea4249c5199b5be2e7eae78252f9be18118",
+    "app/data/verified-post-start-years.json": "bb02e1a78beeeb9a35f10dcf0ab609f9cb0fd755773e97aed89ecfb40170380d",
+    "app/data/approved-state-inferences.json": "b18dbb81c31539b988aaf9e23f04c7beed1c244dc2b59980076920f3cb278183",
+    "app/data/coverage-end-years.json": "eb6856a627b9581ea25369724f704f5f322d62d233944e7d0682e6b0f91e73a9",
+    "app/data/coverage-start-years.json": "0b39050970178580e3888a29cd8c23f1d3936ad0aeb1bb7ef746ebbf93734ee9",
+    "app/data/gazette-appointment-start-reviews.json": "3d56feec20b1fa1b30c0ae97b2b84974fd35da6320da2549e085d4046fddee7f",
+    "app/data/panel-office-clues.json": "10db59679cbe6de460454d1259dd812c3b4e27215908cf809da32070d54b11c2",
+    "app/data/panel-source-period-reviews.json": "1b6f36605a3936910208590263ebea61ac3aececa62f727a328ad87b97a3ce44",
+    "app/data/panel-source-point-reviews.json": "756ea7f1db93301213884eeffb79179a13458a6a96ec90c413443df68d29797c",
+    "app/data/panel-standard/index.json": "302966f1344bf6a0b288808d603cc631e7905b3b551fcd19591bcc2ccb56829a",
+    "app/data/researched-role-scopes.json": "89fc4600b02e32ce105eb8c9a190cb4aea2ec53f7efe738b5ecb51b61fab10d3",
+    "app/data/reviewed-appointment-notices.json": "e53373771924eb10bfb9715f39e6112eb565c90ec7aa5c238eece90f1c3f86f2",
+    "app/data/reviewed-role-labels.json": "c73337738a4b1d57ad1bc889df90b1ea536248c799544545ab14585ad3aa3595",
+    "app/data/reviewed-rule-contexts.json": "5aaf810dfc2cfb7381839466e629776d637d89eaa97df7076db43ef347b1eadc",
+    "app/data/reviewed-tenure-boundaries.json": "2b966d4425d45ff0c877bc8582c5291205ffa62a380f8031c0b28d9ceac7b9b0",
+    "app/lib/appointment-notices.ts": "4381c568d29060892a45813e67a720925a2540444b8e6eee8c5f4b7f1ba4d5be",
+    "app/lib/baike-panel-contract.ts": "9f97aa35daedb9d16886285644eccd77c348469b23f1ad7a44100da60fbd6b18",
+    "app/lib/coverage-period.ts": "d59cbd0660c7ac7d27f7aa83e5a44aebd203afc25c09c5bce6028a116eb17909",
+    "app/lib/data.ts": "0236fa33211f38598e124aad8e8998b50c09ed56d500f506577f7fc1a9fad370",
+    "app/lib/gazette-appointment-starts.ts": "5bbf2ccd979411af66abe0714ff6b33923b23a2a7736b7160d50a51dc16b29b5",
+    "app/lib/lifecycle.ts": "bb4fbaa041b669ffabd85c1a3da78975c324f46423bc2a25142b3b30f969d2d0",
+    "app/lib/lineage.ts": "74b18a4266d7f8ddf0e536d8d343cd9ec724ad4d2bb9369d0b2ebd900dee40ea",
+    "app/lib/office-boundary-display.ts": "a28fea4c4b63202a124a8a57e97c0addad7e03f741998a0f0d08ad729edf488b",
+    "app/lib/office-continuity.ts": "173d2e8330d674c576155904e85de240143595f932b4951a85936f3e53aab5c2",
+    "app/lib/panel-office-clues.ts": "6f924be46e340a9104e623973020d8367848038bf3de8136040426510c24cbdf",
+    "app/lib/panel-source-periods.ts": "59d6a70e6cfa1bd70c827257c85cfd89779534b9ba1f7591d349792d7fde60ad",
+    "app/lib/panel-source-points.ts": "e6065920cbee90971dd518f6ae8156791759df7a0853c3905808461032b27907",
+    "app/lib/panel-standard-contract.ts": "eb23b196d514e5e336883db4bb0c17864829272b6714da76a62aed1ac3544994",
+    "app/lib/resume-endpoint-scope.ts": "9713076790da2e6f0cd57337adc659aded33194001eb749016c2d4372a9eb78a",
+    "app/lib/role-display.ts": "d882de654dd601919268d6fca0d1826ddd93bb14e58ad6d5502b8282db7b72e0",
+    "app/lib/rule-confirmation.ts": "7d348a60a5d4a1ce9421f5f98f93d405e44dd51a14ec76a1055210a79e9c60f9",
+    "app/lib/short-gap-policy.ts": "707e4cb41f15c9f7d9a75842ccf6deeb563e847304f8a2509dc716f0a406438e",
+    "app/lib/tenure-date-joins.ts": "337dd1b871601949362201e37b62eed1988d999b67beff4a0f6fdcad335cf10a",
+    "app/lib/uncertain-source-research.ts": "d7ee47d5791edee291b81463596e47e37915e5048ff1a508e6a282a6ccbcecf3",
+    "app/lib/verified-post-start.ts": "6809acd96680cabdf9336dc8f6d14c63c0009711bf36ed18ca1344ad1ffe6d53",
+    "config/date-boundary-semantics.json": "f59e07190ee16638e6a2ddbc70733d54df954861d1a0f9b2a371d90cba044e47",
+    "config/office-continuity-policy.json": "78bad4a64626615392e184be1087331c33a0c265cc7bdbf4350d9fc0dd4f2660",
+    "config/resume-office-endpoint-selections.json": "5537188ced77c1496017ea4aba3a91845d4dfc84fa3297fbece7154eb04116df",
+    "config/short-gap-policy.json": "078b9ba07fab33b04b04c9753a8aa17c3dc64cfc3dc91db07d1fc7a03f526d55",
+    "package-lock.json": "d78cf0f7d1b09ec7f98159af860986ca333b9b69a60e32c4e7e90c17ac630da1",
+    "package.json": "b89d8883d254b70e2a0afffe8fee7fe78ead2adcaedc680e7d6a052274c5c3e1",
+    "scripts/lib/gazette-start-adoption-audit.mjs": "d1215aef71b3d2c8780cad8f69d4fccdd102645450f66f15bc9cd91d1e929690",
+    "scripts/lib/load-app-module.mjs": "d9a3ed9fb15feed0447d6bce359d0236d63a31ce3a51fc1cb9407cf67e1471b4",
+    "scripts/lib/panel-source-points-audit.mjs": "c76bf313c1fe6e720ede72ff6701f03ddd5c2f5f343045c63bb033d08eaea8e0",
+    "scripts/validate-runtime-research.mjs": "2035667306e59be75c510f8c649181a8121bd8d6d527d508985cecb3e7fb472c",
+    "archive/snapshots/S2061161F576F/raw.html": "896f01106cf0e9a89bf7fe57d75e74f3ac9e04ef57c3246c317d1876d963a0fc",
+    "archive/snapshots/S2061161F576F/extracted.txt": "806a0e9c5ccc34fbe70359321d3d4a3574d6e495c199f6eac6f1de181aecd031",
+    "archive/snapshots/S77E9F63249D7/raw.html": "8d166dcd9000c88410ac406dd5f70e7114a89ac70f829094f290f690e41d2400",
+    "archive/snapshots/S77E9F63249D7/extracted.txt": "140c812064c97607cb3c96ee9f61dbff6e13523dff3d1c3e32babe96353997be",
+    "archive/snapshots/S4BB380FA1A06/raw.pdf": "7fcbf3d37051fb3a72511e8e758c3029c5979ccbbfe80c7905e7a24978562f59",
+    "archive/snapshots/S4BB380FA1A06/extracted.txt": "cb27efa10ef9a4c0e503bc3a485184b89074773ffee3383f3d7c5ffcbccea30a",
+    "archive/snapshots/SBD25DB50761F/raw.pdf": "e71aeda98eb66e6f0cb7ef1ef3470cb605ebd97b8132bc7b120638e347f9fd7f",
+    "archive/snapshots/SBD25DB50761F/extracted.txt": "84692ee24ff9ebd43eb95a2c7384063d5861566cd661bd2df0e17804cc3d8b69",
+    "archive/snapshots/SE00004BB7291/raw.html": "2bdcfeaa5445de5495b933963f0acee1e05999a1af6185d4fefacc655460ccbd",
+    "archive/snapshots/SE00004BB7291/extracted.txt": "7d0c9289fd9288e35146be020b9f819b3b24671b8fa5e6fc9576cbed435da9c0",
+    "archive/snapshots/SD925B006F413/raw.html": "b5adb6fc7492c7f1d771a5e537afec9c3f66b0169940265ea53e2812d8a3328e",
+    "archive/snapshots/SD925B006F413/extracted.txt": "533d080f31a7c165fd7249265a31e3e69bb7225c04d57f3ffa875a054d945894",
+    "archive/snapshots/S043357BB1B93/raw.html": "d6bc9d70c80a4f0799408755a9e565e5a548abc10a5dbad160368d83b04046c5",
+    "archive/snapshots/S043357BB1B93/extracted.txt": "b3c2ba590f15d826d0e5153815b94c6e8fc82054f06b0a71ed5cdbd6ca868f07",
+    "archive/snapshots/S4DB4FC0DF03A/raw.html": "02407b20bf96769f3151e01287c485209cd23b2844cbae7055ffacc149eea8b6",
+    "archive/snapshots/S4DB4FC0DF03A/extracted.txt": "1f1409f18a285f1e55520f5ca3fa187b719005786973f51ff67b1461090d4432",
+    "archive/snapshots/SBA6BA0AD4999/raw.html": "6bc7ccd52661bd0f5563a625734557c7fe51b2ba6ce7712ba624f304a52f1dc7",
+    "archive/snapshots/SBA6BA0AD4999/extracted.txt": "a800c8a4a4bc91097c193890b8bc167775c7d141a7fb8675a1c17c523dded5b4",
+    "archive/snapshots/S65A9C61D6CE1/raw.html": "f726607e708dfd5e2daf43d8b734466672545ac71d2c87f23cb95463ed495489",
+    "archive/snapshots/S65A9C61D6CE1/extracted.txt": "d2b6b01487f2f5f32996d7a51becc9ae93a1e12d348e5ea212098dc8cec16022",
+    "archive/snapshots/S3E5D483630D8/raw.html": "c783276887b0691efcc19aaff11dda362347792d90c629123c5f2922366c85d9",
+    "archive/snapshots/S3E5D483630D8/extracted.txt": "c8bd076208aa826fd4cae6412419246a26db004348d94fcfeafbcb4cd3bdea91",
+    "archive/snapshots/S2AF1CC107043/raw.html": "3435b0fd6d3d0cea26bad38eacaca9ff195e49082cb8e3fe1889b36656c19b8e",
+    "archive/snapshots/S2AF1CC107043/extracted.txt": "2ab60afff556a3d3a31e2787b26ab6345d52b9df5ce7dc3111cbdcdf8dccbca8",
+    "archive/snapshots/S274FC6583215/raw.html": "21091cc8e20ba4733fb716d17c5a0afd57a3fe61ecb6487afa01de772cea8665",
+    "archive/snapshots/S274FC6583215/extracted.txt": "3ad6fe66ddf7cb04effac46666a42978eb7a44760c14533983f58b03976971ac",
+    "archive/snapshots/S3A459FED592F/raw.html": "fc099ad664c90455c8b81ceb97cb5fa441ae9b09f0e98deb708c8b0cf4ffe192",
+    "archive/snapshots/S3A459FED592F/extracted.txt": "eaeea8501836c30e9ad7d9e4795cf88afeeaeb81c2f2adef830489793811eed1",
+    "archive/snapshots/S28DF561F01EF/raw.html": "9a22aebfc35fe02a35f2d78d7fe0186e14e1a09125534d757ae858a59d187d48",
+    "archive/snapshots/S28DF561F01EF/extracted.txt": "30d51813de842e9259633ff50f38d3151db3e81fb06847c3236dd95ed2f25355",
+    "archive/snapshots/S2E225E56A1BD/raw.html": "07d5a1b4d564acf5547911f25f24dcd684955eb0730f717d5935c1c1eb2d7ff2",
+    "archive/snapshots/S2E225E56A1BD/extracted.txt": "738f4d1673170f211911d66a29484d4309d3bf3a72da726bb86fbb5034f2ca68",
+    "archive/snapshots/SB8989FAC731B/raw.html": "b4d003647d3f82bdf9a570ab6fa277199165fcef4b0e4a222cf43393f2ad3d19",
+    "archive/snapshots/SB8989FAC731B/extracted.txt": "295deb06bd3eec46d967a3bcfa4ce8ae54e2531d36e57160e6e40206cc4f3d42",
+    "archive/snapshots/S5B0DDAB116DC/raw.html": "0bee91d68f4165cd032dd9bb6fb8cab61b453b29bc4e436eca1ace800cf2ad51",
+    "archive/snapshots/S5B0DDAB116DC/extracted.txt": "b399dd3b403d6451121d2fcb0e9ba02ce9ed2382cc1a5d0a223cdc104e9408ef",
+    "archive/snapshots/S00E3C9831A64/raw.html": "8c0e36cce7f77a7cfaa04e37336d6042ee9e41f696e48ec6cfa88e3947fa6610",
+    "archive/snapshots/S00E3C9831A64/extracted.txt": "058ab689a1a7731772dcca229681296edff3256064a6123064fe95715fff886d",
+    "archive/snapshots/S3E197F00882F/raw.html": "5e18dd737ab6c0f2a4471e581b870a8ced43acfa11a699f518d1d75f5fccb040",
+    "archive/snapshots/S3E197F00882F/extracted.txt": "bd278771847aa85aa92f8abf8a271ddac2ae7fd364dccaf8064bc15eb8ddb68b",
+    "archive/snapshots/SE1C8B0293747/raw.html": "49e784dfd57747d761ccbf315631a79a70afcbc7ea4bdf9048f96970b8de7552",
+    "archive/snapshots/SE1C8B0293747/extracted.txt": "d639faac504569d06734accf10e7cad46384014d7b723294204d189bbec8117c",
+    "archive/snapshots/SE03D1411944B/raw.html": "c25b2a5e1877c4b54525b003520c5967da05344e1709a38e804f259d50be68f1",
+    "archive/snapshots/SE03D1411944B/extracted.txt": "e08fe47839490b62ba59eb586ef42b898a2570f9905df55d72ab851de65e8cd5",
+    "archive/snapshots/SA232323C72ED/raw.html": "0bee91d68f4165cd032dd9bb6fb8cab61b453b29bc4e436eca1ace800cf2ad51",
+    "archive/snapshots/SA232323C72ED/extracted.txt": "b399dd3b403d6451121d2fcb0e9ba02ce9ed2382cc1a5d0a223cdc104e9408ef",
+    "archive/snapshots/SE25AFE6E09DD/raw.html": "bb1938a8b6a401e9e09bdf6e7eddb3f487480f224166807bf84e241fc97ad035",
+    "archive/snapshots/SE25AFE6E09DD/extracted.txt": "69cc89332335b565b7a300b949fe221b55d0c42dc67ea7dd730603314544d834",
+    "archive/snapshots/S0499577D3C26/raw.html": "4f7cd1997a340e6c81892ab16e320752b95aa8f0b76d7040b5ce8ad08f67603c",
+    "archive/snapshots/S0499577D3C26/extracted.txt": "27dac43206ea98bbce1edfc9f07f46045a8363ebda59713116164a639444ec3f",
+    "archive/snapshots/S53DC7FE9CCE6/raw.pdf": "27f5b7c9e85286c915d71b1376498389a69c11b756ad03137bb8f2a27c262a41",
+    "archive/snapshots/S53DC7FE9CCE6/extracted.txt": "a55c170e47ec0c11eef7832fc4f37d97e2de6d82551def7c6ec3605e015a130d",
+    "archive/snapshots/S259B744BF81B/raw.html": "d6b1702478b2b9ab93923d53477ae029891ae144f729a4fa505ebc8d17ea0b72",
+    "archive/snapshots/S259B744BF81B/extracted.txt": "190f5d0b1112445076fc581a820ec9695067b053d50f13dd4ce9a50d71dd55f8",
+    "archive/snapshots/SC0BCA50817CE/raw.html": "64b755d02c0aab949683d33b33d0c84cc518349297752d319605d837214a1f04",
+    "archive/snapshots/SC0BCA50817CE/extracted.txt": "9c412b2ba2281f1b0ec1f8be4b85021d6762010a5521fccb191c5f5d90cae343",
+    "archive/snapshots/SD5288E99DF69/raw.html": "d26094c237a5889c965337a716df6f6f9b34bcc0b835a1fc8dc071b671c9989e",
+    "archive/snapshots/SD5288E99DF69/extracted.txt": "c86671f6dde297e10629cf94d3eaec3d51addf8a4808d7f2d4c5009426cd0efc",
+    "archive/snapshots/S50C26F7A552B/raw.html": "04b69b475661b6f08aed550932919b9e69007f0caf2a97d055e88c32771517f8",
+    "archive/snapshots/S50C26F7A552B/extracted.txt": "4468c25a73c90ee20da8f43154d5cf9f59bc29724cf7aae29d1f534617ea405e",
+    "archive/snapshots/S584AC20644B7/raw.html": "aeec4b1e73230aaf4e3009f6aa79b5d854b507dc9b14f135ffa90b8f701cf3b4",
+    "archive/snapshots/S584AC20644B7/extracted.txt": "b58bfce985e7a634ed546cea0a3e03fe05d83a72d04369814b084eccd455931e",
+    "archive/snapshots/S18476C8BF561/raw.html": "063427dc09faba27f892b56c73453894c96c6a93151c51f15354ea77f1df0539",
+    "archive/snapshots/S18476C8BF561/extracted.txt": "5850d340f6ce8d096c786a3ab2ae80147d2a164ec6b15e4195a4a2821932fa3b",
+    "archive/snapshots/SF8BF4C67E9B5/raw.pdf": "9a1339a57c7c9ca50bdd3485d8acf6d922f6af8c70c90457ff339a01f02e76a2",
+    "archive/snapshots/SF8BF4C67E9B5/extracted.txt": "e3b4e14b0be3e5c8bcddd28f08aac0c599178bd320fb8323805666951dfc19db",
+    "archive/snapshots/S18CD9973143C/raw.html": "1b717059d54d145092c98e9e6856349d7694426e9fbf87264332681390be31ed",
+    "archive/snapshots/S18CD9973143C/extracted.txt": "ff8956e3934286d03d3d0cf177daa7c7967005e8978229fa1082ad4e4705c3c6",
+    "archive/snapshots/S7B36922AB98D/raw.html": "307b068960fff842a4216fb2ed179df02e03226ab2d34be4e40e112c99be93f1",
+    "archive/snapshots/S7B36922AB98D/extracted.txt": "a4f0fa54ba1173de339a0238c6165de784864a180ecfa4588f3a21518b1311f3",
+    "archive/snapshots/S5AFC2D87D73A/raw.html": "ff43c579c1af90bf5e3870e620d857c9e7a5566c227a2c35c47b2b3bad0ebd9a",
+    "archive/snapshots/S5AFC2D87D73A/extracted.txt": "9e31e484d44c7080443c23e42b1c05e4eb9b7e023f6ca74e78f2b3b44145a136",
+    "archive/snapshots/S06EF213071F8/raw.html": "290d1e3b75abd3e56b7029b1b20f9a8f7d4e3545ca147e2aebec382e6878f90b",
+    "archive/snapshots/S06EF213071F8/extracted.txt": "fa3c7a0ae51160a2e63c09bdee43385abcb54e92f2d6eb814fbad179753fc632",
+    "archive/snapshots/SB86CDE58312A/raw.html": "76d3e52eb4a5bde690f7ee62d7540faab4a0a0f4afbf27c6bef0f2adb93563a3",
+    "archive/snapshots/SB86CDE58312A/extracted.txt": "a661be1db1fdfe5cd79bd4205d599bd20bbaa99795210088b0f781d273ef73a0",
+    "archive/snapshots/SF1A0C0C8E688/raw.html": "d655d0856fd97b5955e440cd07f7832fcd965afca46c69ff880543ba68fa039e",
+    "archive/snapshots/SF1A0C0C8E688/extracted.txt": "8e5968faccce5c31cc83de7531cdbeaa05d5612b57062e9ddc0dbacc2510089c",
+    "work/approved-i04-i22-20261006/baseline.json": "f12cbac5961d1ff1a23cf50dfbc165ef4e2cd57c580243661460aebbcde408e4",
+    "archive/snapshots/S548129483E0B/raw.html": "864331e7d2b57361db7d7c4b8db54a72baa3679bf0d89b88f6ac1ec51b5b0548",
+    "archive/snapshots/S548129483E0B/extracted.txt": "8dc31e784689895aa73bfc815abf19ca07c794d54b537c71cb66c1d0549e84db",
+    "archive/snapshots/S3817C1DD795E/raw.html": "c83968160d20c55fc9c252475411342137b0a030cca4905ec69a96f6cb9dadcf",
+    "archive/snapshots/S3817C1DD795E/extracted.txt": "d1569f4eef5927627337513ff9941a1108318ad4210c2fa8a41cda4ec5679012",
+    "archive/snapshots/SEAD7EE1AD4FF/raw.html": "59f3c882bef544ef608d62eed547339e7e4a7a2d70996512d80f5b9766c7c564",
+    "archive/snapshots/SEAD7EE1AD4FF/extracted.txt": "618b107e8786723003915d194649847efa5a0507ad7af7a256a50cac5ba03ca0",
+    "archive/snapshots/SB69B99FE5FAD/raw.html": "fbaf6b49fc6b81ed6f895caacfdedccc1db249c46697cb36393114c5b0b25c3c",
+    "archive/snapshots/SB69B99FE5FAD/extracted.txt": "b80580f0c7881e12f0e2b2338e62d1c9bc0d603ac2db7925ed9bae65dd33cc68",
+    "archive/snapshots/S6B7AFB7F8611/raw.html": "13c8de50b410c04af1d03eaac7cb97ea0833f96492a870e5a2036936efe6f446",
+    "archive/snapshots/S6B7AFB7F8611/extracted.txt": "c24627119c86295bf9c4512a60051a031b720094083056ad7d414e01a57aab9a",
+    "archive/snapshots/S35468A2B7877/raw.html": "1cab4cec03a9ac57931666b01c407e1d89aad4a3812b5eab0fa2adabcdc1b84f",
+    "archive/snapshots/S35468A2B7877/extracted.txt": "5f49099972882783bcff183e7a38e3e8ff854937aed1c1efee5baa483aaa751b",
+    "archive/snapshots/SD6AE46A48483/raw.html": "900741fc0baa17519af6b33662f40cb058bf137266a9328bbd1a72c6ad5ab993",
+    "archive/snapshots/SD6AE46A48483/extracted.txt": "00259115b513184bbeca525dcd8bed429f6caba959d4025df57347914e9c1283",
+    "archive/snapshots/S87BFCCB61E30/raw.html": "f13b6a1873b09e85c22bda9d66edc0ef4fe2fad34241c15f72bc777c4d0288fd",
+    "archive/snapshots/S87BFCCB61E30/extracted.txt": "fb685a23a541bdce04034588f00a3ea8e5e567a3bd1c2610dbc528747b24113c",
+    "archive/snapshots/SCF99E70A9056/raw.html": "bfde02b18e0558294395d00152c8e026b64347e77336035962fd528809142fc3",
+    "archive/snapshots/SCF99E70A9056/extracted.txt": "0e2ce9235af5a0445cb68e4b68f524e5b6e92c0110e56e403d34479b5f26073f",
+    "archive/snapshots/SFB50AAF40C66/raw.pdf": "fb5768133624fa74fcf192072035d8af88b2dfe522c6e76d83dd50fc2dda7585",
+    "archive/snapshots/SFB50AAF40C66/extracted.txt": "5d72c7741a96e8866e7e8e1d2406354585160cac3c6086c40e0c1e084bea0be8",
+    "archive/snapshots/SE00887B08A5E/raw.html": "5a8a1d37344bb5912e23847d91ff91a5c538ab1b6975b69cd6b3336099ba3e27",
+    "archive/snapshots/SE00887B08A5E/extracted.txt": "ea0401382220e22beb7c6de162f72e52ec19c7d47bd5a3871d59ce37ecd876c9",
+    "archive/snapshots/S0FE25DE848C4/raw.html": "e3b149769a93fe77dec0f8eef2f9dc45caaf5ef2b7221034e7dc1dab0285851a",
+    "archive/snapshots/S0FE25DE848C4/extracted.txt": "978bacc4a246002288ce11d4ad630a1eaaa0a06969c16a07e5a654e9d4c6ad06",
+    "archive/snapshots/S61C6F3B5C3C5/raw.html": "02beebbd7be08383f86e038696b4fb5cde871cd16b7244cff0e35373da9a7120",
+    "archive/snapshots/S61C6F3B5C3C5/extracted.txt": "094d13bdd8cb4fab7396b27a2346c3b78696c44f5bae60ab4e4a2c626c8f80d9",
+    "archive/snapshots/SAAD402B1FF5A/raw.html": "95481987ddb9a89ea57611661172583490edf8c25c79c825a5c99dfd25f8ec81",
+    "archive/snapshots/SAAD402B1FF5A/extracted.txt": "5fdc1b9f087bc8050851d49ba6e6d07e20d9f89f4a0804ea7a51538989d24dc0",
+    "archive/snapshots/S54A7966E99FA/raw-tool-response.txt": "a767f5ccf6d95cb6d397f6b81b4fdacd93ddf7a59814f03200c1045763f6cb0f",
+    "archive/snapshots/S54A7966E99FA/extracted.txt": "cfb97120b775a2da12cad9eb0892850249ae04eab04dc6ea6cb71193ee6cf640",
+    "archive/snapshots/S55513389E33D/raw.html": "42066bfd56cdb8a4781d759ef4e7cd67fc53d10a9fbe50ed0093862ccb8f5484",
+    "archive/snapshots/S55513389E33D/extracted.txt": "e2d249c6ba570d9ce9feb3206a869828cef1593d24ccf81d50105ba500a69a64",
+    "archive/snapshots/S64CF5710A6F8/raw.html": "46cb8d4ab219d029e30337bb8af17c07e24252bdedb960f12254ed863ee516e3",
+    "archive/snapshots/S64CF5710A6F8/extracted.txt": "2d7f246232074b6b448244e927619657f71b6dcfe3bd96ff330180872df2061e",
+    "archive/snapshots/S5961EA645F53/raw.html": "9903e0ed63fbcb69eea2b73526d8806af4a0ae91633a9ffbc404f2745db7e562",
+    "archive/snapshots/S5961EA645F53/extracted.txt": "984b2c61bbc8ec001d15c6490941401240964c270bf2c6f05e8b03bf44bc4cdf",
+    "archive/snapshots/SAB5B001CADDF/raw.html": "827ce933dd5a7927c606264d18cd4115e0e0c48f15eb9f227d481b88887fcc22",
+    "archive/snapshots/SAB5B001CADDF/extracted.txt": "aa30f5dcc2005e4bcd2a0215713b3ca44d8e9407a7bc627f56f71b4e42c46d21",
+    "archive/snapshots/SCCF38A9AC340/raw.html": "bb45f78c4ef41553f3e84f80d9b15f4157f9679c1a090e32f264059f48d5b5e0",
+    "archive/snapshots/SCCF38A9AC340/extracted.txt": "3d33397611934dd87018db02a0e409425967b78b5b16271e14bf48ca92afbd29",
+    "archive/snapshots/S0F18CC6E2660/raw.html": "aa94bf56dfc3ebe8c1e3c0be286b251c323a9641fbf64539ab8d267418f6d3b2",
+    "archive/snapshots/S0F18CC6E2660/extracted.txt": "51657ac4302aae177da5d099c4c22e7a3c6244d45d4e1e9f9619444f70923aa1",
+    "archive/snapshots/SC3903E818425/raw.html": "2ac571a9f3c18a9a4b03e64a74c21f3ce5d0965ec94dd0cbd35fd6a02cf41fff",
+    "archive/snapshots/SC3903E818425/extracted.txt": "73325bb098b351ea33c8859fef02d77b8663245f72f582cb3b503523587db782",
+    "archive/snapshots/S716048F90112/raw.html": "5444d3cc383554801eee7e31dbb687bf536148584137f58e79754a6130ee78e6",
+    "archive/snapshots/S716048F90112/extracted.txt": "a25965b06d9324d0e339f11655e8612abecdef28fb968a2b0aad62fdf76094ab",
+    "archive/snapshots/S8CE98A5825A5/raw.pdf": "6d20cff83e75b6b5861838451789d66f5d6b2b71ea122dc74dfa2b0a6bf4771b",
+    "archive/snapshots/S8CE98A5825A5/extracted.txt": "bb107102ef6b33d5b93f7d16f380f392b90db3548b1c0c161b1ff79bfcd00ed0",
+    "archive/snapshots/SE7398D54BF0D/raw.html": "da8e73a5a9d2caaed6c8ca44626d4877ed82f5c0e0249bb6a456b2d182f72038",
+    "archive/snapshots/SE7398D54BF0D/extracted.txt": "52a6cae8c85410937be84b167dee8f088d2cac88eae9d4608da038f680911bbf",
+    "archive/snapshots/SEF141A710005/raw.html": "d411cd6627c243695fbeff406742f600894cb2679ddcc45779e63d01d7bce51f",
+    "archive/snapshots/SEF141A710005/extracted.txt": "205b36642a3c971318225a2691c7157d78077b42521b02a4a1824a6888a37044",
+    "archive/snapshots/S7A0CB585D22B/raw.html": "9ebf2f6d926812efd03a4290969013a2cf8cd3fdb99ba575c19ed860a8c4e807",
+    "archive/snapshots/S7A0CB585D22B/extracted.txt": "51c4373381f04cbe4ec4b78fae84043fc651baec18ad6f5b7ed75e708f6923e3",
+    "archive/snapshots/S1ED051EAB3A2/raw.html": "228bfde213a8a56465d44d274091315d1140092c968771af7094d42e50cb97af",
+    "archive/snapshots/S1ED051EAB3A2/extracted.txt": "10a4550520060b427a07bd36d71e251ac759386754c0617e0c1f5ff6c91cef94",
+    "archive/snapshots/SF0136ED502C5/raw.html": "71f00519396d7b5712ef7a6982c135f0db3bb360dc5f03c2a7a19b623db95312",
+    "archive/snapshots/SF0136ED502C5/extracted.txt": "283b0745e01b48735f8a2fd87b1e324460deee88d98b5b1e93d7693f105c4fcf",
+    "archive/snapshots/S6CB7B27F3CC7/raw.pdf": "9a1339a57c7c9ca50bdd3485d8acf6d922f6af8c70c90457ff339a01f02e76a2",
+    "archive/snapshots/S6CB7B27F3CC7/extracted.txt": "bc4c29c7b1cc3493b8121936e04b431de0c33396748e3a2bd51f349474e01e5f",
+    "archive/snapshots/S08BDB16B6FB0/raw.html": "70359fdbe0269e8ec345be5edd2d11f2724a81284c494afcae5f0e70a8721d90",
+    "archive/snapshots/S08BDB16B6FB0/extracted.txt": "e1811dc0d2f71bc5bcc83ed5fa66850d181a4adec3b18508bba5f38fe62836f4",
+    "archive/snapshots/SDFB71656B222/raw.html": "a1040bccaefc95b5630505a02f1b677ddd63ace46b10fed71c3dc6da86494cd0",
+    "archive/snapshots/SDFB71656B222/extracted.txt": "f0a2ef734a78670158fdb4db4c6c60e9302df32365bafb7f3cb2dd69e2c493e3",
+    "archive/snapshots/S99138ED6118D/raw.html": "06c30bd7b10bb47d08cd83c4d719c0cd067baf8f36e78f4511830be0127d05f9",
+    "archive/snapshots/S99138ED6118D/extracted.txt": "5fcc589eba429b84a61ae79e79a3c7cb606e293bd11cd509a098c0a24651ddd0",
+    "archive/snapshots/S0AB55D5D63F6/raw.html": "7cda35ced3d9381931187ff772ba40c35828c97778c4c28e8a73f9d9791a51ab",
+    "archive/snapshots/S0AB55D5D63F6/extracted.txt": "e110a304a0f1f1276f62033239375dd58b438eab7b19497f28a810dcf536326a",
+    "archive/snapshots/SFEF44F61CEAA/raw.html": "8e1ad0c0a3ded142d18277156d5f6d9a1775de3069f79bc06c9b85c62843c2af",
+    "archive/snapshots/SFEF44F61CEAA/extracted.txt": "b5b6e80a2fea8740031fd5d9c988b9d85c3a5403048287b466d7c5e40d445cb6",
+    "archive/snapshots/SDB23B7A8E753/raw.pdf": "26474011fc66036a3d9d365a6d91055eb39bb71cfbbf7bc0b0f84316e53dc2a5",
+    "archive/snapshots/SDB23B7A8E753/extracted.txt": "bee9ca399ae9a8051ff074a7e293432551b411084a8c34b48070c953f9ad703d",
+    "archive/snapshots/S0ED9380B9300/raw.html": "a5edccf5b94eda948bbc12cb6bf2265b6ef44312e4025a401d5d2a63f5f815ba",
+    "archive/snapshots/S0ED9380B9300/extracted.txt": "69d4480870e8238ce80c23affc2259b1c86dcce20ae48fb5c7d62ccf438303d2",
+    "archive/snapshots/SC78DFF16E748/raw.html": "a0e37fc28cc49961b7918e1b5b1e0ad5583ae32726c0b5240c116115a64ead23",
+    "archive/snapshots/SC78DFF16E748/extracted.txt": "4fc913229e863895b33ec856f906e3623e2b6ffff7b6fb101adfa48b5bc6b221",
+    "archive/snapshots/S1A567653C545/raw.html": "a81d8addc29f223cf07f613b2acafe56c41f39bed022ee5e0c7f026a1231a256",
+    "archive/snapshots/S1A567653C545/extracted.txt": "9947418eb2aac212bcdb40fe7fdb217f1dbf1838c003e7e9a30c48a38f2260a8",
+    "archive/snapshots/SE15F7B8894A2/raw.html": "0d6f9438c27e64176a5efd24bb536ff14d7338ff1a09a4313493ee360de9fde7",
+    "archive/snapshots/SE15F7B8894A2/extracted.txt": "e82fb66bb576685d96bbd6d69f6bb65c856df2baeec27eecb6e1d1aec4972885",
+    "archive/snapshots/S98082529270D/raw.html": "96f956fc296db71ac0870edf074c78b6ed3893969d38370fa5e84e0a54d7f6f5",
+    "archive/snapshots/S98082529270D/extracted.txt": "5c26fa2f0f5c361d5ad9c0ee0805673308308de6b68f61667ba4ace13636e0fc",
+    "archive/snapshots/S4BAF2FFDFD85/raw.html": "c28384a1876e1e49df947d8f656a64cc93ae267ee5262f57429395124b147f3b",
+    "archive/snapshots/S4BAF2FFDFD85/extracted.txt": "73a8dee4f2d5ecb1e18d8ac165e16b2e7b6fe9d95e4b3903cadec0183811dc24",
+    "archive/snapshots/S47EC75290C8F/raw.html": "aeafd90b878f6e93bfc3530848b0cd48ba172adf1a038045d46c9acd9615d54e",
+    "archive/snapshots/S47EC75290C8F/extracted.txt": "89486f3ba095789086e1e833e81601793544fba3aa4e3453bb5fdbb06a0e3ed8",
+    "archive/snapshots/SEB5787721669/raw.html": "4ad71c6ebd4d987eee9787077c63a06060068eda57bec402132dc366dfae81f7",
+    "archive/snapshots/SEB5787721669/extracted.txt": "9cc612ec3776a32af8c7111f5c85b5b8e983e09a049a8cc551daed202c565de2",
+    "archive/snapshots/S80D357FBD4D7/raw.html": "bb80e2af9620be5c27e8f620325035cf3d83b18a19e7a760ccb63d2e34c36df8",
+    "archive/snapshots/S80D357FBD4D7/extracted.txt": "4cb7d416b00f6111be3811fc1098ab20da6bbdf980f12c5c2163df64e19e9cb4",
+    "archive/snapshots/S0E4AF2FA946D/raw.html": "c6d0c0d22b306b4a45360405eabde6be4aabcfd0eb9b59a4d6cbe28b028c989c",
+    "archive/snapshots/S0E4AF2FA946D/extracted.txt": "02c25289e6e7a7be9460b312eea26e9cf64f29ea636d06ce7c990875294fc79d",
+    "archive/snapshots/S15C9AED328B1/raw.html": "47235687b5ac14ecd998709833a8d2c815822d5a37b3eddaa1b71643b9da7858",
+    "archive/snapshots/S15C9AED328B1/extracted.txt": "05c632d503269e11ef771df26f6cc2e5ba9c17acabd04fb6d898004f2f82f803",
+    "archive/snapshots/SBC18974394F4/raw.html": "771f5ccc490cbce679d9ec197d99a0db3406a14657e17940996518d191462a05",
+    "archive/snapshots/SBC18974394F4/extracted.txt": "27180ea20a8600dce02f733cc054e48960eb8781537b690b6a42004eb16311d4",
+    "archive/snapshots/S434C13893790/raw.html": "cc948639916cdbb2ffd374951000289299a504516514d515e0204c4e23ab42ce",
+    "archive/snapshots/S434C13893790/extracted.txt": "8dda14f7059090cfe9e200f559e5f2c4448b17a72cf6923a20d378e2e7e28b29",
+    "archive/snapshots/S55A2EC35FFD9/raw.html": "f2edd80ee780b5dd601ff5cac6e7590be65e7925db0c237cee9cfe5db3944c38",
+    "archive/snapshots/S55A2EC35FFD9/extracted.txt": "253eb5e4bf53306af57a975338d4f734d31280b071a9689eddd56ed9a6d4760f",
+    "archive/snapshots/S12A95954D0AB/raw.html": "3aced06c0da1d2bb754838f7ba34e3ed7ffa44cbdb1017da9f09b5f1e3c4ea6b",
+    "archive/snapshots/S12A95954D0AB/extracted.txt": "6152314424b8bc81a185af750fe1da429f709f68a07aa9609587f853fd68d90e",
+    "archive/snapshots/SB731BDC6C8AE/raw.html": "3bb616f9bc31c644ad90c43f9c6c01547a746f5fc10dce1993676383da2856dd",
+    "archive/snapshots/SB731BDC6C8AE/extracted.txt": "41df378de4a2d2e067e5047f7e7b830d538128ac1aca0fc61035146f85eb3a27",
+    "archive/snapshots/SB5A76155BC19/raw.html": "a6b1798a502fee6a99b2458e68c9c489d4ca27ca2768d1f7d6f318fd3f1023fe",
+    "archive/snapshots/SB5A76155BC19/extracted.txt": "ec8a36f6745a4beba5f0113dc945ad01914c6f46f94a2767107ffbdc293940a0",
+    "archive/snapshots/S7A73F83DE597/raw.html": "940ebfda1fa8f38ae2f1df5c79f0034396b4f9a790a520b7d06f51c28d1561d1",
+    "archive/snapshots/S7A73F83DE597/extracted.txt": "e8ff18b4247d005f80a6f8b11533f7299817e89b0583a93f47ed55afa522fa02",
+    "archive/snapshots/S5B6664375499/raw.html": "c79c304a35e67e38dc5cd0b297217075df3091e7cc06422b2a505341faf56d86",
+    "archive/snapshots/S5B6664375499/extracted.txt": "ca7b31221a364e98bf370c108dd88fa36601b72b07097ca55528245675c7610f",
+    "scripts/meeting_followup/build_panel_office_clues.py": "62172d92c2a565d288527a11dbcdf6473bca6ea89df568ee5e88f45d24f7a2f4",
+    "work/semantic-quality-20261014/baike-only/panel-input.json": "a5f9fa8190b2d84fabae4979d871974acc7134e97efb567a7cfe5b86ec75d003",
+    "work/semantic-quality-20261014/baike-only/semantic-model.json.gz": "be06b9f34d74b0e76c71c9e10ef0905ca2db16fdcdb4b8b7182b04791370ce35",
+    "work/semantic-quality-20261014/baike-only/acceptance.json": "8cc6ad99de78e5e03aa04e75107e77841627664118e53a96bf171bba70d76ff9",
+    "work/semantic-quality-20261014/supplemented/panel-input.json": "1ad9b7ebf6384541a4728daf05f603a2518af409e722cae305decec34d001ea4",
+    "work/semantic-quality-20261014/supplemented/semantic-model.json.gz": "c542495d4ff257151b8a683c3dbcbf83dfdcadd7074270097fe9eb64c3b5a34b",
+    "work/semantic-quality-20261014/supplemented/acceptance.json": "6137bbc957f6f661f7b2149a7af4a409019d29984f0243818ffc038d91e27c09",
+    "public/panel-standard/baike-only/research-bundle/evidence.json": "62ed07a809cafe020dfbe5e2c84100976e2c97a2ced8f794713dceb1db705fab",
+    "public/panel-standard/baike-only/research-bundle/manifest.json": "d475c04a06be458102b5f42de2b495f25188092106f16c4b26eb655f25b6f57b",
+    "work/full-panel-revision-20261013/annual-sources/YANG-BAIKE.txt": "fed440b01b07cfb15b1361e626df1b6a3e54dadfea98382626626a76790dc703",
+    "work/full-panel-revision-20261013/annual-sources/YANG-BAIKE.html": "78fd010a5677e82a825ba3a9976b873d74d30f49365521fd66cda5a310394b16",
+    "archive/baidu_baike/P003866/8c0630c967a8975287f4/resume.txt": "3fc080a2018d522fadc063e39fc7adb8bc870a5006fdd1dcc4051055216dedc5",
+    "archive/baidu_baike/P003866/8c0630c967a8975287f4/raw.html": "ed090ac03025ddce12a219dbfbfc3e4276eeabd339b8f953d1b39469ce98e88a",
+    "archive/baidu_baike/P004763/120d08e7c97d830f6038/resume.txt": "8a1fd00a504edd043b09ceb0ce878b90bcd8efec42e8a87e6c46c4e13021ff69",
+    "archive/baidu_baike/P004763/120d08e7c97d830f6038/raw.html": "6d9d926fc369720255ae1092087d864991c2439ba830cd52e9bca785e992076a",
+    "archive/baidu_baike/P007707/e0fc5bf462ee34f342ed/resume.txt": "d192e1ec46a108b08418103a6d03c79f01f38b58466b467f064dd4b0b939d4aa",
+    "archive/baidu_baike/P007707/e0fc5bf462ee34f342ed/raw.html": "0f3ba4296caef29a12b6a930a94ca90bd5298aecd900c0ab75160b7bb98e8b89",
+    "work/site-source-points/source-point-registry-proposal.json": "ef3d576b5def2f71f334262acbb126de6289b214e221172166e0faf98ba17861",
+    "work/site-source-points/source-point-review.json": "b736d444d95f3d8cdbac49879dfb109999774f7056764e17ef014365f5d31611",
+    "archive/baidu_baike/P007708/486faa99643983fef75c/resume.txt": "7da425212790c0483b7cece34d0f86bf784a0da8735c1637b75e2685e098cf7d",
+    "archive/baidu_baike/P007708/486faa99643983fef75c/raw.html": "e9aba976cc4710c5b7e4389d8a5d1ccf99548caa8959d5a33a4fd43391519598",
+    "archive/baidu_baike/P007708/486faa99643983fef75c/metadata.json": "2a18c1d7181be9789b2d4c34aaba0de96021f4b338640726fb669cdc97bd1aa3",
+    "archive/baidu_baike/P002139/5f498871ddfe5f292639/resume.txt": "44d717407a9b76e09f304ae07b188d747feae147de2e417ea632f328df86e2b4",
+    "archive/baidu_baike/P002139/5f498871ddfe5f292639/raw.html": "50e67e25ae288a4452b1c11aa257d4761a847334b794578efb5e705b15ca087c",
+    "archive/baidu_baike/P002139/5f498871ddfe5f292639/metadata.json": "b1b58a0167d83c921fc21ebbf32dcb4c299fcae5bc00df24142aa3e53ecb219d",
+    "archive/baidu_baike/P008026/6a74228df9f99c10f466/resume.txt": "843188b8320bd335fc90ca5408c9dbc1efa5c18adf91c29ed126de045b8a849f",
+    "archive/baidu_baike/P008026/6a74228df9f99c10f466/raw.html": "47479337efea1d8ce7316491f63e765120f849c5732a4ea7a0fcb0a312ca22b9",
+    "archive/baidu_baike/P008026/6a74228df9f99c10f466/metadata.json": "a3f5ced01d9ca7784739e5558be0e0244a96870cb47aa6315834de111c3e37ca",
+    "archive/baidu_baike/P007709/ff39592094bc3ab9787f/resume.txt": "a179c44bc4a633a954812a6a58b7b358c8893151ac79ef89284fced2f0e40333",
+    "archive/baidu_baike/P007709/ff39592094bc3ab9787f/raw.html": "a47f3f6a92cdab5e135ae0d40b789206a05c110d9ee79deb0f1725c775a238ce",
+    "archive/baidu_baike/P007709/ff39592094bc3ab9787f/metadata.json": "33c1d8240a7988db7fa8b71d1b3f9900153f96f358ae1338af381a6354bec439",
+    "work/fulltext-corpus-20261007/documents/secondary-1161f01f952656feff2cdf78.json": "cb352a42d4993249b7d3aff24e485584d0dc5d8e504063996a11a1a6da063f06",
+    "archive/snapshots/S4FF309FFA2B0/raw.html": "9c34b8e6852f55d87d0458df172e65d5c5a54c15e2ad7e9293dc406e0865f365",
+    "data/curated/snapshots.csv": "bcdb3b8005d98fbcf33ca95e840290c2c75502d86193535b7ae55fe6480a1919",
+    "work/fulltext-corpus-20261007/documents/baike-543baac3bcd33c508792039c.json": "3a2258aebec35763663cc096e83d5c5cb3106747d9ecce6bcc4eea384b5ef149",
+    "archive/baidu_baike/P002971/c73bd17b547ec71eea9d/raw.html": "543baac3bcd33c508792039ce7f531ada31ad6b09b583319dc58c8ce94f7a2c3",
+    "archive/baidu_baike/P002971/c73bd17b547ec71eea9d/metadata.json": "ceafbf97f978553a22bc1d63eded1ef550662f1ff0c1fe3ba65eaf5ae60adb15",
+    "work/fulltext-corpus-20261007/documents/secondary-660efb89537d86c9dcc0fbf5.json": "cb55f2a5282d7533ed118b9aefc4bacc1ffe81dc3eab26edb68c9904f67f6c20",
+    "archive/snapshots/S346675093DE7/raw.html": "27fd2042d9e2c3dfdb355bd274c88391ebae03b96e80d592e8fe61f1c273fd84",
+    "archive/corrections/20261016-gazette-appointment-starts/sun.html": "f1a85fe507cf2ccd6155ab0638c141946c3b47078ed053bcdaa51d280e235dc3",
+    "archive/corrections/20261016-gazette-appointment-starts/sun.txt": "5990266a33ee97481cb93666d9d4e06843c566c20ccdcd4360eee92a34983e57",
+    "archive/corrections/20261016-gazette-appointment-starts/sun-metadata.json": "5e55666c3af7fa7a1f3e06bb48f82c815d620ad2016f02b225f825d10fae469f",
+    "archive/corrections/20261016-gazette-appointment-starts/ding.html": "ef3acccd7ef0d7b5a1fdf9c2dc607d112221a546c3dc84de54e93115e13d0153",
+    "archive/corrections/20261016-gazette-appointment-starts/ding.txt": "26ad050e81c2d8c6143ab76b3a2855e222e00e8ffbe453f2d014c3aa809b9266",
+    "archive/corrections/20261016-gazette-appointment-starts/ding-metadata.json": "bb94781ad0a59f99f019d70cca27aab4f9e5c6cb0e2582a0de2a894c6f8b0682",
+    "archive/corrections/20261016-gazette-appointment-starts/cheng.html": "4e1e513dfb427362b3a4c317c9526b0fb65083754f71e27740a68cf9b7a674de",
+    "archive/corrections/20261016-gazette-appointment-starts/cheng.txt": "fdd3dd00276c34eb3a48e919464462d5fab8038182c7b37c575ce96706985c7a",
+    "archive/corrections/20261016-gazette-appointment-starts/cheng-metadata.json": "d21953c3d22e5117a4339eb6633f98abc0089d74a896bdbdbff0fda0029f6520"
+  },
+  "registry_input_sha256": "7da295753473cfcc36365b9b4aa2a237c28d49abff3c83e53a0fe39a88df4fd0",
+  "registry_input_verification": {
+    "expected": 1423,
+    "verified": 1423,
+    "errors": []
+  },
+  "office_continuity_policy_sha256": "78bad4a64626615392e184be1087331c33a0c265cc7bdbf4350d9fc0dd4f2660",
+  "office_continuity_projection_sha256": "b1558cdea74ed30652d5796478c28cc50ee614596afb6e3cd4ce2799d58453dc",
+  "metrics": {
+    "raw_units": 131,
+    "active_units": 130,
+    "archived_units": 1,
+    "active_candidate_spells": 927,
+    "raw_spells": 927,
+    "projected_spells": 946,
+    "repeated_identity_groups": 4,
+    "repeated_original_spells": 8,
+    "projected_repeated_identity_groups": 3,
+    "merge_groups": 1,
+    "folded_original_spells": 2,
+    "registered_supplemental_spells": 5,
+    "registered_panel_research_records": 15,
+    "projected_office_records_excluding_panel_research": 931,
+    "retained_groups": 3,
+    "continuity_review_pairs": 0,
+    "registry_inputs_verified": 1423,
+    "checks": 0,
+    "rendered_checked_pages": 0,
+    "rendered_errors": 0
+  },
+  "groups": [
+    {
+      "unit_id": "U000007",
+      "unit_name": "中华人民共和国科学技术部",
+      "record_status": "active",
+      "person_id": "P000016",
+      "person_name": "王志刚",
+      "post": "书记",
+      "original_spells": [
+        {
+          "office_spell_id": "U000007-书记-05",
+          "spell_uid": "S00000019",
+          "unit_id": "U000007",
+          "post": "书记",
+          "person_id": "P000016",
+          "person_name": "王志刚",
+          "start_date": "2011-04-02",
+          "start_basis": "announcement",
+          "end_basis": "",
+          "start_prec": "day",
+          "end_date": "",
+          "end_prec": "",
+          "end_status": "unknown",
+          "tenure_months": "",
+          "is_acting": "1",
+          "is_current": "0",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "conflict",
+          "start_evidence_ids": "E00559064",
+          "end_evidence_ids": "",
+          "evidence_ids": "E00559064",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "AD00000601",
+          "notes": "此前说明（仅作历史）：原职务是党组副书记，主持科学技术部党组工作，is_acting=1；不是正式党组书记。2011-04-02是党组会上宣读任命的公告边界，由C级原稿支持；B级本人履历另记2011.03-2012.07为党组副书记、副部长，未证明何时开始主持，不能把该副职月范围整个套给主持阶段。原2012-08-21仅公开宣布正式任书记，另本人官方履历给2012-07正式书记起点；本临时段实际结束未直接确认，改unknown，不用后期正式任职映射掩盖。正式书记另条保持分开。；当前明确说明：原始新京报明确4/2会议宣读王志刚任科学技术部党组副书记，并主持科学技术部党组工作。本条仅临时主持职责，保is_acting=1，绝不是正式或获任代理的党组书记；4/2保公告用途，actual起点和终点仍未确认。副职简历2011.03不能证明当月已主持；2012-07正式书记独立记录。原宿主导致的C分级已由原稿标识校正为B，限制仍为无实际主持起止原件。",
+          "source_role_label": "党组副书记（主持党组工作）",
+          "source_role_label_evidence_ids": "E00559064",
+          "source_role_label_report_sha256": "0ab57990b1cc72a1fed21d337de38d3a6e6bd2ece2cce3732c74d68d75fcdbf7"
+        },
+        {
+          "office_spell_id": "U000007-书记-06",
+          "spell_uid": "S00000020",
+          "unit_id": "U000007",
+          "post": "书记",
+          "person_id": "P000016",
+          "person_name": "王志刚",
+          "start_date": "2012-07",
+          "start_basis": "appointment",
+          "end_basis": "official_resume",
+          "start_prec": "month",
+          "end_date": "2023-10",
+          "end_prec": "month",
+          "end_status": "known",
+          "tenure_months": "136",
+          "is_acting": "0",
+          "is_current": "0",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "conflict",
+          "start_evidence_ids": "E00000094",
+          "end_evidence_ids": "E00559061",
+          "evidence_ids": "E00000094|E00559061",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "AD00000646",
+          "notes": "前轮说明（仅留历史）：本轮复核：王志刚正式党组书记起点恢复本人履历2012年7月；2012年8月21日为公开宣布日期，保留其原始证据。 原值和旧解释保留于修订历史。；本次仅修日期字段的证据用途：E00000083保留于all_evidence_refs历史，不再作为本end日期的独立支撑；主证保留E00000082。日期、精度、basis、人员/机构/岗位均不改。；本轮核定：本人相邻闭合履历明确2023年10月结束科学技术部党组书记，10/7会议是另行公开事件保历史，不从部长10/24复制实际日。"
+        }
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00000019",
+          "right_uid": "S00000020",
+          "kind": "distinct_responsibility",
+          "continuous": false,
+          "reason": "临时主持或代理与正式任职的 is_acting 不同，必须分别保留责任阶段。",
+          "folded": false
+        }
+      ],
+      "projected_uids": [
+        "S00000019",
+        "S00000020"
+      ]
+    },
+    {
+      "unit_id": "U000010",
+      "unit_name": "中华人民共和国外交部",
+      "record_status": "active",
+      "person_id": "P000093",
+      "person_name": "王毅",
+      "post": "行政正职",
+      "original_spells": [
+        {
+          "office_spell_id": "U000010-长-04",
+          "spell_uid": "S00000175",
+          "unit_id": "U000010",
+          "post": "行政正职",
+          "person_id": "P000093",
+          "person_name": "王毅",
+          "start_date": "2013-03-16",
+          "start_basis": "appointment",
+          "end_basis": "departure",
+          "start_prec": "day",
+          "end_date": "2022-12-30",
+          "end_prec": "day",
+          "end_status": "known",
+          "tenure_months": "117.49",
+          "is_acting": "0",
+          "is_current": "0",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "multi",
+          "start_evidence_ids": "E00006391",
+          "end_evidence_ids": "E00006377",
+          "evidence_ids": "E00006377|E00006391",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "",
+          "notes": "；2026-10-07：start改用本人本职主席令全文，取2013-03-16正文落款；旧来源保留。"
+        },
+        {
+          "office_spell_id": "U000010-长-06",
+          "spell_uid": "S00000177",
+          "unit_id": "U000010",
+          "post": "行政正职",
+          "person_id": "P000093",
+          "person_name": "王毅",
+          "start_date": "2023-07-25",
+          "start_basis": "appointment",
+          "end_basis": "",
+          "start_prec": "day",
+          "end_date": "",
+          "end_prec": "",
+          "end_status": "current",
+          "tenure_months": "",
+          "is_acting": "0",
+          "is_current": "1",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "multi",
+          "start_evidence_ids": "E00006380",
+          "end_evidence_ids": "",
+          "evidence_ids": "E00006380|E00006381|E00006389",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "",
+          "notes": ""
+        }
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00000175",
+          "right_uid": "S00000177",
+          "kind": "separate_tenures",
+          "continuous": false,
+          "reason": "原始任期存在真实时间间隔：前段结束 2022-12-30，后段开始 2023-07-25。",
+          "folded": false
+        }
+      ],
+      "projected_uids": [
+        "S00000175",
+        "S00000177"
+      ]
+    },
+    {
+      "unit_id": "U000031",
+      "unit_name": "中华人民共和国应急管理部",
+      "record_status": "active",
+      "person_id": "P001435",
+      "person_name": "黄明",
+      "post": "书记",
+      "original_spells": [
+        {
+          "office_spell_id": "U000031-书记-01",
+          "spell_uid": "S00001508",
+          "unit_id": "U000031",
+          "post": "书记",
+          "person_id": "P001435",
+          "person_name": "黄明",
+          "start_date": "2018-03",
+          "start_basis": "official_resume",
+          "end_basis": "title_change",
+          "start_prec": "month",
+          "end_date": "2020-03",
+          "end_prec": "month",
+          "end_status": "known",
+          "tenure_months": "",
+          "is_acting": "0",
+          "is_current": "0",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "single",
+          "start_evidence_ids": "E00097769",
+          "end_evidence_ids": "E00097747",
+          "evidence_ids": "E00097747|E00097769",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "",
+          "notes": "党组书记阶段。；现有本人完整履历已明确本机构本党职实际起点2018-03，只取原文月精度；原干部会公开日期留作独立历史事件，不当实际任命日。新E从当前原生来源元数据复制，既有准确career日期及其所有原文不改。 后续2018-11阶段仅新增消防救援衔，未把同一党组书记起点重开为11月。"
+        },
+        {
+          "office_spell_id": "U000031-书记-02",
+          "spell_uid": "S00001509",
+          "unit_id": "U000031",
+          "post": "书记",
+          "person_id": "P001435",
+          "person_name": "黄明",
+          "start_date": "2020-03",
+          "start_basis": "title_change",
+          "end_basis": "announcement",
+          "start_prec": "month",
+          "end_date": "2022-07-29",
+          "end_prec": "day",
+          "end_status": "known",
+          "tenure_months": "",
+          "is_acting": "0",
+          "is_current": "0",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "multi",
+          "start_evidence_ids": "E00097747",
+          "end_evidence_ids": "E00097763",
+          "evidence_ids": "E00097747|E00097763",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "",
+          "notes": "党委书记阶段。；本轮end口径：2022-07-29为本源明确的本人同岗干部会议公开宣布日，basis改为announcement；保留日期精度，不声明内部任命或本人实际离任日。新原子LOCAL-E020，原引文/历史引用保留。"
+        }
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00001508",
+          "right_uid": "S00001509",
+          "kind": "source_title_change",
+          "continuous": true,
+          "reason": "同一人、机构、岗位与正式任职责任一致；来源称谓变化相接于 2020-03，应折叠展示并保留全部原始阶段。",
+          "folded": true
+        }
+      ],
+      "projected_uids": [
+        "S00001508"
+      ]
+    },
+    {
+      "unit_id": "U000043",
+      "unit_name": "国家知识产权局",
+      "record_status": "active",
+      "person_id": "P002205",
+      "person_name": "申长雨",
+      "post": "书记",
+      "original_spells": [
+        {
+          "office_spell_id": "U000043-书记-03",
+          "spell_uid": "S00002278",
+          "unit_id": "U000043",
+          "post": "书记",
+          "person_id": "P002205",
+          "person_name": "申长雨",
+          "start_date": "2013-12-23",
+          "start_basis": "appointment",
+          "end_basis": "departure",
+          "start_prec": "day",
+          "end_date": "2018-03",
+          "end_prec": "month",
+          "end_status": "known",
+          "tenure_months": "52",
+          "is_acting": "0",
+          "is_current": "0",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "single",
+          "start_evidence_ids": "E00149978",
+          "end_evidence_ids": "E00149981",
+          "evidence_ids": "E00149978|E00149981",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "",
+          "notes": ""
+        },
+        {
+          "office_spell_id": "U000043-书记-05",
+          "spell_uid": "S00002280",
+          "unit_id": "U000043",
+          "post": "书记",
+          "person_id": "P002205",
+          "person_name": "申长雨",
+          "start_date": "2018-12",
+          "start_basis": "official_resume",
+          "end_basis": "",
+          "start_prec": "month",
+          "end_date": "",
+          "end_prec": "",
+          "end_status": "current",
+          "tenure_months": "",
+          "is_acting": "0",
+          "is_current": "1",
+          "exit_type": "",
+          "exit_raw": "",
+          "verify_status": "multi",
+          "start_evidence_ids": "E00149984",
+          "end_evidence_ids": "",
+          "evidence_ids": "E00149984|E00149985|E00149994",
+          "origin_type": "",
+          "native_scope": "",
+          "next_pos_raw": "",
+          "next_rank": "",
+          "patron_person_id": "",
+          "adjudication_id": "",
+          "notes": "2018年12月恢复任党组书记；截止日仍在任。"
+        }
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00002278",
+          "right_uid": "S00002280",
+          "kind": "separate_tenures",
+          "continuous": false,
+          "reason": "原始任期存在真实时间间隔：前段结束 2018-03，后段开始 2018-12。",
+          "folded": false
+        }
+      ],
+      "projected_uids": [
+        "S00002278",
+        "S00002280"
+      ]
+    }
+  ],
+  "projected_groups": [
+    {
+      "unit_id": "U000007",
+      "person_id": "P000016",
+      "person_name": "王志刚",
+      "post": "书记",
+      "spell_uids": [
+        "S00000019",
+        "S00000020"
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00000019",
+          "right_uid": "S00000020",
+          "kind": "distinct_responsibility",
+          "continuous": false,
+          "reason": "临时主持或代理与正式任职的 is_acting 不同，必须分别保留责任阶段。"
+        }
+      ]
+    },
+    {
+      "unit_id": "U000010",
+      "person_id": "P000093",
+      "person_name": "王毅",
+      "post": "行政正职",
+      "spell_uids": [
+        "S00000175",
+        "S00000177"
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00000175",
+          "right_uid": "S00000177",
+          "kind": "separate_tenures",
+          "continuous": false,
+          "reason": "原始任期存在真实时间间隔：前段结束 2022-12，后段开始 2023-07-25。"
+        }
+      ]
+    },
+    {
+      "unit_id": "U000043",
+      "person_id": "P002205",
+      "person_name": "申长雨",
+      "post": "书记",
+      "spell_uids": [
+        "S00002278",
+        "S00002280"
+      ],
+      "assessments": [
+        {
+          "left_uid": "S00002278",
+          "right_uid": "S00002280",
+          "kind": "separate_tenures",
+          "continuous": false,
+          "reason": "原始任期存在真实时间间隔：前段结束 2018-03，后段开始 2018-12。"
+        }
+      ]
+    }
+  ],
+  "merges": [
+    {
+      "unit_id": "U000031",
+      "unit_name": "中华人民共和国应急管理部",
+      "spell_uid": "S00001508",
+      "person_id": "P001435",
+      "person_name": "黄明",
+      "post": "书记",
+      "original_uids": [
+        "S00001508",
+        "S00001509"
+      ],
+      "originals_preserved_all_fields": true,
+      "reference_ids": [
+        "S00001508",
+        "S00001509"
+      ],
+      "reason": "同一人、同一机构、同一岗位的来源履历连续；称谓或附加职责变化保留为任期内阶段，合并展示为一段任职。",
+      "problems": []
+    }
+  ],
+  "registered_supplemental_spells": [
+    {
+      "unit_id": "U000016",
+      "spell_uid": "RESEARCH-PARTY-GENGHUICHANG-20261004",
+      "registry": "party",
+      "person_name": "耿惠昌",
+      "post": "书记",
+      "reason": "新华社2009年4月稿明确国家安全部党委书记、部长耿惠昌，统计起界采用公开身份观察月份；至陈文清2015年4月本人同岗履历起界作有界衔接。实际党职到任及离任日期未知，不借2007年部长任命，也不把开馆日或刊发日升为党职任命日。",
+      "original_registered_spell": {
+        "office_spell_id": "U000016-书记-RESEARCH-PARTY-GENGHUICHANG-20261004",
+        "spell_uid": "RESEARCH-PARTY-GENGHUICHANG-20261004",
+        "unit_id": "U000016",
+        "post": "书记",
+        "person_id": "P000475",
+        "person_name": "耿惠昌",
+        "start_date": "2009-04",
+        "start_basis": "in_office_point",
+        "end_basis": "inferred",
+        "start_prec": "month",
+        "end_date": "2015-04",
+        "end_prec": "month",
+        "end_status": "known",
+        "tenure_months": "",
+        "is_acting": "0",
+        "is_current": "0",
+        "exit_type": "",
+        "exit_raw": "",
+        "verify_status": "single",
+        "start_evidence_ids": "",
+        "end_evidence_ids": "",
+        "evidence_ids": "",
+        "origin_type": "",
+        "native_scope": "",
+        "next_pos_raw": "",
+        "next_rank": "",
+        "patron_person_id": "",
+        "adjudication_id": "",
+        "notes": "新华社2009年4月稿明确国家安全部党委书记、部长耿惠昌，统计起界采用公开身份观察月份；至陈文清2015年4月本人同岗履历起界作有界衔接。实际党职到任及离任日期未知，不借2007年部长任命，也不把开馆日或刊发日升为党职任命日。",
+        "source_role_label": "党委书记"
+      }
+    },
+    {
+      "unit_id": "U000017",
+      "spell_uid": "RESEARCH-PARTY-DUOJICAIRANG-20261004",
+      "registry": "party",
+      "person_name": "多吉才让",
+      "post": "书记",
+      "reason": "百度本人履历在1993年3月明确部长、党组书记身份，以该本人本岗履历锚至李学举2003年3月同岗起任作有界连续统计；更早副书记/书记的具体转任月未分清，实际党职首次到任和离任仍未知。统计起界不是首次任命日，终界仅为同岗继任约束，不复制部长法定任免。",
+      "original_registered_spell": {
+        "office_spell_id": "U000017-书记-RESEARCH-PARTY-DUOJICAIRANG-20261004",
+        "spell_uid": "RESEARCH-PARTY-DUOJICAIRANG-20261004",
+        "unit_id": "U000017",
+        "post": "书记",
+        "person_id": "P000538",
+        "person_name": "多吉才让",
+        "start_date": "1993-03",
+        "start_basis": "in_office_point",
+        "end_basis": "inferred",
+        "start_prec": "month",
+        "end_date": "2003-03",
+        "end_prec": "month",
+        "end_status": "known",
+        "tenure_months": "",
+        "is_acting": "0",
+        "is_current": "0",
+        "exit_type": "",
+        "exit_raw": "",
+        "verify_status": "single",
+        "start_evidence_ids": "",
+        "end_evidence_ids": "",
+        "evidence_ids": "",
+        "origin_type": "",
+        "native_scope": "",
+        "next_pos_raw": "",
+        "next_rank": "",
+        "patron_person_id": "",
+        "adjudication_id": "",
+        "notes": "百度本人履历在1993年3月明确部长、党组书记身份，以该本人本岗履历锚至李学举2003年3月同岗起任作有界连续统计；更早副书记/书记的具体转任月未分清，实际党职首次到任和离任仍未知。统计起界不是首次任命日，终界仅为同岗继任约束，不复制部长法定任免。",
+        "source_role_label": "党组书记"
+      }
+    },
+    {
+      "unit_id": "U000018",
+      "spell_uid": "RESEARCH-PARTY-WUAIYING-20261004",
+      "registry": "party",
+      "person_name": "吴爱英",
+      "post": "书记",
+      "reason": "已消歧并校验快照的百度履历明确2005.06—2017.02司法部部长、党组书记，两职均明示。独立补党岗，保留C级分类与原文月份，不使用行政法定任免日；与张福森履历2005-07终月的差异另列交接待辨析。",
+      "original_registered_spell": {
+        "office_spell_id": "U000018-书记-RESEARCH-PARTY-WUAIYING-20261004",
+        "spell_uid": "RESEARCH-PARTY-WUAIYING-20261004",
+        "unit_id": "U000018",
+        "post": "书记",
+        "person_id": "P000604",
+        "person_name": "吴爱英",
+        "start_date": "2005-06",
+        "start_basis": "official_resume",
+        "end_basis": "official_resume",
+        "start_prec": "month",
+        "end_date": "2017-02",
+        "end_prec": "month",
+        "end_status": "known",
+        "tenure_months": "",
+        "is_acting": "0",
+        "is_current": "0",
+        "exit_type": "",
+        "exit_raw": "",
+        "verify_status": "single",
+        "start_evidence_ids": "",
+        "end_evidence_ids": "",
+        "evidence_ids": "",
+        "origin_type": "",
+        "native_scope": "",
+        "next_pos_raw": "",
+        "next_rank": "",
+        "patron_person_id": "",
+        "adjudication_id": "",
+        "notes": "已消歧并校验快照的百度履历明确2005.06—2017.02司法部部长、党组书记，两职均明示。独立补党岗，保留C级分类与原文月份，不使用行政法定任免日；与张福森履历2005-07终月的差异另列交接待辨析。",
+        "source_role_label": "党组书记"
+      }
+    },
+    {
+      "unit_id": "U000018",
+      "spell_uid": "RESEARCH-PARTY-ZHANGJUN-20261004",
+      "registry": "party",
+      "person_name": "张军",
+      "post": "书记",
+      "reason": "已消歧百度履历明确2017—2018年司法部部长、党组书记；独立补党岗，保持年份精度。起止月份仍待本岗补证，不把部长任免日或袁曙宏起任日写成本人实际免职日。",
+      "original_registered_spell": {
+        "office_spell_id": "U000018-书记-RESEARCH-PARTY-ZHANGJUN-20261004",
+        "spell_uid": "RESEARCH-PARTY-ZHANGJUN-20261004",
+        "unit_id": "U000018",
+        "post": "书记",
+        "person_id": "P000605",
+        "person_name": "张军",
+        "start_date": "2017",
+        "start_basis": "official_resume",
+        "end_basis": "official_resume",
+        "start_prec": "year",
+        "end_date": "2018",
+        "end_prec": "year",
+        "end_status": "known",
+        "tenure_months": "",
+        "is_acting": "0",
+        "is_current": "0",
+        "exit_type": "",
+        "exit_raw": "",
+        "verify_status": "single",
+        "start_evidence_ids": "",
+        "end_evidence_ids": "",
+        "evidence_ids": "",
+        "origin_type": "",
+        "native_scope": "",
+        "next_pos_raw": "",
+        "next_rank": "",
+        "patron_person_id": "",
+        "adjudication_id": "",
+        "notes": "已消歧百度履历明确2017—2018年司法部部长、党组书记；独立补党岗，保持年份精度。起止月份仍待本岗补证，不把部长任免日或袁曙宏起任日写成本人实际免职日。",
+        "source_role_label": "党组书记"
+      }
+    },
+    {
+      "unit_id": "U000093",
+      "spell_uid": "RESEARCH-NEWS-YUYOUXIAN-PARTY-20261003",
+      "registry": "reform",
+      "person_name": "于友先",
+      "post": "书记",
+      "reason": "1998年8月17日同期人民日报直接称于友先为国家新闻出版署党组书记；石宗源本人同岗履历明确2000年9月开始。两端形成同岗有界连续统计区间，未发现其间竞争任职者；起界采用早期在任观察月份，终界仅为同岗继任月份，均不是于友先实际任免日期，不从行政署长任期复制。",
+      "original_registered_spell": {
+        "office_spell_id": "U000093-书记-RESEARCH-01",
+        "spell_uid": "RESEARCH-NEWS-YUYOUXIAN-PARTY-20261003",
+        "unit_id": "U000093",
+        "post": "书记",
+        "person_id": "P005402",
+        "person_name": "于友先",
+        "start_date": "1998-08",
+        "start_basis": "in_office_point",
+        "end_basis": "inferred",
+        "start_prec": "month",
+        "end_date": "2000-09",
+        "end_prec": "month",
+        "end_status": "known",
+        "tenure_months": "",
+        "is_acting": "0",
+        "is_current": "0",
+        "exit_type": "",
+        "exit_raw": "",
+        "verify_status": "single",
+        "start_evidence_ids": "",
+        "end_evidence_ids": "",
+        "evidence_ids": "",
+        "origin_type": "",
+        "native_scope": "",
+        "next_pos_raw": "",
+        "next_rank": "",
+        "patron_person_id": "",
+        "adjudication_id": "",
+        "notes": "1998年8月17日同期人民日报直接称于友先为国家新闻出版署党组书记；石宗源本人同岗履历明确2000年9月开始。两端形成同岗有界连续统计区间，未发现其间竞争任职者；起界采用早期在任观察月份，终界仅为同岗继任月份，均不是于友先实际任免日期，不从行政署长任期复制。",
+        "source_role_label": "党组书记"
+      }
+    }
+  ],
+  "registered_panel_research_records": [
+    {
+      "unit_id": "U000013",
+      "spell_uid": "RESEARCH-PANEL-PANEL-CLUE-U000013-P004763-party-2008-03-2008-03",
+      "person_id": "P004763",
+      "person_name": "王旭东",
+      "post": "书记",
+      "registry": "source_period",
+      "original_actual_endpoints_untouched": true,
+      "source_period": {
+        "schema_version": "panel-source-period-v1",
+        "review_id": "SOURCE-PERIOD-PANEL-CLUE-U000013-P004763-party",
+        "clue_id": "PANEL-CLUE-U000013-P004763-party",
+        "source_window": {
+          "start": "2008-03",
+          "end": "2008-04",
+          "precision": "month"
+        },
+        "source_window_label": "2008-03—2008-04",
+        "guaranteed_month_window": {
+          "start": "2008-03",
+          "end_inclusive": "2008-04",
+          "calculation_only": true
+        },
+        "original_gap": {
+          "gap_id": "G00000200",
+          "unit_id": "U000013",
+          "post": "书记",
+          "start_date": "2008-03-17",
+          "start_prec": "day",
+          "end_date": "2008-04-01",
+          "end_prec": "day",
+          "gap_status": "researched_unknown",
+          "reason": "新机构成立至李毅中公开履历所列2008年4月党组书记起点间未取得党组书记或代理任命。",
+          "search_scope": "不把原信息产业部或国防科工委党职并入新实体。",
+          "evidence_ids": "",
+          "notes": "不把原信息产业部或国防科工委党职并入新实体。"
+        },
+        "limiting_gap_ids": [
+          "G00000200~join-2008-03-01"
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2008-03-01",
+            "end": "2008-04-01"
+          }
+        ],
+        "source_ids": [
+          "PANEL-P004763-RESUME-STAGE"
+        ],
+        "primary_source_id": "PANEL-P004763-RESUME-STAGE",
+        "primary_quote_sha256": "65e2a97968f4558899e66390bc4f1920dae1e5e920346d4490299b5a23e01d71",
+        "support_source_ids": [
+          "PANEL-P004763-RESUME-STAGE"
+        ],
+        "context_source_ids": [],
+        "date_discrepancy": {
+          "field": "individual_role_dates",
+          "status": "individual_boundaries_not_independently_confirmed",
+          "actual_end_selected": false,
+          "note": "原件将新工业和信息化部2008-03至04阶段与上一行旧信息产业部明确分开；只提供党组书记线索，副部长不作为行政正职。源月份包含机构成立月，不补个人任免日。"
+        },
+        "actual_endpoints_assigned": false,
+        "reason": "来源记载2008-03—2008-04，用于本机构本岗有界月份研究；实际到任、离任日期仍未知。原文将新工信部党组书记与旧信息产业部岗位分段，副部长不作为行政正职；不借机构成立日或副部长免职日补党职。"
+      }
+    },
+    {
+      "unit_id": "U000042",
+      "spell_uid": "RESEARCH-SOURCE-POINT-6ab0d93cca1e1dae2320",
+      "person_id": "P002139",
+      "person_name": "朱之鑫",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-6ab0d93cca1e1dae2320",
+        "kind": "point_month",
+        "source_date": "2000-06",
+        "source_precision": "month",
+        "source_label": "2000-06（原文在任月份，终点未知）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-0C1983ACF4FA2324C3A20F2D"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00001128",
+            "unit_id": "U000042",
+            "post": "书记",
+            "start_date": "2000-01-01",
+            "start_prec": "day",
+            "end_date": "2001-03-29",
+            "end_prec": "day",
+            "gap_status": "pending_conflict",
+            "reason": "项目2000研究窗起至2001-03-29原材料节点之间，刘洪/朱之鑫党组书记时间仍未确认；所查局长任期表、局长署名和具名曾任集合均不足以给党职起讫。",
+            "search_scope": "扩展原NBS-G01覆盖被撤回刘洪党职日期段留下的实际研究范围，不以1997-02局长起点创造党职开始。末端2001-03-29仅承接原查证节点；后续LOCAL-G05已覆盖至2003-03，不另造确定交接日或空缺。行政NBS-G03和刘洪局长career保持独立。",
+            "evidence_ids": "",
+            "notes": "扩展原NBS-G01覆盖被撤回刘洪党职日期段留下的实际研究范围，不以1997-02局长起点创造党职开始。末端2001-03-29仅承接原查证节点；后续LOCAL-G05已覆盖至2003-03，不另造确定交接日或空缺。行政NBS-G03和刘洪局长career保持独立。"
+          }
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2000-06-01",
+            "end": "2000-07-01"
+          }
+        ],
+        "reason": "本人完整同岗原句明确到此月，当前该月未具名；来源与历史名称窗口已核，仅增加独立研究资料点，不补实际任期。"
+      }
+    },
+    {
+      "unit_id": "U000055",
+      "spell_uid": "RESEARCH-SOURCE-POINT-25a31a863571c07dcf76",
+      "person_id": "P002971",
+      "person_name": "秦大河",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-25a31a863571c07dcf76",
+        "kind": "year_hint",
+        "source_date": "2000",
+        "source_precision": "year",
+        "source_label": "2000年（月份未详；仅年度线索）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-1F2DE727DA04EB29467C2BF5"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00001544",
+            "unit_id": "U000055",
+            "post": "书记",
+            "start_date": "2000-01-01",
+            "start_prec": "day",
+            "end_date": "2000-11",
+            "end_prec": "month",
+            "gap_status": "researched_unknown",
+            "reason": "研究窗左边界至秦大河党职公开月未取得党组书记逐字来源",
+            "search_scope": "不复制局长名单。",
+            "evidence_ids": "",
+            "notes": "不复制局长名单。"
+          }
+        ],
+        "adopted_intervals": [],
+        "reason": "只载年份，不能证明该年任一具体月；已有同人同岗更细任职信息亦保留，不能将年度姓名提示扩成同年缺口的负责人。"
+      }
+    },
+    {
+      "unit_id": "U000063",
+      "spell_uid": "RESEARCH-SOURCE-POINT-e4b0144aa8b509d7c9e3",
+      "person_id": "P003483",
+      "person_name": "杨宇栋",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-e4b0144aa8b509d7c9e3",
+        "kind": "year_hint",
+        "source_date": "2016",
+        "source_precision": "year",
+        "source_label": "2016年（月份未详；仅年度线索）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "XE-C5CB9A2266A0FC71376A8A04"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00001800",
+            "unit_id": "U000063",
+            "post": "书记",
+            "start_date": "2016-09",
+            "start_prec": "month",
+            "end_date": "2016-12",
+            "end_prec": "month",
+            "gap_status": "researched_unknown",
+            "reason": "陆东福转任国铁正职至杨宇栋党职到任之间未检出党组书记任命",
+            "search_scope": "前轮说明（留历史）：粗精度区间保持原月精度，不补日；不推断代理或空缺。；本轮：起点按本人国家铁路局党职闭期9月，原10月是公司新职；仅记未查到期间正职/代理，不断言空缺。",
+            "evidence_ids": "",
+            "notes": "前轮说明（留历史）：粗精度区间保持原月精度，不补日；不推断代理或空缺。；本轮：起点按本人国家铁路局党职闭期9月，原10月是公司新职；仅记未查到期间正职/代理，不断言空缺。"
+          }
+        ],
+        "adopted_intervals": [],
+        "reason": "只载年份，不能证明该年任一具体月；已有同人同岗更细任职信息亦保留，不能将年度姓名提示扩成同年缺口的负责人。"
+      }
+    },
+    {
+      "unit_id": "U000063",
+      "spell_uid": "RESEARCH-SOURCE-POINT-768a27e37d5b4cfb798e",
+      "person_id": "P003483",
+      "person_name": "杨宇栋",
+      "post": "行政正职",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-768a27e37d5b4cfb798e",
+        "kind": "year_hint",
+        "source_date": "2016",
+        "source_precision": "year",
+        "source_label": "2016年（月份未详；仅年度线索）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "XE-C5CB9A2266A0FC71376A8A04"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00001804",
+            "unit_id": "U000063",
+            "post": "行政正职",
+            "start_date": "2016-10-16",
+            "start_prec": "day",
+            "end_date": "2016-12-11",
+            "end_prec": "day",
+            "gap_status": "researched_unknown",
+            "reason": "陆东福法定免职至杨宇栋任职月之间未检出局长任命",
+            "search_scope": "前轮说明（留历史）：杨宇栋公开材料只支持到月，不补具体任命日。；本轮：两端按各本人原公报10/16明免、12/11明任修正研究未知窗口；不推断代理或该段无人任职。",
+            "evidence_ids": "",
+            "notes": "前轮说明（留历史）：杨宇栋公开材料只支持到月，不补具体任命日。；本轮：两端按各本人原公报10/16明免、12/11明任修正研究未知窗口；不推断代理或该段无人任职。"
+          }
+        ],
+        "adopted_intervals": [],
+        "reason": "只载年份，不能证明该年任一具体月；已有同人同岗更细任职信息亦保留，不能将年度姓名提示扩成同年缺口的负责人。"
+      }
+    },
+    {
+      "unit_id": "U000113",
+      "spell_uid": "RESEARCH-PANEL-PANEL-CLUE-U000113-P006687-party-2015-10-2017-07",
+      "person_id": "P006687",
+      "person_name": "杨焕宁",
+      "post": "书记",
+      "registry": "source_period",
+      "original_actual_endpoints_untouched": true,
+      "source_period": {
+        "schema_version": "panel-source-period-v1",
+        "review_id": "SOURCE-PERIOD-PANEL-CLUE-U000113-P006687-party",
+        "clue_id": "PANEL-CLUE-U000113-P006687-party",
+        "source_window": {
+          "start": "2015-10",
+          "end": "2017-07",
+          "precision": "month"
+        },
+        "source_window_label": "2015-10—2017-07",
+        "guaranteed_month_window": {
+          "start": "2015-10",
+          "end_inclusive": "2017-07",
+          "calculation_only": true
+        },
+        "original_gap": {
+          "gap_id": "G00003408",
+          "unit_id": "U000113",
+          "post": "书记",
+          "start_date": "2015-08-26",
+          "start_prec": "day",
+          "end_date": "2017-10-01",
+          "end_prec": "day",
+          "gap_status": "researched_unknown",
+          "reason": "已补本人党组书记来源；本段为原日期精度边缘或新证据尚未覆盖的研究待核范围，不表示实际空缺。",
+          "search_scope": "approved-native-party-additions-20261006：从LOCAL-G23分割；日级值只定位研究缺口，未补作任何人的实际任免日。",
+          "evidence_ids": "",
+          "notes": "approved-native-party-additions-20261006：从LOCAL-G23分割；日级值只定位研究缺口，未补作任何人的实际任免日。"
+        },
+        "limiting_gap_ids": [
+          "G00003408~join-2015-09-01"
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2015-10-01",
+            "end": "2017-08-01"
+          }
+        ],
+        "source_ids": [
+          "PANEL-P006687-RESUME-STAGE",
+          "PANEL-YANG-ADMIN-DISMISSAL"
+        ],
+        "primary_source_id": "PANEL-P006687-RESUME-STAGE",
+        "primary_quote_sha256": "d909bb57a0268bb706fdba9083b4f7a0347bc476875a5fb0c8bf44138a51c75e",
+        "support_source_ids": [
+          "PANEL-P006687-RESUME-STAGE"
+        ],
+        "context_source_ids": [
+          "PANEL-YANG-ADMIN-DISMISSAL"
+        ],
+        "date_discrepancy": {
+          "field": "administrative_end",
+          "status": "different_resume_stage_and_legal_appointment_event_preserved",
+          "actual_end_selected": false,
+          "note": "履历复合阶段止于2017-07；另段明确2017-08免局长，岗位各自边界待核，未择定实际离任日。",
+          "resume_value": "2017-07",
+          "event_value": "2017-08"
+        },
+        "actual_endpoints_assigned": false,
+        "reason": "来源记载2015-10—2017-07，用于本机构本岗有界月份研究；实际到任、离任日期仍未知。本人同岗有界复合履历可支撑内部月份，保留7月履历与8月行政免职差异；不外推8月，不择定两岗实际任免。"
+      }
+    },
+    {
+      "unit_id": "U000113",
+      "spell_uid": "RESEARCH-PANEL-PANEL-CLUE-U000113-P006687-admin-2015-10-2017-07",
+      "person_id": "P006687",
+      "person_name": "杨焕宁",
+      "post": "行政正职",
+      "registry": "source_period",
+      "original_actual_endpoints_untouched": true,
+      "source_period": {
+        "schema_version": "panel-source-period-v1",
+        "review_id": "SOURCE-PERIOD-PANEL-CLUE-U000113-P006687-admin",
+        "clue_id": "PANEL-CLUE-U000113-P006687-admin",
+        "source_window": {
+          "start": "2015-10",
+          "end": "2017-07",
+          "precision": "month"
+        },
+        "source_window_label": "2015-10—2017-07",
+        "guaranteed_month_window": {
+          "start": "2015-10",
+          "end_inclusive": "2017-07",
+          "calculation_only": true
+        },
+        "original_gap": {
+          "gap_id": "G00003420",
+          "unit_id": "U000113",
+          "post": "行政正职",
+          "start_date": "2015-08-26",
+          "start_prec": "day",
+          "end_date": "2017-09-01",
+          "end_prec": "day",
+          "gap_status": "researched_unknown",
+          "reason": "本轮具名来源之外的剩余研究未知区间；不表示法定空缺，日期精度边缘仍待核。",
+          "search_scope": "legacy-local-backfill-2026-09-22；从原LOCAL-G04拆出，原整段作为superseded历史保留。",
+          "evidence_ids": "",
+          "notes": "legacy-local-backfill-2026-09-22；从原LOCAL-G04拆出，原整段作为superseded历史保留。"
+        },
+        "limiting_gap_ids": [
+          "G00003420~2015-09"
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2015-10-01",
+            "end": "2017-08-01"
+          }
+        ],
+        "source_ids": [
+          "PANEL-P006687-RESUME-STAGE",
+          "PANEL-YANG-ADMIN-DISMISSAL"
+        ],
+        "primary_source_id": "PANEL-P006687-RESUME-STAGE",
+        "primary_quote_sha256": "d909bb57a0268bb706fdba9083b4f7a0347bc476875a5fb0c8bf44138a51c75e",
+        "support_source_ids": [
+          "PANEL-P006687-RESUME-STAGE"
+        ],
+        "context_source_ids": [
+          "PANEL-YANG-ADMIN-DISMISSAL"
+        ],
+        "date_discrepancy": {
+          "field": "administrative_end",
+          "status": "different_resume_stage_and_legal_appointment_event_preserved",
+          "actual_end_selected": false,
+          "note": "履历复合阶段止于2017-07；另段明确2017-08免局长，岗位各自边界待核，未择定实际离任日。",
+          "resume_value": "2017-07",
+          "event_value": "2017-08"
+        },
+        "actual_endpoints_assigned": false,
+        "reason": "来源记载2015-10—2017-07，用于本机构本岗有界月份研究；实际到任、离任日期仍未知。本人同岗有界复合履历可支撑内部月份，保留7月履历与8月行政免职差异；不外推8月，不择定两岗实际任免。"
+      }
+    },
+    {
+      "unit_id": "U000113",
+      "spell_uid": "RESEARCH-PANEL-PANEL-CLUE-U000113-P003866-party-2001-02-2002-05",
+      "person_id": "P003866",
+      "person_name": "张宝明",
+      "post": "书记",
+      "registry": "source_period",
+      "original_actual_endpoints_untouched": true,
+      "source_period": {
+        "schema_version": "panel-source-period-v1",
+        "review_id": "SOURCE-PERIOD-PANEL-CLUE-U000113-P003866-party",
+        "clue_id": "PANEL-CLUE-U000113-P003866-party",
+        "source_window": {
+          "start": "2001-02",
+          "end": "2002-05",
+          "precision": "month"
+        },
+        "source_window_label": "2001-02—2002-05",
+        "guaranteed_month_window": {
+          "start": "2001-02",
+          "end_inclusive": "2002-05",
+          "calculation_only": true
+        },
+        "original_gap": {
+          "gap_id": "G00003404",
+          "unit_id": "U000113",
+          "post": "书记",
+          "start_date": "2001-01-01",
+          "start_prec": "day",
+          "end_date": "2005-03-01",
+          "end_prec": "day",
+          "gap_status": "researched_unknown",
+          "reason": "已补本人党组书记来源；本段为原日期精度边缘或新证据尚未覆盖的研究待核范围，不表示实际空缺。",
+          "search_scope": "approved-native-party-additions-20261006：从LOCAL-G22分割；日级值只定位研究缺口，未补作任何人的实际任免日。",
+          "evidence_ids": "",
+          "notes": "approved-native-party-additions-20261006：从LOCAL-G22分割；日级值只定位研究缺口，未补作任何人的实际任免日。"
+        },
+        "limiting_gap_ids": [
+          "G00003404~join-2001-01-01"
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2001-02-01",
+            "end": "2002-06-01"
+          }
+        ],
+        "source_ids": [
+          "PANEL-P003866-RESUME-STAGE"
+        ],
+        "primary_source_id": "PANEL-P003866-RESUME-STAGE",
+        "primary_quote_sha256": "bfbb5f5353be881a5a1e9a32846f9772976b6db6989983cdb668e8ee9b2c2521",
+        "support_source_ids": [
+          "PANEL-P003866-RESUME-STAGE"
+        ],
+        "context_source_ids": [],
+        "date_discrepancy": {
+          "field": "individual_role_dates",
+          "status": "individual_boundaries_not_independently_confirmed",
+          "actual_end_selected": false,
+          "note": "来源明确使用旧国家安全生产监督管理局名称，限于U113既有2001至2005-02前身阶段；复合局长、党组书记材料不证明两岗实际任免边界相同。"
+        },
+        "actual_endpoints_assigned": false,
+        "reason": "来源记载2001-02—2002-05，用于本机构本岗有界月份研究；实际到任、离任日期仍未知。原文明确旧国家安监局局长、党组书记的同一有界阶段；仅此历史名称段，不借煤监或后任资料，不因后文不提职推离任。"
+      }
+    },
+    {
+      "unit_id": "U000113",
+      "spell_uid": "RESEARCH-PANEL-PANEL-CLUE-U000113-P003866-admin-2001-02-2002-04",
+      "person_id": "P003866",
+      "person_name": "张宝明",
+      "post": "行政正职",
+      "registry": "source_period",
+      "original_actual_endpoints_untouched": true,
+      "source_period": {
+        "schema_version": "panel-source-period-v1",
+        "review_id": "SOURCE-PERIOD-PANEL-CLUE-U000113-P003866-admin",
+        "clue_id": "PANEL-CLUE-U000113-P003866-admin",
+        "source_window": {
+          "start": "2001-02",
+          "end": "2002-05",
+          "precision": "month"
+        },
+        "source_window_label": "2001-02—2002-05",
+        "guaranteed_month_window": {
+          "start": "2001-02",
+          "end_inclusive": "2002-05",
+          "calculation_only": true
+        },
+        "original_gap": {
+          "gap_id": "G00003401",
+          "unit_id": "U000113",
+          "post": "行政正职",
+          "start_date": "2001-01-01",
+          "start_prec": "day",
+          "end_date": "2002-05-01",
+          "end_prec": "day",
+          "gap_status": "researched_unknown",
+          "reason": "2001组建后至王显政来源所载2002年5月月份下界，尚未补足具名行政首长来源。",
+          "search_scope": "此日是缺口计算的月精度边界，不声称王显政5月1日获任；迁入S00003941的原任职日期2002-05保持月精度。原2002-05至2005-02未知覆盖由已存在具名原始记录纠正，不是新造N/A。",
+          "evidence_ids": "",
+          "notes": "此日是缺口计算的月精度边界，不声称王显政5月1日获任；迁入S00003941的原任职日期2002-05保持月精度。原2002-05至2005-02未知覆盖由已存在具名原始记录纠正，不是新造N/A。"
+        },
+        "limiting_gap_ids": [
+          "G00003401"
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2001-02-01",
+            "end": "2002-05-01"
+          }
+        ],
+        "source_ids": [
+          "PANEL-P003866-RESUME-STAGE"
+        ],
+        "primary_source_id": "PANEL-P003866-RESUME-STAGE",
+        "primary_quote_sha256": "bfbb5f5353be881a5a1e9a32846f9772976b6db6989983cdb668e8ee9b2c2521",
+        "support_source_ids": [
+          "PANEL-P003866-RESUME-STAGE"
+        ],
+        "context_source_ids": [],
+        "date_discrepancy": {
+          "field": "individual_role_dates",
+          "status": "individual_boundaries_not_independently_confirmed",
+          "actual_end_selected": false,
+          "note": "来源明确使用旧国家安全生产监督管理局名称，限于U113既有2001至2005-02前身阶段；复合局长、党组书记材料不证明两岗实际任免边界相同。"
+        },
+        "actual_endpoints_assigned": false,
+        "reason": "来源记载2001-02—2002-05，用于本机构本岗有界月份研究；实际到任、离任日期仍未知。原文明确旧国家安监局局长、党组书记的同一有界阶段；仅此历史名称段，不借煤监或后任资料，不因后文不提职推离任。"
+      }
+    },
+    {
+      "unit_id": "U000129",
+      "spell_uid": "RESEARCH-PANEL-PANEL-CLUE-U000129-P007707-party-2005-12-2008-01",
+      "person_id": "P007707",
+      "person_name": "鹿心社",
+      "post": "书记",
+      "registry": "source_period",
+      "original_actual_endpoints_untouched": true,
+      "source_period": {
+        "schema_version": "panel-source-period-v1",
+        "review_id": "SOURCE-PERIOD-PANEL-CLUE-U000129-P007707-party",
+        "clue_id": "PANEL-CLUE-U000129-P007707-party",
+        "source_window": {
+          "start": "2005",
+          "end": "2008",
+          "precision": "year"
+        },
+        "source_window_label": "2005—2008年（月份未详）",
+        "guaranteed_month_window": {
+          "start": "2005-12",
+          "end_inclusive": "2008-01",
+          "calculation_only": true
+        },
+        "original_gap": {
+          "gap_id": "G00003916",
+          "unit_id": "U000129",
+          "post": "书记",
+          "start_date": "2005-11",
+          "start_prec": "month",
+          "end_date": "2018-04-01",
+          "end_prec": "day",
+          "gap_status": "researched_unknown",
+          "reason": "陈邦柱本人履历只覆盖2000-01—2005-11；此后党组书记仍待研究。本项不补鹿心社、徐德明或其他后继者，不因行政任期推定党职。",
+          "search_scope": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。",
+          "evidence_ids": "",
+          "notes": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。"
+        },
+        "limiting_gap_ids": [
+          "G00003916~2005-12"
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2005-12-01",
+            "end": "2008-02-01"
+          }
+        ],
+        "source_ids": [
+          "PANEL-P007707-RESUME-STAGE"
+        ],
+        "primary_source_id": "PANEL-P007707-RESUME-STAGE",
+        "primary_quote_sha256": "b284b8cbe71dfd1895c62e37b284e2d31b06e9e631aeb66faf76701988f09479",
+        "support_source_ids": [
+          "PANEL-P007707-RESUME-STAGE"
+        ],
+        "context_source_ids": [],
+        "date_discrepancy": {
+          "field": "individual_role_dates",
+          "status": "individual_boundaries_not_independently_confirmed",
+          "actual_end_selected": false,
+          "note": "原文括号2005至2008年紧随国家测绘局局长、党组书记；保留年精度，具体月份未详。不借国土资源部副部长、党组副书记的1999至2009等阶段，不把姓名线索扩展到缺口2009至2018尾段。"
+        },
+        "actual_endpoints_assigned": false,
+        "reason": "来源记载2005—2008年（月份未详），用于本机构本岗有界月份研究；实际到任、离任日期仍未知。本岗括注2005—2008年，单列原年精度，仅采用所有合法起止日期共同保证触及的月份，不借国土资源部父阶段或行政局长任免月。"
+      }
+    },
+    {
+      "unit_id": "U000129",
+      "spell_uid": "RESEARCH-SOURCE-POINT-343241223cb43a7fe752",
+      "person_id": "P007708",
+      "person_name": "徐德明",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-343241223cb43a7fe752",
+        "kind": "point_month",
+        "source_date": "2011-05",
+        "source_precision": "month",
+        "source_label": "2011-05（原文在任月份，终点未知）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-0948AE53103D4F05D2DBFD38"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00003916",
+            "unit_id": "U000129",
+            "post": "书记",
+            "start_date": "2005-11",
+            "start_prec": "month",
+            "end_date": "2018-04-01",
+            "end_prec": "day",
+            "gap_status": "researched_unknown",
+            "reason": "陈邦柱本人履历只覆盖2000-01—2005-11；此后党组书记仍待研究。本项不补鹿心社、徐德明或其他后继者，不因行政任期推定党职。",
+            "search_scope": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。",
+            "evidence_ids": "",
+            "notes": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。"
+          }
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2011-05-01",
+            "end": "2011-06-01"
+          }
+        ],
+        "reason": "本人完整同岗原句明确到此月，当前该月未具名；来源与历史名称窗口已核，仅增加独立研究资料点，不补实际任期。"
+      }
+    },
+    {
+      "unit_id": "U000129",
+      "spell_uid": "RESEARCH-SOURCE-POINT-293eb96a02961a17514b",
+      "person_id": "P007708",
+      "person_name": "徐德明",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-293eb96a02961a17514b",
+        "kind": "point_month",
+        "source_date": "2012-03",
+        "source_precision": "month",
+        "source_label": "2012-03（原文在任月份，终点未知）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-8A8707A03592D1D5900C8DA5"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00003916",
+            "unit_id": "U000129",
+            "post": "书记",
+            "start_date": "2005-11",
+            "start_prec": "month",
+            "end_date": "2018-04-01",
+            "end_prec": "day",
+            "gap_status": "researched_unknown",
+            "reason": "陈邦柱本人履历只覆盖2000-01—2005-11；此后党组书记仍待研究。本项不补鹿心社、徐德明或其他后继者，不因行政任期推定党职。",
+            "search_scope": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。",
+            "evidence_ids": "",
+            "notes": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。"
+          }
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2012-03-01",
+            "end": "2012-04-01"
+          }
+        ],
+        "reason": "本人完整同岗原句明确到此月，当前该月未具名；来源与历史名称窗口已核，仅增加独立研究资料点，不补实际任期。"
+      }
+    },
+    {
+      "unit_id": "U000129",
+      "spell_uid": "RESEARCH-SOURCE-POINT-3bd1914485e96fb97451",
+      "person_id": "P007708",
+      "person_name": "徐德明",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-3bd1914485e96fb97451",
+        "kind": "point_month",
+        "source_date": "2008-10",
+        "source_precision": "month",
+        "source_label": "2008-10（原文在任月份，终点未知）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-9388C0BA076F20E584669B66"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00003916",
+            "unit_id": "U000129",
+            "post": "书记",
+            "start_date": "2005-11",
+            "start_prec": "month",
+            "end_date": "2018-04-01",
+            "end_prec": "day",
+            "gap_status": "researched_unknown",
+            "reason": "陈邦柱本人履历只覆盖2000-01—2005-11；此后党组书记仍待研究。本项不补鹿心社、徐德明或其他后继者，不因行政任期推定党职。",
+            "search_scope": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。",
+            "evidence_ids": "",
+            "notes": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。"
+          }
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2008-10-01",
+            "end": "2008-11-01"
+          }
+        ],
+        "reason": "本人完整同岗原句明确到此月，当前该月未具名；来源与历史名称窗口已核，仅增加独立研究资料点，不补实际任期。"
+      }
+    },
+    {
+      "unit_id": "U000129",
+      "spell_uid": "RESEARCH-SOURCE-POINT-ed567ad62a212b2e1da8",
+      "person_id": "P007709",
+      "person_name": "库热西·买合苏提",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-ed567ad62a212b2e1da8",
+        "kind": "point_month",
+        "source_date": "2014-03",
+        "source_precision": "month",
+        "source_label": "2014-03（原文在任月份，终点未知）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-A094DECF11FF849FEA0FE46B",
+          "XE-493BDED60FB8556E2C65B8A4"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00003916",
+            "unit_id": "U000129",
+            "post": "书记",
+            "start_date": "2005-11",
+            "start_prec": "month",
+            "end_date": "2018-04-01",
+            "end_prec": "day",
+            "gap_status": "researched_unknown",
+            "reason": "陈邦柱本人履历只覆盖2000-01—2005-11；此后党组书记仍待研究。本项不补鹿心社、徐德明或其他后继者，不因行政任期推定党职。",
+            "search_scope": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。",
+            "evidence_ids": "",
+            "notes": "approved-i10-i11-i18-20261006；显式不确定范围，不表示职位空缺。"
+          }
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2014-03-01",
+            "end": "2014-04-01"
+          }
+        ],
+        "reason": "本人完整同岗原句明确到此月，当前该月未具名；来源与历史名称窗口已核，仅增加独立研究资料点，不补实际任期。"
+      }
+    },
+    {
+      "unit_id": "U000134",
+      "spell_uid": "RESEARCH-SOURCE-POINT-743986ddcce52009395c",
+      "person_id": "P008026",
+      "person_name": "张国宝",
+      "post": "书记",
+      "registry": "source_point",
+      "original_actual_endpoints_untouched": true,
+      "source_point": {
+        "review_id": "SOURCE-POINT-743986ddcce52009395c",
+        "kind": "point_month",
+        "source_date": "2008-03",
+        "source_precision": "month",
+        "source_label": "2008-03（原文在任月份，终点未知）",
+        "original_end": null,
+        "actual_endpoints_assigned": false,
+        "source_ids": [
+          "BAKE-E-809DE89928665276B5FCB3DB"
+        ],
+        "original_gaps": [
+          {
+            "gap_id": "G00004075",
+            "unit_id": "U000134",
+            "post": "书记",
+            "start_date": "2008-03-01",
+            "start_prec": "day",
+            "end_date": "2011-01-01",
+            "end_prec": "day",
+            "gap_status": "researched_unknown",
+            "reason": "已补本人党组书记来源；本段为原日期精度边缘或新证据尚未覆盖的研究待核范围，不表示实际空缺。",
+            "search_scope": "approved-native-party-additions-20261006：从LOCAL-G01分割；日级值只定位研究缺口，未补作任何人的实际任免日。",
+            "evidence_ids": "",
+            "notes": "approved-native-party-additions-20261006：从LOCAL-G01分割；日级值只定位研究缺口，未补作任何人的实际任免日。"
+          }
+        ],
+        "adopted_intervals": [
+          {
+            "start": "2008-03-01",
+            "end": "2008-04-01"
+          }
+        ],
+        "reason": "本人完整同岗原句明确到此月，当前该月未具名；来源与历史名称窗口已核，仅增加独立研究资料点，不补实际任期。"
+      }
+    }
+  ],
+  "panel_research_source_validation": {
+    "passed": true,
+    "summary": {
+      "generated_resume_records": 633,
+      "adopted_resume_records": 633,
+      "declined_resume_records": 10,
+      "source_research_expected": 13,
+      "source_research_applied": 13,
+      "runtime_units": 131,
+      "runtime_spells": 946,
+      "original_office_spells": 931,
+      "panel_source_period_rows": 6,
+      "panel_source_period_new_named_months": 102,
+      "panel_point_month_records": 6,
+      "panel_year_name_hints": 3,
+      "panel_point_new_named_months": 6,
+      "gazette_start_corrections": 3,
+      "verified_month_supplements": 93,
+      "effective_month_supplements": 93,
+      "panel_name_clues_expected": 6,
+      "panel_name_clues_active": 6,
+      "runtime_gaps": 114
+    }
+  },
+  "checks": [],
+  "archived_units": [
+    {
+      "unit_id": "U000133",
+      "unit_name": "国家煤矿安全监察局",
+      "record_status": "superseded",
+      "office_spell_count": 0,
+      "canonical_unit_id": "U000069"
+    }
+  ],
+  "rendered": {
+    "requested": false,
+    "base_url": "http://127.0.0.1:4197",
+    "checked_pages": 0,
+    "errors": [],
+    "pages": []
+  }
+}
