@@ -1,12 +1,12 @@
 {
   "../../../../node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "ministry-officials/_next/static/chunks/layout-segment-context-BneH0G1l.js",
+    "file": "ministry-officials/_next/static/chunks/layout-segment-context-B6Bx2PQ3.js",
     "name": "layout-segment-context",
     "src": "../../../../node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_vinext-VsRdaL9N.js",
+      "_vinext-BLARwgGo.js",
       "_framework-JGc2HF7T.js"
     ]
   },
@@ -41,15 +41,15 @@
     "file": "ministry-officials/_next/static/chunks/standard-library-Q2Js34xj.js",
     "name": "standard-library"
   },
-  "_vinext-VsRdaL9N.js": {
-    "file": "ministry-officials/_next/static/chunks/vinext-VsRdaL9N.js",
+  "_vinext-BLARwgGo.js": {
+    "file": "ministry-officials/_next/static/chunks/vinext-BLARwgGo.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-JGc2HF7T.js"
     ],
     "dynamicImports": [
-      "_vinext-VsRdaL9N.js"
+      "_vinext-BLARwgGo.js"
     ]
   },
   "app/components/BaikeResumeDirectory.tsx": {
@@ -73,6 +73,16 @@
       "_framework-JGc2HF7T.js",
       "_data-BhJChN8i.js",
       "_publication-url-B3CbO6nn.js"
+    ]
+  },
+  "app/components/DownloadPasswordGate.tsx": {
+    "file": "ministry-officials/_next/static/chunks/DownloadPasswordGate-noBCdW5l.js",
+    "name": "DownloadPasswordGate",
+    "src": "app/components/DownloadPasswordGate.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-JGc2HF7T.js"
     ]
   },
   "app/components/DraftTriage.tsx": {
@@ -170,20 +180,21 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "ministry-officials/_next/static/chunks/index-BaIM4Zm7.js",
+    "file": "ministry-officials/_next/static/chunks/index-DA_dEndD.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_vinext-VsRdaL9N.js",
+      "_vinext-BLARwgGo.js",
       "_framework-JGc2HF7T.js"
     ],
     "dynamicImports": [
-      "_vinext-VsRdaL9N.js",
+      "_vinext-BLARwgGo.js",
       "app/components/DraftTriage.tsx",
       "app/components/UnitExplorer.tsx",
       "app/components/StandardLibrary.tsx",
+      "app/components/DownloadPasswordGate.tsx",
       "app/components/InferredOfficeManager.tsx",
       "../../../../node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/RankLibraryDownload.tsx",
